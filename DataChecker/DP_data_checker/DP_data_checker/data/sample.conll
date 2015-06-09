@@ -1,0 +1,81 @@
+1	Zrkadlo	zrkadlo	S	SSns1	2	ExD
+2	,	,	Z	Z	0	Coord
+3	zrkadlo	zrkadlo	S	SSns1	2	ExD
+
+1	Zrkadlo	zrkadlo	S	SSns1	2	ExD
+2	,	,	Z	Z	4	Coord
+3	zrkadlo	zrkadlo	S	SSns1	2	ExD
+4	povedzže	povedzže	V	VMdsb+	0	Pred
+5	mi	ja	P	PPhs3	4	Obj
+6	,	,	Z	Z	8	AuxX
+7	ktože	ktože	P	PFms1	8	Sb
+8	je	byť	V	VKesc+	4	Obj
+9	najkrajší	pekný	A	AAms1z	8	Pnom
+10	v	v	E	Eu6	8	AuxP
+11	našej	náš	P	PFfs6	12	Atr
+12	zemi	zem	S	SSfs6	10	Adv
+13	?	?	Z	Z	0	AuxK
+
+1	A	a	O	O	0	Coord
+2	nehovor	nehovoriť	V	VMesb-	10	Pred
+3	,	,	Z	Z	4	AuxX
+4	že	že	O	O	2	AuxC
+5	Snehulienka	snehulienka	S	SSfs1:r	6	Sb
+6	je	byť	V	VKesc+	4	Obj
+7	to	to	P	PFns1	6	Pnom
+8	zase	zase	D	Dx	6	Adv
+9	,	,	Z	Z	10	AuxX
+10	veď	veď	O	O	1	Coord
+11	pri	pri	E	Eu6	17	AuxP
+12	pohľade	pohľad	S	SSis6	11	Adv
+13	na	na	E	Eu4	12	AuxP
+14	ňu	ona	P	PFfs4	13	Atr
+15	ma	ja	P	PPhs4	17	Obj
+16	až	až	T	T	17	AuxZ
+17	strasie	striasť	V	VKdsc+	10	Pred
+18	!	!	Z	Z	0	AuxK
+
+1	Jej	jej	P	PUis1	2	Atr
+2	úsmev	úsmev	S	SSis1	5	Sb
+3	sa	sa	R	R	5	AuxT
+4	môjmu	môj	P	PFis3	5	ExD
+5	nevyrovná	nevyrovnať	V	VKdsc-	7	Pred
+6	krásou	krása	S	SSfs7	5	Adv
+7	,	,	Z	Z	0	Coord
+8	kam	kam	P	PD	10	Adv
+9	sa	sa	R	R	10	AuxT
+10	podel	podieť	V	VLdsci+	7	Pred
+11	čierny	čierny	A	AAis1x	12	Atr
+12	lesk	lesk	S	SSis1	10	Sb
+13	jej	jej	P	PUip2	14	Atr
+14	vlasov	vlas	S	SSip2	12	Atr
+15	?	?	Z	Z	0	AuxK
+
+1	Nosí	nosiť	V	VKesc+	8	Pred
+2	otrhaný	otrhaný	A	AAis4x	3	Atr
+3	šat	šat	S	SSis4	4	Obj
+4	a	a	O	O	1	Coord
+5	smútok	smútok	S	SSis4	4	Obj
+6	v	v	E	Eu6	5	AuxP
+7	duši	duša	S	SSfs6	6	Atr
+8	,	,	Z	Z	0	Coord
+9	vari	vari	T	T	15	AuxY
+10	aj	aj	T	T	11	AuxZ
+11	napriek	napriek	E	Eu3	15	AuxP
+12	tomu	to	P	PFns3	11	Adv
+13	jej	ona	P	PFfs3	15	Obj
+14	to	to	P	PFns1	15	Sb
+15	sluší	slušať	V	VKesc+	8	Pred
+16	?	?	Z	Z	0	AuxK
+
+1	Snehulienka	snehulienka	S	SSfs1:r	0	ExD
+2	,	,	Z	Z	0	ExD
+3	pche	pche	J	J	0	ExD
+4	!	!	Z	Z	0	AuxK
+
+1	To	to	P	PFns1	2	Atr
+2	dievča	dievča	S	SSns1	0	ExD
+3	do	do	E	Eu2	2	AuxP
+4	kuchyne	kuchyňa	S	SSfs2	3	Atr
+5	!	!	Z	Z	0	AuxK
+

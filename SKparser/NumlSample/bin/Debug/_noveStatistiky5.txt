@@ -1,0 +1,5 @@
+LAS: 48.04 %
+UAS: 59.84 %
+LA: 58.06 %
+
+berieme do uvahy aj correct deprel, aj zle predikovany deprel

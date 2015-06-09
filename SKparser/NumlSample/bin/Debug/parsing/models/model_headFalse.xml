@@ -1,0 +1,1288 @@
+<?xml version="1.0"?>
+<DecisionTreeModel Hint="-1">
+  <Descriptor Type="TokenHead" Name="">
+    <Features Length="23">
+      <StringProperty Name="Cpostag" Type="String" Discrete="True" Start="0" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="18">
+          <item>O</item>
+          <item>V</item>
+          <item>Z</item>
+          <item>S</item>
+          <item>P</item>
+          <item>D</item>
+          <item>E</item>
+          <item>T</item>
+          <item>A</item>
+          <item>R</item>
+          <item>#NUM#</item>
+          <item>W</item>
+          <item>N</item>
+          <item>G</item>
+          <item>Q</item>
+          <item>#SYM#</item>
+          <item>Y</item>
+          <item>J</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="Postag" Type="String" Discrete="True" Start="18" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="544">
+          <item>O</item>
+          <item>VMESB</item>
+          <item>Z</item>
+          <item>SSFS1R</item>
+          <item>VKESC</item>
+          <item>PFNS1</item>
+          <item>DX</item>
+          <item>EU6</item>
+          <item>SSIS6</item>
+          <item>EU4</item>
+          <item>PFFS4</item>
+          <item>PPHS4</item>
+          <item>T</item>
+          <item>VKDSC</item>
+          <item>VKESB</item>
+          <item>SSMS5R</item>
+          <item>VLDSCM</item>
+          <item>PFMS3</item>
+          <item>SSMS3</item>
+          <item>PPHS3</item>
+          <item>PD</item>
+          <item>VKDPB</item>
+          <item>PFFP4</item>
+          <item>AAFP4X</item>
+          <item>SSFP4</item>
+          <item>PFNS2</item>
+          <item>R</item>
+          <item>VLEPCF</item>
+          <item>SSFS4R</item>
+          <item>EV7</item>
+          <item>AAIS7X</item>
+          <item>SSIS7</item>
+          <item>AAFS6X</item>
+          <item>SSFS6</item>
+          <item>EU7</item>
+          <item>PFMP7</item>
+          <item>VLESCF</item>
+          <item>SSFS1</item>
+          <item>AAIP2X</item>
+          <item>SSIP2</item>
+          <item>VLESCN</item>
+          <item>SSNS1</item>
+          <item>AANS1X</item>
+          <item>SSIS4</item>
+          <item>#NUM#</item>
+          <item>ZIP</item>
+          <item>W</item>
+          <item>AAFS1X</item>
+          <item>EU2</item>
+          <item>SSIS2</item>
+          <item>AAIS2X</item>
+          <item>EU3</item>
+          <item>SSFS3</item>
+          <item>SSMS2R</item>
+          <item>SSIS2R</item>
+          <item>SSMP7</item>
+          <item>NUNS1</item>
+          <item>PAMP2</item>
+          <item>VKEPC</item>
+          <item>PAMP1</item>
+          <item>VKDPC</item>
+          <item>SSNS4R</item>
+          <item>SSMP1</item>
+          <item>SSNP2</item>
+          <item>AANP2X</item>
+          <item>VLDSCI</item>
+          <item>SSIS1</item>
+          <item>SSFS2</item>
+          <item>VID</item>
+          <item>SSFP2</item>
+          <item>AAFP2Y</item>
+          <item>VKESA</item>
+          <item>PPHP3</item>
+          <item>PAFS6</item>
+          <item>AAFP4Y</item>
+          <item>VKDPA</item>
+          <item>AAIS1X</item>
+          <item>VLESCI</item>
+          <item>PPHS1</item>
+          <item>OY</item>
+          <item>NANS1</item>
+          <item>PFIS6</item>
+          <item>AAMS1X</item>
+          <item>PUIP7</item>
+          <item>SSIP7</item>
+          <item>VBESA</item>
+          <item>PUNS4</item>
+          <item>VLDSCF</item>
+          <item>SSMS4</item>
+          <item>VLDPCM</item>
+          <item>GTIS4X</item>
+          <item>VMDSB</item>
+          <item>SSMS1R</item>
+          <item>PAIS1</item>
+          <item>PANS1</item>
+          <item>PFMP1</item>
+          <item>VLEPCM</item>
+          <item>AAIS4X</item>
+          <item>VLJPCM</item>
+          <item>NUNS4</item>
+          <item>SSMS1</item>
+          <item>SSIP1</item>
+          <item>VLESBM</item>
+          <item>VKEPA</item>
+          <item>DY</item>
+          <item>NSIS4</item>
+          <item>VBESC</item>
+          <item>VIE</item>
+          <item>SSFS4</item>
+          <item>GTFS4X</item>
+          <item>EV6</item>
+          <item>SSNS6</item>
+          <item>AANS6X</item>
+          <item>PAFS1</item>
+          <item>SSFS7</item>
+          <item>PFMS2</item>
+          <item>GTFS1X</item>
+          <item>PFMS7</item>
+          <item>VMDPB</item>
+          <item>PFFS3</item>
+          <item>PFNS6</item>
+          <item>PFFS1</item>
+          <item>AAFS7X</item>
+          <item>AAFS4X</item>
+          <item>PFFS6</item>
+          <item>VLESCM</item>
+          <item>SSNS2</item>
+          <item>NNFP4</item>
+          <item>PFFS2</item>
+          <item>VLDSCN</item>
+          <item>PFFS7</item>
+          <item>AFFS1XR</item>
+          <item>Q</item>
+          <item>VLJSAM</item>
+          <item>SAMS1</item>
+          <item>#SYM#</item>
+          <item>AAFS2X</item>
+          <item>PFMS4</item>
+          <item>NNIP4</item>
+          <item>SSIP4</item>
+          <item>SSMS2</item>
+          <item>AAMS2X</item>
+          <item>PAIS4</item>
+          <item>SSMP2</item>
+          <item>PUFS1</item>
+          <item>SSFS2R</item>
+          <item>AAIP1X</item>
+          <item>PFMP4</item>
+          <item>SSFP6</item>
+          <item>AAFP6X</item>
+          <item>PUIS7</item>
+          <item>SSFP1</item>
+          <item>AAMP2X</item>
+          <item>VBEPA</item>
+          <item>PFNS4</item>
+          <item>PFMS1</item>
+          <item>SSMP4</item>
+          <item>SSNS4</item>
+          <item>VLDPCI</item>
+          <item>PFIP1</item>
+          <item>TY</item>
+          <item>NNIP1</item>
+          <item>PAIP4</item>
+          <item>VLDPAH</item>
+          <item>PAFS4</item>
+          <item>AAFP2X</item>
+          <item>NFMS2</item>
+          <item>NAMS2</item>
+          <item>PUFS7</item>
+          <item>GTFS7X</item>
+          <item>AAIP7X</item>
+          <item>VLESAM</item>
+          <item>Y</item>
+          <item>VBESB</item>
+          <item>PFIS4</item>
+          <item>PUNS1</item>
+          <item>SSIP2R</item>
+          <item>PFIS2</item>
+          <item>AAIP4Z</item>
+          <item>GTIS1X</item>
+          <item>NAIS6</item>
+          <item>EV3</item>
+          <item>SSIP3</item>
+          <item>AAIP3X</item>
+          <item>PFIP3</item>
+          <item>SSNS3</item>
+          <item>VLEPBH</item>
+          <item>VKEPB</item>
+          <item>PFMP6</item>
+          <item>SSIP6</item>
+          <item>NNIP6</item>
+          <item>GKFS6X</item>
+          <item>PAFS2</item>
+          <item>GTIS7X</item>
+          <item>SSNP4</item>
+          <item>PFNP4</item>
+          <item>PUMP1</item>
+          <item>SSIS4R</item>
+          <item>SSNP7</item>
+          <item>GTNP7X</item>
+          <item>PFIS1</item>
+          <item>PUFS6</item>
+          <item>PUIS1</item>
+          <item>VKDSA</item>
+          <item>VBEPC</item>
+          <item>SAMP1</item>
+          <item>SSFS7R</item>
+          <item>VLDPCF</item>
+          <item>PAIP6</item>
+          <item>AAMP1X</item>
+          <item>J</item>
+          <item>GKFS4X</item>
+          <item>GTIP2X</item>
+          <item>AANP4X</item>
+          <item>PFIP6</item>
+          <item>NAFP6</item>
+          <item>AAFS1XR</item>
+          <item>AANS4X</item>
+          <item>AAIP7Y</item>
+          <item>PPHS6</item>
+          <item>NAFS2</item>
+          <item>GTIS2X</item>
+          <item>NFFP4</item>
+          <item>PPHS2</item>
+          <item>NANS2</item>
+          <item>PUIS2</item>
+          <item>AFFS6XR</item>
+          <item>GTFP2X</item>
+          <item>NNNS1</item>
+          <item>GTFP1X</item>
+          <item>NFFS1</item>
+          <item>PAIS7</item>
+          <item>AAFP7X</item>
+          <item>SSFP7</item>
+          <item>SSNS6R</item>
+          <item>GTMS1X</item>
+          <item>SSNS7</item>
+          <item>GTFS2X</item>
+          <item>SSMP3</item>
+          <item>SAMP2</item>
+          <item>AAFS11</item>
+          <item>NNFS1</item>
+          <item>RR7</item>
+          <item>PFIS3</item>
+          <item>AANS2X</item>
+          <item>SSNS2R</item>
+          <item>NAIP2</item>
+          <item>NFIS4</item>
+          <item>PANS6</item>
+          <item>PFNS3</item>
+          <item>SFMS1R</item>
+          <item>GKMP4X</item>
+          <item>VMJSB</item>
+          <item>AAIS6X</item>
+          <item>GTNS1X</item>
+          <item>SSFP3</item>
+          <item>SUFS4R</item>
+          <item>VLDSAF</item>
+          <item>VLESAF</item>
+          <item>DZ</item>
+          <item>PANP4</item>
+          <item>PFIP4</item>
+          <item>GTIP4X</item>
+          <item>SSMS7</item>
+          <item>PPHP2</item>
+          <item>SSMS6R</item>
+          <item>SUFS1R</item>
+          <item>VLDSBF</item>
+          <item>NNMP4</item>
+          <item>VKDSB</item>
+          <item>AUFS1X</item>
+          <item>VKJSC</item>
+          <item>PUNS6</item>
+          <item>NAIS4</item>
+          <item>SSMP1R</item>
+          <item>SSNS1R</item>
+          <item>SSIS1R</item>
+          <item>AANS6Y</item>
+          <item>PAMP4</item>
+          <item>NNFP6</item>
+          <item>AANS6XR</item>
+          <item>NAIS1</item>
+          <item>SUNS1R</item>
+          <item>SSIS3</item>
+          <item>EV2</item>
+          <item>AAIS2XR</item>
+          <item>PFIS7</item>
+          <item>SSMS3R</item>
+          <item>PUIS6</item>
+          <item>PFIP2</item>
+          <item>PANS4</item>
+          <item>PFMP2</item>
+          <item>GTMP1X</item>
+          <item>AAMP1Y</item>
+          <item>PAIS2</item>
+          <item>GKIP1X</item>
+          <item>PAIP1</item>
+          <item>GTIP1X</item>
+          <item>VLEPCI</item>
+          <item>AAFP4XR</item>
+          <item>AFFP2XR</item>
+          <item>SSMS7R</item>
+          <item>AAMS7XR</item>
+          <item>GTMS6XR</item>
+          <item>PAIS6</item>
+          <item>AAIS1Z</item>
+          <item>PAFP2</item>
+          <item>AAFS1Y</item>
+          <item>ND</item>
+          <item>VLDSAM</item>
+          <item>SAMP3</item>
+          <item>AFIS4XR</item>
+          <item>GTFP7X</item>
+          <item>AFNS4XR</item>
+          <item>GTIS6X</item>
+          <item>AAIP1Y</item>
+          <item>NFIS7</item>
+          <item>PFMP3</item>
+          <item>PAMS3</item>
+          <item>AFIS1XR</item>
+          <item>VLEPCO</item>
+          <item>SFMS4R</item>
+          <item>PAFP6</item>
+          <item>PPHS7</item>
+          <item>NFNS1</item>
+          <item>PFFP1</item>
+          <item>NAMS4</item>
+          <item>PAMS7</item>
+          <item>AANP3XR</item>
+          <item>SSNP3</item>
+          <item>PFNP2</item>
+          <item>VIJ</item>
+          <item>AANP6X</item>
+          <item>SSNP6</item>
+          <item>AAFP1XR</item>
+          <item>SAMS2R</item>
+          <item>NANS4</item>
+          <item>PFFP3</item>
+          <item>RQ</item>
+          <item>AAIS3X</item>
+          <item>GKIP6X</item>
+          <item>AANS7X</item>
+          <item>GKFP6X</item>
+          <item>SSNS3R</item>
+          <item>PAFP4</item>
+          <item>AAFP1X</item>
+          <item>NAFS1</item>
+          <item>PFIP7</item>
+          <item>SSIP7Q</item>
+          <item>NAIS7</item>
+          <item>NAFS6</item>
+          <item>PFNS7</item>
+          <item>PUMS1</item>
+          <item>PPHP1R</item>
+          <item>VMEPB</item>
+          <item>PFNP4R</item>
+          <item>PPHP3R</item>
+          <item>SSIS6R</item>
+          <item>VLJSCM</item>
+          <item>GKMP3X</item>
+          <item>SSMP3R</item>
+          <item>PAMP7</item>
+          <item>NUIP7</item>
+          <item>SSFS6R</item>
+          <item>AAIS6XR</item>
+          <item>NFFS7</item>
+          <item>NAIP1</item>
+          <item>AFNS2XR</item>
+          <item>GTNS2X</item>
+          <item>GKIS1X</item>
+          <item>AAIP4X</item>
+          <item>GKNP4X</item>
+          <item>SSMP2R</item>
+          <item>GTFP3Y</item>
+          <item>AAFP3X</item>
+          <item>AANP7X</item>
+          <item>PAIS4Q</item>
+          <item>SUNS2R</item>
+          <item>NUIP6</item>
+          <item>AFFS7XR</item>
+          <item>SFFS1</item>
+          <item>GTMS7X</item>
+          <item>GKFP1X</item>
+          <item>PFFS1Q</item>
+          <item>PFFS4Q</item>
+          <item>VLDPCN</item>
+          <item>GTNS7X</item>
+          <item>SSNS7R</item>
+          <item>AFNS7XR</item>
+          <item>PUFS4</item>
+          <item>AANS3XRQ</item>
+          <item>AAFS2XR</item>
+          <item>NNMP1</item>
+          <item>GTIP2XR</item>
+          <item>SAFS2R</item>
+          <item>NFNS7</item>
+          <item>SSIP1R</item>
+          <item>SSFP6R</item>
+          <item>AAOP2X</item>
+          <item>NUFP2</item>
+          <item>SSIS7R</item>
+          <item>SSMS5</item>
+          <item>SSNP1</item>
+          <item>AAMP4X</item>
+          <item>AANS1Y</item>
+          <item>PUNP2</item>
+          <item>VLDSBM</item>
+          <item>PUMP2</item>
+          <item>GKFP7X</item>
+          <item>VKJPC</item>
+          <item>VLEPCN</item>
+          <item>AANP1X</item>
+          <item>NNMS1</item>
+          <item>GTMS1XR</item>
+          <item>PAFS7</item>
+          <item>GTFS3X</item>
+          <item>AFFS3XR</item>
+          <item>AANS2Y</item>
+          <item>VLEPAH</item>
+          <item>AUMS1X</item>
+          <item>VLJSCI</item>
+          <item>NUNS2</item>
+          <item>AAIS4Y</item>
+          <item>NFMS7</item>
+          <item>NNFP1</item>
+          <item>NFFS4</item>
+          <item>VLJSCN</item>
+          <item>AAIS4Z</item>
+          <item>NFIS1</item>
+          <item>NAMP3</item>
+          <item>PFNP1</item>
+          <item>SUFS1</item>
+          <item>GTMS2X</item>
+          <item>NANS6</item>
+          <item>NAMS7</item>
+          <item>GKMS7X</item>
+          <item>PAMS1</item>
+          <item>GKFP2X</item>
+          <item>SSFP1R</item>
+          <item>AANS1XR</item>
+          <item>AAIS1XR</item>
+          <item>NNFP3</item>
+          <item>GTFP3X</item>
+          <item>PFFP6</item>
+          <item>NSIP4</item>
+          <item>NSFP4</item>
+          <item>SSNS1Q</item>
+          <item>SSMS4R</item>
+          <item>AFFS4XR</item>
+          <item>AAFS2Y</item>
+          <item>SSNP5</item>
+          <item>PANP5</item>
+          <item>AAFS1Z</item>
+          <item>VLESBF</item>
+          <item>NAFS4</item>
+          <item>PAFP1</item>
+          <item>AAIP6X</item>
+          <item>GKIP2X</item>
+          <item>SUNS3R</item>
+          <item>PUIS3</item>
+          <item>PUNS2</item>
+          <item>AFNP6XR</item>
+          <item>AFFS2XR</item>
+          <item>AAMP3X</item>
+          <item>PUIP2</item>
+          <item>SSFS3R</item>
+          <item>AAFP2XR</item>
+          <item>SAFS1</item>
+          <item>NNFP7</item>
+          <item>NFIS2</item>
+          <item>NAIS2</item>
+          <item>GTFS6X</item>
+          <item>AFNP4XR</item>
+          <item>NNNP1</item>
+          <item>GTNP1X</item>
+          <item>GKNP2X</item>
+          <item>GKIS2X</item>
+          <item>PANP1</item>
+          <item>AAFS4XR</item>
+          <item>SAMS1R</item>
+          <item>GTMP4X</item>
+          <item>PUNP4</item>
+          <item>PFMS6</item>
+          <item>AFMS7XR</item>
+          <item>AFNP3XR</item>
+          <item>AAMS1Y</item>
+          <item>AFMS2XR</item>
+          <item>AAFP7Z</item>
+          <item>SUNS6R</item>
+          <item>AAFS1XQ</item>
+          <item>PUNS7</item>
+          <item>AAMP4Y</item>
+          <item>AAFS6XR</item>
+          <item>NANS7</item>
+          <item>PAMS6</item>
+          <item>SAMS3R</item>
+          <item>PUFP2</item>
+          <item>AUMS1Y</item>
+          <item>AUMS1Z</item>
+          <item>VBEPB</item>
+          <item>GTNS4X</item>
+          <item>NNNP2</item>
+          <item>VLJPCN</item>
+          <item>SUFS3R</item>
+          <item>VLDPCIQ</item>
+          <item>AANS4Y</item>
+          <item>AAMS7X</item>
+          <item>SUIP2</item>
+          <item>AAIS4XR</item>
+          <item>PFIS4G</item>
+          <item>VLDPBH</item>
+          <item>PUIS4</item>
+          <item>PAMS4</item>
+          <item>NNFP2</item>
+          <item>NNIP7</item>
+          <item>SAFS7R</item>
+          <item>AAFS4Y</item>
+          <item>PANS2</item>
+          <item>AAIP4Y</item>
+          <item>AANS2XR</item>
+          <item>SAFS6</item>
+          <item>PPHP7</item>
+          <item>GTNS6X</item>
+          <item>VHE</item>
+          <item>PPHP1</item>
+          <item>AAIS7Z</item>
+          <item>SFMS3R</item>
+          <item>SMS5R</item>
+          <item>AAMS4Z</item>
+          <item>DXQ</item>
+          <item>VKDPBQ</item>
+          <item>PUNP1</item>
+          <item>NFFS2</item>
+          <item>PPHP4</item>
+          <item>AANS7Z</item>
+          <item>NAIS1R</item>
+          <item>AAMS7Y</item>
+          <item>SSMP7R</item>
+          <item>AAMS4X</item>
+          <item>GTFP4X</item>
+          <item>PUIP4</item>
+          <item>NFMS1</item>
+          <item>NFIS6</item>
+          <item>NSIS1</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <Property Name="f_pos" Type="F_pos" Discrete="True" Start="562" />
+      <Property Name="f_negativeness" Type="F_negativeness" Discrete="True" Start="563" />
+      <Property Name="f_number" Type="F_number" Discrete="True" Start="564" />
+      <Property Name="f_person" Type="Int32" Discrete="False" Start="565" />
+      <Property Name="f_verbform" Type="F_verbform" Discrete="True" Start="566" />
+      <Property Name="f_mood" Type="F_mood" Discrete="True" Start="567" />
+      <Property Name="f_tense" Type="F_tense" Discrete="True" Start="568" />
+      <Property Name="f_aspect" Type="F_aspect" Discrete="True" Start="569" />
+      <Property Name="f_gender" Type="F_gender" Discrete="True" Start="570" />
+      <Property Name="f_case" Type="F_case" Discrete="True" Start="571" />
+      <Property Name="f_prontype" Type="Boolean" Discrete="True" Start="572" />
+      <Property Name="f_reflex" Type="Boolean" Discrete="True" Start="573" />
+      <Property Name="f_animateness" Type="F_animateness" Discrete="True" Start="574" />
+      <Property Name="f_degree" Type="F_degree" Discrete="True" Start="575" />
+      <Property Name="f_subpos" Type="F_subpos" Discrete="True" Start="576" />
+      <Property Name="f_numform" Type="Boolean" Discrete="True" Start="577" />
+      <Property Name="f_abbr" Type="Boolean" Discrete="True" Start="578" />
+      <Property Name="f_hyph" Type="Boolean" Discrete="True" Start="579" />
+      <Property Name="f_foreign" Type="Boolean" Discrete="True" Start="580" />
+      <Property Name="f_voice" Type="F_voice" Discrete="True" Start="581" />
+      <Property Name="f_typo" Type="Boolean" Discrete="True" Start="582" />
+    </Features>
+    <Label>
+      <Property Name="IsCorrectHead" Type="Boolean" Discrete="True" Start="-1" />
+    </Label>
+  </Descriptor>
+  <Node Leaf="false" Value="0" Column="15" Name="#SYM#" Gain="0.034913084262112266">
+    <Edges>
+      <Edge Min="0" Max="0" Discrete="true" Label="0">
+        <Child Leaf="false" Value="0" Column="562" Name="f_pos" Gain="0.019462947108646229">
+          <Edges>
+            <Edge Min="0" Max="0" Discrete="true" Label="NOUN">
+              <Child Leaf="false" Value="0" Column="3" Name="S" Gain="0.027053780727227257">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="4" Name="P" Gain="0.055533232727025969">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="9" Name="R" Gain="0.12118458213343104">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="20" Name="Z" Gain="0.01180635826738706">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="false" Value="0" Column="571" Name="f_case" Gain="0.3186287414113626">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="NOM">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="NULL">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="2" Max="2" Discrete="true" Label="DAT">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="3" Max="3" Discrete="true" Label="LOC">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="4" Max="4" Discrete="true" Label="ACC">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="5" Max="5" Discrete="true" Label="INS">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="6" Max="6" Discrete="true" Label="GEN">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="false" Value="0" Column="572" Name="f_prontype" Gain="0.04227987202621912">
+                            <Edges>
+                              <Edge Min="-1" Max="-1" Discrete="true" Label="False">
+                                <Child Leaf="false" Value="0" Column="99" Name="PFIS6" Gain="0.071579462683093537">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="True">
+                                <Child Leaf="false" Value="0" Column="573" Name="f_reflex" Gain="0.0486762745067746">
+                                  <Edges>
+                                    <Edge Min="-1" Max="-1" Discrete="true" Label="False">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="True">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="false" Value="0" Column="570" Name="f_gender" Gain="0.017822612575708753">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="NEUT">
+                          <Child Leaf="false" Value="0" Column="59" Name="SSNS1" Gain="0.062556819262830077">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="420" Name="SSNP1" Gain="0.046735018623086065">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="NULL">
+                          <Child Leaf="false" Value="0" Column="71" Name="SSMS2R" Gain="0.12060252855570495">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="119" Name="SSIP1" Gain="0.15903521036899465">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="2" Max="2" Discrete="true" Label="MASC">
+                          <Child Leaf="false" Value="0" Column="294" Name="SSIS1R" Gain="0.015641024562908376">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="129" Name="SSNS6" Gain="0.00935615143452809">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="3" Max="3" Discrete="true" Label="FEM">
+                          <Child Leaf="false" Value="0" Column="55" Name="SSFS1" Gain="0.024567077383568243">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="21" Name="SSFS1R" Gain="0.012563935417865432">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="1" Max="1" Discrete="true" Label="PUNC">
+              <Child Leaf="false" Value="0" Column="2" Name="Z" Gain="0.065334499157956485">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="18" Name="O" Gain="0.027187276235463975">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="117" Name="NUNS4" Gain="0.024184963059255826">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="97" Name="OY" Gain="0.020515526639460029">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="false" Value="0" Column="566" Name="f_verbform" Gain="0.027533905075182205">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                              <Edge Min="3" Max="3" Discrete="true" Label="INF">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="false" Value="0" Column="63" Name="ZIP" Gain="0.0022154658364931137">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="2" Max="2" Discrete="true" Label="VERB">
+              <Child Leaf="false" Value="0" Column="89" Name="VKESA" Gain="0.014886009521000507">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="34" Name="VLDSCM" Gain="0.01181297315948999">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="565" Name="f_person" Gain="0.01004208731215933">
+                            <Edges>
+                              <Edge Min="0" Max="1.5" Discrete="false" Label="0 ≤ x &lt; 1.5">
+                                <Child Leaf="false" Value="0" Column="568" Name="f_tense" Gain="0.021843664302599989">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="PRES">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="2" Max="2" Discrete="true" Label="PAST">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="3" Max="3" Discrete="true" Label="FUT">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1.5" Max="3.01" Discrete="false" Label="1.5 ≤ x &lt; 3.01">
+                                <Child Leaf="false" Value="0" Column="105" Name="VLDSCF" Gain="0.016771263207261064">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="false" Value="0" Column="563" Name="f_negativeness" Gain="0.020463239177814643">
+                            <Edges>
+                              <Edge Min="1" Max="1" Discrete="true" Label="POS">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                              <Edge Min="2" Max="2" Discrete="true" Label="NEG">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="false" Value="0" Column="567" Name="f_mood" Gain="0.15305735110374344">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                        <Edge Min="2" Max="2" Discrete="true" Label="IND">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="3" Max="3" Discrete="true" Label="ADJ">
+              <Child Leaf="false" Value="0" Column="25" Name="EU6" Gain="0.027398245883325064">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="67" Name="SSIS2" Gain="0.019322291722408336">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="574" Name="f_animateness" Gain="0.015899084031466441">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                                <Child Leaf="false" Value="0" Column="575" Name="f_degree" Gain="0.045405907228675491">
+                                  <Edges>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="SUP">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="2" Max="2" Discrete="true" Label="POS">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="3" Max="3" Discrete="true" Label="COMP">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="ANIM">
+                                <Child Leaf="false" Value="0" Column="159" Name="AAMS2X" Gain="0.055755409633612224">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="2" Max="2" Discrete="true" Label="INAN">
+                                <Child Leaf="false" Value="0" Column="337" Name="AFIS1XR" Gain="0.054914095897101757">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="false" Value="0" Column="564" Name="f_number" Gain="0.088805639479456633">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="SING">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                        <Edge Min="2" Max="2" Discrete="true" Label="PLU">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="4" Max="4" Discrete="true" Label="PREP">
+              <Child Leaf="false" Value="0" Column="143" Name="VLESCM" Gain="0.014187012047377542">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="69" Name="EU3" Gain="0.011485745220770727">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="27" Name="EU4" Gain="0.0094483466791964663">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="66" Name="EU2" Gain="0.011635225664092386">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="5" Max="5" Discrete="true" Label="CONJ">
+              <Child Leaf="false" Value="0" Column="110" Name="SSMS1R" Gain="0.010740185660165056">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="61" Name="SSIS4" Gain="0.0054821999147794485">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="83" Name="VLDSCI" Gain="0.0055491726182306592">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="100" Name="AAMS1X" Gain="0.0056176265186747808">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="6" Max="6" Discrete="true" Label="ADV">
+              <Child Leaf="false" Value="0" Column="44" Name="R" Gain="0.010214324333230726">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="28" Name="PFFS4" Gain="0.010438010558711502">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="37" Name="PPHS3" Gain="0.010642701344901157">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="45" Name="VLEPCF" Gain="0.01085482839055517">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="7" Max="7" Discrete="true" Label="PART">
+              <Child Leaf="false" Value="0" Column="125" Name="VIE" Gain="0.014099007113383136">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="47" Name="EV7" Gain="0.0072242761642637163">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="62" Name="#NUM#" Gain="0.00732755081945836">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="86" Name="VID" Gain="0.0074335299722593515">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="8" Max="8" Discrete="true" Label="INT">
+              <Child Leaf="true" Value="1" Column="0" Gain="0" />
+            </Edge>
+            <Edge Min="9" Max="9" Discrete="true" Label="NUM">
+              <Child Leaf="false" Value="0" Column="248" Name="NFFS1" Gain="0.040156952452510664">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="326" Name="ND" Gain="0.043132700152814646">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="51" Name="SSFS6" Gain="0.023080048081239667">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="156" Name="NNIP4" Gain="0.02401532288613659">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="10" Max="10" Discrete="true" Label="NULL">
+              <Child Leaf="false" Value="0" Column="150" Name="Q" Gain="0.02431118923044847">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="579" Name="f_hyph" Gain="0.12792513161317437">
+                      <Edges>
+                        <Edge Min="-1" Max="-1" Discrete="true" Label="False">
+                          <Child Leaf="false" Value="0" Column="52" Name="EU7" Gain="0.011820345290832337">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="144" Name="SSNS2" Gain="0.012260139236546171">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="True">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+          </Edges>
+        </Child>
+      </Edge>
+      <Edge Min="1" Max="1" Discrete="true" Label="1">
+        <Child Leaf="false" Value="0" Column="580" Name="f_foreign" Gain="0.0232845979467501">
+          <Edges>
+            <Edge Min="-1" Max="-1" Discrete="true" Label="False">
+              <Child Leaf="false" Value="0" Column="569" Name="f_aspect" Gain="0.014383576151413204">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                    <Child Leaf="false" Value="0" Column="576" Name="f_subpos" Gain="0.015082923864833429">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                          <Child Leaf="false" Value="0" Column="581" Name="f_voice" Gain="0.0055650045265219963">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="NULL">
+                                <Child Leaf="false" Value="0" Column="578" Name="f_abbr" Gain="0.001775212022957827">
+                                  <Edges>
+                                    <Edge Min="-1" Max="-1" Discrete="true" Label="False">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="True">
+                                      <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="PASS">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                              <Edge Min="2" Max="2" Discrete="true" Label="ACT">
+                                <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="PROP">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                        <Edge Min="2" Max="2" Discrete="true" Label="VOC">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="PERF">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                  <Edge Min="2" Max="2" Discrete="true" Label="IMP">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                  <Edge Min="3" Max="3" Discrete="true" Label="IMP_PERF">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="1" Max="1" Discrete="true" Label="True">
+              <Child Leaf="true" Value="1" Column="0" Gain="0" />
+            </Edge>
+          </Edges>
+        </Child>
+      </Edge>
+    </Edges>
+  </Node>
+</DecisionTreeModel>

@@ -1,0 +1,6 @@
+LAS: 49.6 %
+UAS: 59.84 %
+LA: 60.03 %
+
+
+5x trenovanie, oba modely, vyber najlepsieho, opravene nastavovanie parent deprel

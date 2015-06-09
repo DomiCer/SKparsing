@@ -1,0 +1,4163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+ <head>
+  <schema href="adata_schema.xml" />
+  <references>
+   <reffile id="m" href="durovic10_kandracova_dok.m" name="mdata" />
+   <reffile id="w" href="durovic10_kandracova_dok.w" name="wdata" />
+  </references>
+ </head>
+ <trees>
+  <LM id="a-durovic10-p1s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p1s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p1s1w1">
+     <m.rf>m#m-durovic10-p1s1w1</m.rf>
+     <ord>1</ord>
+     <children id="a-durovic10-p1s1w2">
+      <m.rf>m#m-durovic10-p1s1w2</m.rf>
+      <ord>2</ord>
+      <afun>ExD</afun>
+     </children>
+     <afun>AuxP</afun>
+    </LM>
+    <LM id="a-durovic10-p1s1w3">
+     <m.rf>m#m-durovic10-p1s1w3</m.rf>
+     <ord>3</ord>
+     <afun>ExD</afun>
+    </LM>
+    <LM id="a-durovic10-p1s1w4">
+     <m.rf>m#m-durovic10-p1s1w4</m.rf>
+     <ord>4</ord>
+     <children id="a-durovic10-p1s1w5">
+      <m.rf>m#m-durovic10-p1s1w5</m.rf>
+      <ord>5</ord>
+      <afun>Atr</afun>
+     </children>
+     <afun>ExD</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p2s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p2s1</s.rf>
+   <children id="a-durovic10-p2s1w2">
+    <m.rf>m#m-durovic10-p2s1w2</m.rf>
+    <ord>2</ord>
+    <children>
+     <LM id="a-durovic10-p2s1w1">
+      <m.rf>m#m-durovic10-p2s1w1</m.rf>
+      <ord>1</ord>
+      <afun>Atr</afun>
+     </LM>
+     <LM id="a-durovic10-p2s1w4">
+      <m.rf>m#m-durovic10-p2s1w4</m.rf>
+      <ord>4</ord>
+      <children id="a-durovic10-p2s1w3">
+       <m.rf>m#m-durovic10-p2s1w3</m.rf>
+       <ord>3</ord>
+       <afun>Atr</afun>
+      </children>
+      <afun>Atr</afun>
+     </LM>
+    </children>
+    <afun>ExD</afun>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s1w2">
+     <m.rf>m#m-durovic10-p3s1w2</m.rf>
+     <ord>2</ord>
+     <children>
+      <LM id="a-durovic10-p3s1w1">
+       <m.rf>m#m-durovic10-p3s1w1</m.rf>
+       <ord>1</ord>
+       <afun>AuxY</afun>
+      </LM>
+      <LM id="a-durovic10-p3s1w3">
+       <m.rf>m#m-durovic10-p3s1w3</m.rf>
+       <ord>3</ord>
+       <children id="a-durovic10-p3s1w11">
+        <m.rf>m#m-durovic10-p3s1w11</m.rf>
+        <ord>11</ord>
+        <children>
+         <LM id="a-durovic10-p3s1w4">
+          <m.rf>m#m-durovic10-p3s1w4</m.rf>
+          <ord>4</ord>
+          <afun>AuxX</afun>
+         </LM>
+         <LM id="a-durovic10-p3s1w5">
+          <m.rf>m#m-durovic10-p3s1w5</m.rf>
+          <ord>5</ord>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-durovic10-p3s1w6">
+          <m.rf>m#m-durovic10-p3s1w6</m.rf>
+          <ord>6</ord>
+          <afun>AuxV</afun>
+         </LM>
+         <LM id="a-durovic10-p3s1w7">
+          <m.rf>m#m-durovic10-p3s1w7</m.rf>
+          <ord>7</ord>
+          <afun>Adv</afun>
+         </LM>
+         <LM id="a-durovic10-p3s1w9">
+          <m.rf>m#m-durovic10-p3s1w9</m.rf>
+          <ord>9</ord>
+          <children id="a-durovic10-p3s1w8">
+           <m.rf>m#m-durovic10-p3s1w8</m.rf>
+           <ord>8</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Adv</afun>
+         </LM>
+         <LM id="a-durovic10-p3s1w10">
+          <m.rf>m#m-durovic10-p3s1w10</m.rf>
+          <ord>10</ord>
+          <afun>Adv</afun>
+         </LM>
+        </children>
+        <afun>Atr</afun>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p3s1w12">
+     <m.rf>m#m-durovic10-p3s1w12</m.rf>
+     <ord>12</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s2">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s2</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s2w17">
+     <m.rf>m#m-durovic10-p3s2w17</m.rf>
+     <ord>17</ord>
+     <children>
+      <LM id="a-durovic10-p3s2w6">
+       <m.rf>m#m-durovic10-p3s2w6</m.rf>
+       <ord>6</ord>
+       <children>
+        <LM id="a-durovic10-p3s2w5">
+         <is_member>1</is_member>
+         <m.rf>m#m-durovic10-p3s2w5</m.rf>
+         <ord>5</ord>
+         <children>
+          <LM id="a-durovic10-p3s2w1">
+           <m.rf>m#m-durovic10-p3s2w1</m.rf>
+           <ord>1</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p3s2w3">
+           <m.rf>m#m-durovic10-p3s2w3</m.rf>
+           <ord>3</ord>
+           <children>
+            <LM id="a-durovic10-p3s2w2">
+             <is_member>1</is_member>
+             <m.rf>m#m-durovic10-p3s2w2</m.rf>
+             <ord>2</ord>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p3s2w4">
+             <is_member>1</is_member>
+             <m.rf>m#m-durovic10-p3s2w4</m.rf>
+             <ord>4</ord>
+             <afun>Atr</afun>
+            </LM>
+           </children>
+           <afun>Coord</afun>
+          </LM>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-durovic10-p3s2w7">
+         <is_member>1</is_member>
+         <m.rf>m#m-durovic10-p3s2w7</m.rf>
+         <ord>7</ord>
+         <children id="a-durovic10-p3s2w9">
+          <m.rf>m#m-durovic10-p3s2w9</m.rf>
+          <ord>9</ord>
+          <children id="a-durovic10-p3s2w8">
+           <m.rf>m#m-durovic10-p3s2w8</m.rf>
+           <ord>8</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Atr</afun>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-durovic10-p3s2w10">
+         <m.rf>m#m-durovic10-p3s2w10</m.rf>
+         <ord>10</ord>
+         <afun>AuxX</afun>
+        </LM>
+       </children>
+       <afun>Apos</afun>
+      </LM>
+      <LM id="a-durovic10-p3s2w14">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p3s2w14</m.rf>
+       <ord>14</ord>
+       <children>
+        <LM id="a-durovic10-p3s2w11">
+         <m.rf>m#m-durovic10-p3s2w11</m.rf>
+         <ord>11</ord>
+         <afun>Obj</afun>
+        </LM>
+        <LM id="a-durovic10-p3s2w13">
+         <m.rf>m#m-durovic10-p3s2w13</m.rf>
+         <ord>13</ord>
+         <children id="a-durovic10-p3s2w12">
+          <m.rf>m#m-durovic10-p3s2w12</m.rf>
+          <ord>12</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p3s2w16">
+         <m.rf>m#m-durovic10-p3s2w16</m.rf>
+         <ord>16</ord>
+         <children id="a-durovic10-p3s2w15">
+          <m.rf>m#m-durovic10-p3s2w15</m.rf>
+          <ord>15</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-durovic10-p3s2w19">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p3s2w19</m.rf>
+       <ord>19</ord>
+       <children>
+        <LM id="a-durovic10-p3s2w18">
+         <m.rf>m#m-durovic10-p3s2w18</m.rf>
+         <ord>18</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p3s2w20">
+         <m.rf>m#m-durovic10-p3s2w20</m.rf>
+         <ord>20</ord>
+         <children id="a-durovic10-p3s2w22">
+          <m.rf>m#m-durovic10-p3s2w22</m.rf>
+          <ord>22</ord>
+          <children>
+           <LM id="a-durovic10-p3s2w21">
+            <m.rf>m#m-durovic10-p3s2w21</m.rf>
+            <ord>21</ord>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p3s2w23">
+            <m.rf>m#m-durovic10-p3s2w23</m.rf>
+            <ord>23</ord>
+            <children id="a-durovic10-p3s2w24">
+             <m.rf>m#m-durovic10-p3s2w24</m.rf>
+             <ord>24</ord>
+             <children>
+              <LM id="a-durovic10-p3s2w25">
+               <m.rf>m#m-durovic10-p3s2w25</m.rf>
+               <ord>25</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p3s2w26">
+               <m.rf>m#m-durovic10-p3s2w26</m.rf>
+               <ord>26</ord>
+               <children id="a-durovic10-p3s2w28">
+                <m.rf>m#m-durovic10-p3s2w28</m.rf>
+                <ord>28</ord>
+                <children id="a-durovic10-p3s2w27">
+                 <m.rf>m#m-durovic10-p3s2w27</m.rf>
+                 <ord>27</ord>
+                 <afun>Atr</afun>
+                </children>
+                <afun>Atr</afun>
+               </children>
+               <afun>AuxP</afun>
+              </LM>
+             </children>
+             <afun>Atr</afun>
+            </children>
+            <afun>AuxP</afun>
+           </LM>
+          </children>
+          <afun>Atr</afun>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-durovic10-p3s2w29">
+     <m.rf>m#m-durovic10-p3s2w29</m.rf>
+     <ord>29</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s3">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s3</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s3w23">
+     <m.rf>m#m-durovic10-p3s3w23</m.rf>
+     <ord>23</ord>
+     <children>
+      <LM id="a-durovic10-p3s3w5">
+       <m.rf>m#m-durovic10-p3s3w5</m.rf>
+       <ord>5</ord>
+       <children>
+        <LM id="a-durovic10-p3s3w1">
+         <m.rf>m#m-durovic10-p3s3w1</m.rf>
+         <ord>1</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w2">
+         <m.rf>m#m-durovic10-p3s3w2</m.rf>
+         <ord>2</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w3">
+         <m.rf>m#m-durovic10-p3s3w3</m.rf>
+         <ord>3</ord>
+         <afun>AuxG</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w4">
+         <m.rf>m#m-durovic10-p3s3w4</m.rf>
+         <ord>4</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w6">
+         <m.rf>m#m-durovic10-p3s3w6</m.rf>
+         <ord>6</ord>
+         <afun>AuxG</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w8">
+         <m.rf>m#m-durovic10-p3s3w8</m.rf>
+         <ord>8</ord>
+         <children>
+          <LM id="a-durovic10-p3s3w7">
+           <m.rf>m#m-durovic10-p3s3w7</m.rf>
+           <ord>7</ord>
+           <afun>Obj</afun>
+          </LM>
+          <LM id="a-durovic10-p3s3w10">
+           <m.rf>m#m-durovic10-p3s3w10</m.rf>
+           <ord>10</ord>
+           <children>
+            <LM id="a-durovic10-p3s3w9">
+             <m.rf>m#m-durovic10-p3s3w9</m.rf>
+             <ord>9</ord>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p3s3w12">
+             <m.rf>m#m-durovic10-p3s3w12</m.rf>
+             <ord>12</ord>
+             <children id="a-durovic10-p3s3w11">
+              <m.rf>m#m-durovic10-p3s3w11</m.rf>
+              <ord>11</ord>
+              <afun>Atr</afun>
+             </children>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p3s3w13">
+             <m.rf>m#m-durovic10-p3s3w13</m.rf>
+             <ord>13</ord>
+             <children id="a-durovic10-p3s3w14">
+              <m.rf>m#m-durovic10-p3s3w14</m.rf>
+              <ord>14</ord>
+              <children id="a-durovic10-p3s3w15">
+               <m.rf>m#m-durovic10-p3s3w15</m.rf>
+               <ord>15</ord>
+               <children id="a-durovic10-p3s3w17">
+                <m.rf>m#m-durovic10-p3s3w17</m.rf>
+                <ord>17</ord>
+                <children id="a-durovic10-p3s3w16">
+                 <m.rf>m#m-durovic10-p3s3w16</m.rf>
+                 <ord>16</ord>
+                 <afun>Atr</afun>
+                </children>
+                <afun>Atr</afun>
+               </children>
+               <afun>Atr</afun>
+              </children>
+              <afun>Atr</afun>
+             </children>
+             <afun>AuxP</afun>
+            </LM>
+           </children>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p3s3w18">
+           <m.rf>m#m-durovic10-p3s3w18</m.rf>
+           <ord>18</ord>
+           <afun>AuxX</afun>
+          </LM>
+         </children>
+         <is_parenthesis_root>1</is_parenthesis_root>
+         <afun>Atr</afun>
+        </LM>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p3s3w20">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p3s3w20</m.rf>
+       <ord>20</ord>
+       <children>
+        <LM id="a-durovic10-p3s3w19">
+         <m.rf>m#m-durovic10-p3s3w19</m.rf>
+         <ord>19</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w22">
+         <m.rf>m#m-durovic10-p3s3w22</m.rf>
+         <ord>22</ord>
+         <children id="a-durovic10-p3s3w21">
+          <m.rf>m#m-durovic10-p3s3w21</m.rf>
+          <ord>21</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-durovic10-p3s3w26">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p3s3w26</m.rf>
+       <ord>26</ord>
+       <children>
+        <LM id="a-durovic10-p3s3w24">
+         <m.rf>m#m-durovic10-p3s3w24</m.rf>
+         <ord>24</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w25">
+         <m.rf>m#m-durovic10-p3s3w25</m.rf>
+         <ord>25</ord>
+         <afun>AuxT</afun>
+        </LM>
+        <LM id="a-durovic10-p3s3w31">
+         <m.rf>m#m-durovic10-p3s3w31</m.rf>
+         <ord>31</ord>
+         <children>
+          <LM id="a-durovic10-p3s3w27">
+           <m.rf>m#m-durovic10-p3s3w27</m.rf>
+           <ord>27</ord>
+           <children id="a-durovic10-p3s3w28">
+            <m.rf>m#m-durovic10-p3s3w28</m.rf>
+            <ord>28</ord>
+            <children id="a-durovic10-p3s3w29">
+             <m.rf>m#m-durovic10-p3s3w29</m.rf>
+             <ord>29</ord>
+             <children id="a-durovic10-p3s3w30">
+              <m.rf>m#m-durovic10-p3s3w30</m.rf>
+              <ord>30</ord>
+              <afun>Atr</afun>
+             </children>
+             <afun>AuxP</afun>
+            </children>
+            <afun>Obj</afun>
+           </children>
+           <afun>AuxP</afun>
+          </LM>
+          <LM id="a-durovic10-p3s3w32">
+           <m.rf>m#m-durovic10-p3s3w32</m.rf>
+           <ord>32</ord>
+           <children id="a-durovic10-p3s3w39">
+            <m.rf>m#m-durovic10-p3s3w39</m.rf>
+            <ord>39</ord>
+            <children>
+             <LM id="a-durovic10-p3s3w33">
+              <m.rf>m#m-durovic10-p3s3w33</m.rf>
+              <ord>33</ord>
+              <afun>AuxY</afun>
+             </LM>
+             <LM id="a-durovic10-p3s3w37">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p3s3w37</m.rf>
+              <ord>37</ord>
+              <children id="a-durovic10-p3s3w35">
+               <m.rf>m#m-durovic10-p3s3w35</m.rf>
+               <ord>35</ord>
+               <children>
+                <LM id="a-durovic10-p3s3w34">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p3s3w34</m.rf>
+                 <ord>34</ord>
+                 <afun>Adv</afun>
+                </LM>
+                <LM id="a-durovic10-p3s3w36">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p3s3w36</m.rf>
+                 <ord>36</ord>
+                 <afun>Adv</afun>
+                </LM>
+               </children>
+               <afun>Coord</afun>
+              </children>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p3s3w38">
+              <m.rf>m#m-durovic10-p3s3w38</m.rf>
+              <ord>38</ord>
+              <afun>AuxX</afun>
+             </LM>
+             <LM id="a-durovic10-p3s3w44">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p3s3w44</m.rf>
+              <ord>44</ord>
+              <children>
+               <LM id="a-durovic10-p3s3w43">
+                <is_member>1</is_member>
+                <m.rf>m#m-durovic10-p3s3w43</m.rf>
+                <ord>43</ord>
+                <children>
+                 <LM id="a-durovic10-p3s3w40">
+                  <m.rf>m#m-durovic10-p3s3w40</m.rf>
+                  <ord>40</ord>
+                  <children id="a-durovic10-p3s3w41">
+                   <m.rf>m#m-durovic10-p3s3w41</m.rf>
+                   <ord>41</ord>
+                   <afun>Adv</afun>
+                  </children>
+                  <afun>AuxP</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s3w42">
+                  <m.rf>m#m-durovic10-p3s3w42</m.rf>
+                  <ord>42</ord>
+                  <afun>AuxZ</afun>
+                 </LM>
+                </children>
+                <afun>Atr</afun>
+               </LM>
+               <LM id="a-durovic10-p3s3w45">
+                <m.rf>m#m-durovic10-p3s3w45</m.rf>
+                <ord>45</ord>
+                <children id="a-durovic10-p3s3w46">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p3s3w46</m.rf>
+                 <ord>46</ord>
+                 <children id="a-durovic10-p3s3w47">
+                  <m.rf>m#m-durovic10-p3s3w47</m.rf>
+                  <ord>47</ord>
+                  <children id="a-durovic10-p3s3w51">
+                   <m.rf>m#m-durovic10-p3s3w51</m.rf>
+                   <ord>51</ord>
+                   <children>
+                    <LM id="a-durovic10-p3s3w48">
+                     <m.rf>m#m-durovic10-p3s3w48</m.rf>
+                     <ord>48</ord>
+                     <afun>Atr</afun>
+                    </LM>
+                    <LM id="a-durovic10-p3s3w49">
+                     <m.rf>m#m-durovic10-p3s3w49</m.rf>
+                     <ord>49</ord>
+                     <afun>Atr</afun>
+                    </LM>
+                    <LM id="a-durovic10-p3s3w50">
+                     <m.rf>m#m-durovic10-p3s3w50</m.rf>
+                     <ord>50</ord>
+                     <afun>Atr</afun>
+                    </LM>
+                   </children>
+                   <afun>Atr</afun>
+                  </children>
+                  <afun>AuxP</afun>
+                 </children>
+                 <afun>Atr</afun>
+                </children>
+                <afun>AuxP</afun>
+               </LM>
+              </children>
+              <afun>Coord</afun>
+             </LM>
+            </children>
+            <afun>Coord</afun>
+           </children>
+           <afun>Obj</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-durovic10-p3s3w52">
+     <m.rf>m#m-durovic10-p3s3w52</m.rf>
+     <ord>52</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s4">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s4</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s4w4">
+     <m.rf>m#m-durovic10-p3s4w4</m.rf>
+     <ord>4</ord>
+     <children>
+      <LM id="a-durovic10-p3s4w2">
+       <m.rf>m#m-durovic10-p3s4w2</m.rf>
+       <ord>2</ord>
+       <children id="a-durovic10-p3s4w1">
+        <m.rf>m#m-durovic10-p3s4w1</m.rf>
+        <ord>1</ord>
+        <afun>Atr</afun>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p3s4w3">
+       <m.rf>m#m-durovic10-p3s4w3</m.rf>
+       <ord>3</ord>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p3s4w6">
+       <m.rf>m#m-durovic10-p3s4w6</m.rf>
+       <ord>6</ord>
+       <children>
+        <LM id="a-durovic10-p3s4w5">
+         <m.rf>m#m-durovic10-p3s4w5</m.rf>
+         <ord>5</ord>
+         <afun>AuxX</afun>
+        </LM>
+        <LM id="a-durovic10-p3s4w12">
+         <m.rf>m#m-durovic10-p3s4w12</m.rf>
+         <ord>12</ord>
+         <children>
+          <LM id="a-durovic10-p3s4w14">
+           <m.rf>m#m-durovic10-p3s4w14</m.rf>
+           <ord>14</ord>
+           <children id="a-durovic10-p3s4w13">
+            <m.rf>m#m-durovic10-p3s4w13</m.rf>
+            <ord>13</ord>
+            <afun>AuxY</afun>
+           </children>
+           <afun>AtvV</afun>
+          </LM>
+          <LM id="a-durovic10-p3s4w16">
+           <m.rf>m#m-durovic10-p3s4w16</m.rf>
+           <ord>16</ord>
+           <children>
+            <LM id="a-durovic10-p3s4w11">
+             <m.rf>m#m-durovic10-p3s4w11</m.rf>
+             <ord>11</ord>
+             <children>
+              <LM id="a-durovic10-p3s4w7">
+               <m.rf>m#m-durovic10-p3s4w7</m.rf>
+               <ord>7</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p3s4w9">
+               <m.rf>m#m-durovic10-p3s4w9</m.rf>
+               <ord>9</ord>
+               <children>
+                <LM id="a-durovic10-p3s4w8">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p3s4w8</m.rf>
+                 <ord>8</ord>
+                 <afun>Atr</afun>
+                </LM>
+                <LM id="a-durovic10-p3s4w10">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p3s4w10</m.rf>
+                 <ord>10</ord>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Coord</afun>
+              </LM>
+             </children>
+             <afun>Obj</afun>
+            </LM>
+            <LM id="a-durovic10-p3s4w15">
+             <m.rf>m#m-durovic10-p3s4w15</m.rf>
+             <ord>15</ord>
+             <afun>Adv</afun>
+            </LM>
+           </children>
+           <afun>Pnom</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>AuxC</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p3s4w17">
+     <m.rf>m#m-durovic10-p3s4w17</m.rf>
+     <ord>17</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s5">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s5</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s5w5">
+     <m.rf>m#m-durovic10-p3s5w5</m.rf>
+     <ord>5</ord>
+     <children>
+      <LM id="a-durovic10-p3s5w1">
+       <m.rf>m#m-durovic10-p3s5w1</m.rf>
+       <ord>1</ord>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p3s5w2">
+       <m.rf>m#m-durovic10-p3s5w2</m.rf>
+       <ord>2</ord>
+       <afun>AuxV</afun>
+      </LM>
+      <LM id="a-durovic10-p3s5w3">
+       <m.rf>m#m-durovic10-p3s5w3</m.rf>
+       <ord>3</ord>
+       <afun>AuxV</afun>
+      </LM>
+      <LM id="a-durovic10-p3s5w4">
+       <m.rf>m#m-durovic10-p3s5w4</m.rf>
+       <ord>4</ord>
+       <afun>AuxZ</afun>
+      </LM>
+      <LM id="a-durovic10-p3s5w7">
+       <m.rf>m#m-durovic10-p3s5w7</m.rf>
+       <ord>7</ord>
+       <children>
+        <LM id="a-durovic10-p3s5w6">
+         <m.rf>m#m-durovic10-p3s5w6</m.rf>
+         <ord>6</ord>
+         <afun>AuxX</afun>
+        </LM>
+        <LM id="a-durovic10-p3s5w8">
+         <m.rf>m#m-durovic10-p3s5w8</m.rf>
+         <ord>8</ord>
+         <children>
+          <LM id="a-durovic10-p3s5w9">
+           <m.rf>m#m-durovic10-p3s5w9</m.rf>
+           <ord>9</ord>
+           <children id="a-durovic10-p3s5w10">
+            <m.rf>m#m-durovic10-p3s5w10</m.rf>
+            <ord>10</ord>
+            <children id="a-durovic10-p3s5w11">
+             <m.rf>m#m-durovic10-p3s5w11</m.rf>
+             <ord>11</ord>
+             <afun>Atr</afun>
+            </children>
+            <afun>AuxP</afun>
+           </children>
+           <afun>AtvV</afun>
+          </LM>
+          <LM id="a-durovic10-p3s5w13">
+           <m.rf>m#m-durovic10-p3s5w13</m.rf>
+           <ord>13</ord>
+           <children id="a-durovic10-p3s5w12">
+            <m.rf>m#m-durovic10-p3s5w12</m.rf>
+            <ord>12</ord>
+            <afun>Adv</afun>
+           </children>
+           <afun>Pnom</afun>
+          </LM>
+          <LM id="a-durovic10-p3s5w15">
+           <m.rf>m#m-durovic10-p3s5w15</m.rf>
+           <ord>15</ord>
+           <children>
+            <LM id="a-durovic10-p3s5w14">
+             <m.rf>m#m-durovic10-p3s5w14</m.rf>
+             <ord>14</ord>
+             <afun>AuxX</afun>
+            </LM>
+            <LM id="a-durovic10-p3s5w30">
+             <m.rf>m#m-durovic10-p3s5w30</m.rf>
+             <ord>30</ord>
+             <children>
+              <LM id="a-durovic10-p3s5w16">
+               <m.rf>m#m-durovic10-p3s5w16</m.rf>
+               <ord>16</ord>
+               <children id="a-durovic10-p3s5w22">
+                <m.rf>m#m-durovic10-p3s5w22</m.rf>
+                <ord>22</ord>
+                <children>
+                 <LM id="a-durovic10-p3s5w17">
+                  <m.rf>m#m-durovic10-p3s5w17</m.rf>
+                  <ord>17</ord>
+                  <afun>AuxX</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s5w18">
+                  <is_member>1</is_member>
+                  <m.rf>m#m-durovic10-p3s5w18</m.rf>
+                  <ord>18</ord>
+                  <children id="a-durovic10-p3s5w21">
+                   <m.rf>m#m-durovic10-p3s5w21</m.rf>
+                   <ord>21</ord>
+                   <children>
+                    <LM id="a-durovic10-p3s5w19">
+                     <m.rf>m#m-durovic10-p3s5w19</m.rf>
+                     <ord>19</ord>
+                     <afun>Atr</afun>
+                    </LM>
+                    <LM id="a-durovic10-p3s5w20">
+                     <m.rf>m#m-durovic10-p3s5w20</m.rf>
+                     <ord>20</ord>
+                     <afun>Atr</afun>
+                    </LM>
+                   </children>
+                   <afun>Obj</afun>
+                  </children>
+                  <afun>Atr</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s5w23">
+                  <is_member>1</is_member>
+                  <m.rf>m#m-durovic10-p3s5w23</m.rf>
+                  <ord>23</ord>
+                  <children id="a-durovic10-p3s5w28">
+                   <m.rf>m#m-durovic10-p3s5w28</m.rf>
+                   <ord>28</ord>
+                   <children>
+                    <LM id="a-durovic10-p3s5w24">
+                     <m.rf>m#m-durovic10-p3s5w24</m.rf>
+                     <ord>24</ord>
+                     <afun>Atr</afun>
+                    </LM>
+                    <LM id="a-durovic10-p3s5w26">
+                     <m.rf>m#m-durovic10-p3s5w26</m.rf>
+                     <ord>26</ord>
+                     <children>
+                      <LM id="a-durovic10-p3s5w25">
+                       <is_member>1</is_member>
+                       <m.rf>m#m-durovic10-p3s5w25</m.rf>
+                       <ord>25</ord>
+                       <afun>Atr</afun>
+                      </LM>
+                      <LM id="a-durovic10-p3s5w27">
+                       <is_member>1</is_member>
+                       <m.rf>m#m-durovic10-p3s5w27</m.rf>
+                       <ord>27</ord>
+                       <afun>Atr</afun>
+                      </LM>
+                     </children>
+                     <afun>Coord</afun>
+                    </LM>
+                   </children>
+                   <afun>Obj</afun>
+                  </children>
+                  <afun>Atr</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s5w29">
+                  <m.rf>m#m-durovic10-p3s5w29</m.rf>
+                  <ord>29</ord>
+                  <afun>AuxX</afun>
+                 </LM>
+                </children>
+                <is_parenthesis_root>1</is_parenthesis_root>
+                <afun>Coord</afun>
+               </children>
+               <afun>Sb</afun>
+              </LM>
+              <LM id="a-durovic10-p3s5w31">
+               <m.rf>m#m-durovic10-p3s5w31</m.rf>
+               <ord>31</ord>
+               <children id="a-durovic10-p3s5w32">
+                <m.rf>m#m-durovic10-p3s5w32</m.rf>
+                <ord>32</ord>
+                <children id="a-durovic10-p3s5w36">
+                 <m.rf>m#m-durovic10-p3s5w36</m.rf>
+                 <ord>36</ord>
+                 <children>
+                  <LM id="a-durovic10-p3s5w33">
+                   <m.rf>m#m-durovic10-p3s5w33</m.rf>
+                   <ord>33</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                  <LM id="a-durovic10-p3s5w34">
+                   <m.rf>m#m-durovic10-p3s5w34</m.rf>
+                   <ord>34</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                  <LM id="a-durovic10-p3s5w35">
+                   <m.rf>m#m-durovic10-p3s5w35</m.rf>
+                   <ord>35</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                 </children>
+                 <afun>Atr</afun>
+                </children>
+                <afun>Adv</afun>
+               </children>
+               <afun>AuxP</afun>
+              </LM>
+              <LM id="a-durovic10-p3s5w38">
+               <m.rf>m#m-durovic10-p3s5w38</m.rf>
+               <ord>38</ord>
+               <children>
+                <LM id="a-durovic10-p3s5w37">
+                 <m.rf>m#m-durovic10-p3s5w37</m.rf>
+                 <ord>37</ord>
+                 <afun>AuxZ</afun>
+                </LM>
+                <LM id="a-durovic10-p3s5w39">
+                 <m.rf>m#m-durovic10-p3s5w39</m.rf>
+                 <ord>39</ord>
+                 <children id="a-durovic10-p3s5w40">
+                  <m.rf>m#m-durovic10-p3s5w40</m.rf>
+                  <ord>40</ord>
+                  <afun>Atr</afun>
+                 </children>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Obj</afun>
+              </LM>
+             </children>
+             <afun>Sb</afun>
+            </LM>
+           </children>
+           <afun>AuxC</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>AuxC</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p3s5w41">
+     <m.rf>m#m-durovic10-p3s5w41</m.rf>
+     <ord>41</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s6">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s6</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s6w1">
+     <m.rf>m#m-durovic10-p3s6w1</m.rf>
+     <ord>1</ord>
+     <children id="a-durovic10-p3s6w30">
+      <is_member>1</is_member>
+      <m.rf>m#m-durovic10-p3s6w30</m.rf>
+      <ord>30</ord>
+      <children>
+       <LM id="a-durovic10-p3s6w21">
+        <is_member>1</is_member>
+        <m.rf>m#m-durovic10-p3s6w21</m.rf>
+        <ord>21</ord>
+        <children>
+         <LM id="a-durovic10-p3s6w2">
+          <m.rf>m#m-durovic10-p3s6w2</m.rf>
+          <ord>2</ord>
+          <afun>ExD</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w3">
+          <m.rf>m#m-durovic10-p3s6w3</m.rf>
+          <ord>3</ord>
+          <children id="a-durovic10-p3s6w4">
+           <m.rf>m#m-durovic10-p3s6w4</m.rf>
+           <ord>4</ord>
+           <children id="a-durovic10-p3s6w7">
+            <m.rf>m#m-durovic10-p3s6w7</m.rf>
+            <ord>7</ord>
+            <children>
+             <LM id="a-durovic10-p3s6w5">
+              <m.rf>m#m-durovic10-p3s6w5</m.rf>
+              <ord>5</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p3s6w6">
+              <m.rf>m#m-durovic10-p3s6w6</m.rf>
+              <ord>6</ord>
+              <afun>AuxG</afun>
+             </LM>
+             <LM id="a-durovic10-p3s6w8">
+              <m.rf>m#m-durovic10-p3s6w8</m.rf>
+              <ord>8</ord>
+              <children id="a-durovic10-p3s6w9">
+               <m.rf>m#m-durovic10-p3s6w9</m.rf>
+               <ord>9</ord>
+               <afun>Atr</afun>
+              </children>
+              <afun>AuxP</afun>
+             </LM>
+             <LM id="a-durovic10-p3s6w10">
+              <m.rf>m#m-durovic10-p3s6w10</m.rf>
+              <ord>10</ord>
+              <afun>AuxG</afun>
+             </LM>
+            </children>
+            <afun>Obj</afun>
+           </children>
+           <afun>AuxP</afun>
+          </children>
+          <is_parenthesis_root>1</is_parenthesis_root>
+          <afun>ExD</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w12">
+          <m.rf>m#m-durovic10-p3s6w12</m.rf>
+          <ord>12</ord>
+          <children>
+           <LM id="a-durovic10-p3s6w11">
+            <m.rf>m#m-durovic10-p3s6w11</m.rf>
+            <ord>11</ord>
+            <afun>AuxX</afun>
+           </LM>
+           <LM id="a-durovic10-p3s6w15">
+            <m.rf>m#m-durovic10-p3s6w15</m.rf>
+            <ord>15</ord>
+            <children>
+             <LM id="a-durovic10-p3s6w13">
+              <m.rf>m#m-durovic10-p3s6w13</m.rf>
+              <ord>13</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p3s6w14">
+              <m.rf>m#m-durovic10-p3s6w14</m.rf>
+              <ord>14</ord>
+              <afun>Atr</afun>
+             </LM>
+            </children>
+            <is_parenthesis_root>1</is_parenthesis_root>
+            <afun>Adv</afun>
+           </LM>
+           <LM id="a-durovic10-p3s6w16">
+            <m.rf>m#m-durovic10-p3s6w16</m.rf>
+            <ord>16</ord>
+            <afun>AuxX</afun>
+           </LM>
+          </children>
+          <afun>AuxP</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w18">
+          <m.rf>m#m-durovic10-p3s6w18</m.rf>
+          <ord>18</ord>
+          <children id="a-durovic10-p3s6w17">
+           <m.rf>m#m-durovic10-p3s6w17</m.rf>
+           <ord>17</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w20">
+          <m.rf>m#m-durovic10-p3s6w20</m.rf>
+          <ord>20</ord>
+          <children id="a-durovic10-p3s6w19">
+           <m.rf>m#m-durovic10-p3s6w19</m.rf>
+           <ord>19</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Sb</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w22">
+          <m.rf>m#m-durovic10-p3s6w22</m.rf>
+          <ord>22</ord>
+          <children id="a-durovic10-p3s6w23">
+           <m.rf>m#m-durovic10-p3s6w23</m.rf>
+           <ord>23</ord>
+           <afun>Adv</afun>
+          </children>
+          <afun>AuxP</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w29">
+          <m.rf>m#m-durovic10-p3s6w29</m.rf>
+          <ord>29</ord>
+          <children>
+           <LM id="a-durovic10-p3s6w26">
+            <m.rf>m#m-durovic10-p3s6w26</m.rf>
+            <ord>26</ord>
+            <children>
+             <LM id="a-durovic10-p3s6w24">
+              <m.rf>m#m-durovic10-p3s6w24</m.rf>
+              <ord>24</ord>
+              <afun>Adv</afun>
+             </LM>
+             <LM id="a-durovic10-p3s6w25">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p3s6w25</m.rf>
+              <ord>25</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p3s6w27">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p3s6w27</m.rf>
+              <ord>27</ord>
+              <afun>Atr</afun>
+             </LM>
+            </children>
+            <afun>Coord</afun>
+           </LM>
+           <LM id="a-durovic10-p3s6w28">
+            <m.rf>m#m-durovic10-p3s6w28</m.rf>
+            <ord>28</ord>
+            <afun>Atr</afun>
+           </LM>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+        </children>
+        <afun>Pred</afun>
+       </LM>
+       <LM id="a-durovic10-p3s6w37">
+        <is_member>1</is_member>
+        <m.rf>m#m-durovic10-p3s6w37</m.rf>
+        <ord>37</ord>
+        <children>
+         <LM id="a-durovic10-p3s6w31">
+          <m.rf>m#m-durovic10-p3s6w31</m.rf>
+          <ord>31</ord>
+          <afun>Adv</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w33">
+          <m.rf>m#m-durovic10-p3s6w33</m.rf>
+          <ord>33</ord>
+          <children id="a-durovic10-p3s6w35">
+           <m.rf>m#m-durovic10-p3s6w35</m.rf>
+           <ord>35</ord>
+           <children id="a-durovic10-p3s6w34">
+            <m.rf>m#m-durovic10-p3s6w34</m.rf>
+            <ord>34</ord>
+            <children id="a-durovic10-p3s6w32">
+             <m.rf>m#m-durovic10-p3s6w32</m.rf>
+             <ord>32</ord>
+             <afun>AuxZ</afun>
+            </children>
+            <afun>Atr</afun>
+           </children>
+           <afun>Adv</afun>
+          </children>
+          <afun>AuxP</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w36">
+          <m.rf>m#m-durovic10-p3s6w36</m.rf>
+          <ord>36</ord>
+          <afun>Adv</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w40">
+          <m.rf>m#m-durovic10-p3s6w40</m.rf>
+          <ord>40</ord>
+          <children>
+           <LM id="a-durovic10-p3s6w38">
+            <m.rf>m#m-durovic10-p3s6w38</m.rf>
+            <ord>38</ord>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p3s6w39">
+            <m.rf>m#m-durovic10-p3s6w39</m.rf>
+            <ord>39</ord>
+            <afun>Atr</afun>
+           </LM>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-durovic10-p3s6w43">
+          <m.rf>m#m-durovic10-p3s6w43</m.rf>
+          <ord>43</ord>
+          <children>
+           <LM id="a-durovic10-p3s6w41">
+            <m.rf>m#m-durovic10-p3s6w41</m.rf>
+            <ord>41</ord>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p3s6w42">
+            <m.rf>m#m-durovic10-p3s6w42</m.rf>
+            <ord>42</ord>
+            <afun>Atr</afun>
+           </LM>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+        </children>
+        <afun>Pred</afun>
+       </LM>
+      </children>
+      <afun>Coord</afun>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-durovic10-p3s6w44">
+     <m.rf>m#m-durovic10-p3s6w44</m.rf>
+     <ord>44</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s7">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s7</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s7w12">
+     <m.rf>m#m-durovic10-p3s7w12</m.rf>
+     <ord>12</ord>
+     <children>
+      <LM id="a-durovic10-p3s7w4">
+       <m.rf>m#m-durovic10-p3s7w4</m.rf>
+       <ord>4</ord>
+       <children>
+        <LM id="a-durovic10-p3s7w1">
+         <m.rf>m#m-durovic10-p3s7w1</m.rf>
+         <ord>1</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w2">
+         <m.rf>m#m-durovic10-p3s7w2</m.rf>
+         <ord>2</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w3">
+         <m.rf>m#m-durovic10-p3s7w3</m.rf>
+         <ord>3</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w5">
+         <m.rf>m#m-durovic10-p3s7w5</m.rf>
+         <ord>5</ord>
+         <afun>ExD</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w6">
+         <m.rf>m#m-durovic10-p3s7w6</m.rf>
+         <ord>6</ord>
+         <children>
+          <LM id="a-durovic10-p3s7w7">
+           <m.rf>m#m-durovic10-p3s7w7</m.rf>
+           <ord>7</ord>
+           <is_parenthesis_root>1</is_parenthesis_root>
+           <afun>ExD</afun>
+          </LM>
+          <LM id="a-durovic10-p3s7w10">
+           <m.rf>m#m-durovic10-p3s7w10</m.rf>
+           <ord>10</ord>
+           <children>
+            <LM id="a-durovic10-p3s7w8">
+             <m.rf>m#m-durovic10-p3s7w8</m.rf>
+             <ord>8</ord>
+             <afun>Adv</afun>
+            </LM>
+            <LM id="a-durovic10-p3s7w9">
+             <m.rf>m#m-durovic10-p3s7w9</m.rf>
+             <ord>9</ord>
+             <afun>Adv</afun>
+            </LM>
+           </children>
+           <is_parenthesis_root>1</is_parenthesis_root>
+           <afun>ExD</afun>
+          </LM>
+         </children>
+         <afun>AuxC</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w11">
+         <m.rf>m#m-durovic10-p3s7w11</m.rf>
+         <ord>11</ord>
+         <afun>ExD</afun>
+        </LM>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p3s7w13">
+       <m.rf>m#m-durovic10-p3s7w13</m.rf>
+       <ord>13</ord>
+       <afun>AuxT</afun>
+      </LM>
+      <LM id="a-durovic10-p3s7w16">
+       <m.rf>m#m-durovic10-p3s7w16</m.rf>
+       <ord>16</ord>
+       <children>
+        <LM id="a-durovic10-p3s7w14">
+         <m.rf>m#m-durovic10-p3s7w14</m.rf>
+         <ord>14</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w15">
+         <m.rf>m#m-durovic10-p3s7w15</m.rf>
+         <ord>15</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p3s7w17">
+         <m.rf>m#m-durovic10-p3s7w17</m.rf>
+         <ord>17</ord>
+         <children id="a-durovic10-p3s7w18">
+          <m.rf>m#m-durovic10-p3s7w18</m.rf>
+          <ord>18</ord>
+          <children id="a-durovic10-p3s7w19">
+           <m.rf>m#m-durovic10-p3s7w19</m.rf>
+           <ord>19</ord>
+           <children id="a-durovic10-p3s7w21">
+            <m.rf>m#m-durovic10-p3s7w21</m.rf>
+            <ord>21</ord>
+            <children id="a-durovic10-p3s7w20">
+             <m.rf>m#m-durovic10-p3s7w20</m.rf>
+             <ord>20</ord>
+             <afun>Atr</afun>
+            </children>
+            <afun>Atr</afun>
+           </children>
+           <afun>Atr</afun>
+          </children>
+          <afun>Atr</afun>
+         </children>
+         <afun>AuxP</afun>
+        </LM>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+      <LM id="a-durovic10-p3s7w23">
+       <m.rf>m#m-durovic10-p3s7w23</m.rf>
+       <ord>23</ord>
+       <children id="a-durovic10-p3s7w24">
+        <m.rf>m#m-durovic10-p3s7w24</m.rf>
+        <ord>24</ord>
+        <children>
+         <LM id="a-durovic10-p3s7w22">
+          <m.rf>m#m-durovic10-p3s7w22</m.rf>
+          <ord>22</ord>
+          <afun>AuxZ</afun>
+         </LM>
+         <LM id="a-durovic10-p3s7w26">
+          <m.rf>m#m-durovic10-p3s7w26</m.rf>
+          <ord>26</ord>
+          <children>
+           <LM id="a-durovic10-p3s7w25">
+            <m.rf>m#m-durovic10-p3s7w25</m.rf>
+            <ord>25</ord>
+            <afun>AuxX</afun>
+           </LM>
+           <LM id="a-durovic10-p3s7w39">
+            <m.rf>m#m-durovic10-p3s7w39</m.rf>
+            <ord>39</ord>
+            <children>
+             <LM id="a-durovic10-p3s7w27">
+              <m.rf>m#m-durovic10-p3s7w27</m.rf>
+              <ord>27</ord>
+              <afun>AuxT</afun>
+             </LM>
+             <LM id="a-durovic10-p3s7w30">
+              <m.rf>m#m-durovic10-p3s7w30</m.rf>
+              <ord>30</ord>
+              <children>
+               <LM id="a-durovic10-p3s7w28">
+                <m.rf>m#m-durovic10-p3s7w28</m.rf>
+                <ord>28</ord>
+                <afun>Atr</afun>
+               </LM>
+               <LM id="a-durovic10-p3s7w29">
+                <m.rf>m#m-durovic10-p3s7w29</m.rf>
+                <ord>29</ord>
+                <afun>Atr</afun>
+               </LM>
+               <LM id="a-durovic10-p3s7w34">
+                <m.rf>m#m-durovic10-p3s7w34</m.rf>
+                <ord>34</ord>
+                <children>
+                 <LM id="a-durovic10-p3s7w33">
+                  <is_member>1</is_member>
+                  <m.rf>m#m-durovic10-p3s7w33</m.rf>
+                  <ord>33</ord>
+                  <children>
+                   <LM id="a-durovic10-p3s7w31">
+                    <m.rf>m#m-durovic10-p3s7w31</m.rf>
+                    <ord>31</ord>
+                    <afun>Atr</afun>
+                   </LM>
+                   <LM id="a-durovic10-p3s7w32">
+                    <m.rf>m#m-durovic10-p3s7w32</m.rf>
+                    <ord>32</ord>
+                    <afun>Atr</afun>
+                   </LM>
+                  </children>
+                  <afun>Atr</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s7w36">
+                  <is_member>1</is_member>
+                  <m.rf>m#m-durovic10-p3s7w36</m.rf>
+                  <ord>36</ord>
+                  <children id="a-durovic10-p3s7w35">
+                   <m.rf>m#m-durovic10-p3s7w35</m.rf>
+                   <ord>35</ord>
+                   <afun>Atr</afun>
+                  </children>
+                  <afun>Atr</afun>
+                 </LM>
+                </children>
+                <afun>Coord</afun>
+               </LM>
+              </children>
+              <afun>Adv</afun>
+             </LM>
+             <LM id="a-durovic10-p3s7w37">
+              <m.rf>m#m-durovic10-p3s7w37</m.rf>
+              <ord>37</ord>
+              <afun>Sb</afun>
+             </LM>
+             <LM id="a-durovic10-p3s7w38">
+              <m.rf>m#m-durovic10-p3s7w38</m.rf>
+              <ord>38</ord>
+              <afun>AuxY</afun>
+             </LM>
+             <LM id="a-durovic10-p3s7w40">
+              <m.rf>m#m-durovic10-p3s7w40</m.rf>
+              <ord>40</ord>
+              <children id="a-durovic10-p3s7w42">
+               <m.rf>m#m-durovic10-p3s7w42</m.rf>
+               <ord>42</ord>
+               <children id="a-durovic10-p3s7w41">
+                <m.rf>m#m-durovic10-p3s7w41</m.rf>
+                <ord>41</ord>
+                <afun>Atr</afun>
+               </children>
+               <afun>Atr</afun>
+              </children>
+              <afun>Obj</afun>
+             </LM>
+             <LM id="a-durovic10-p3s7w44">
+              <m.rf>m#m-durovic10-p3s7w44</m.rf>
+              <ord>44</ord>
+              <children>
+               <LM id="a-durovic10-p3s7w43">
+                <m.rf>m#m-durovic10-p3s7w43</m.rf>
+                <ord>43</ord>
+                <afun>AuxG</afun>
+               </LM>
+               <LM id="a-durovic10-p3s7w54">
+                <m.rf>m#m-durovic10-p3s7w54</m.rf>
+                <ord>54</ord>
+                <children>
+                 <LM id="a-durovic10-p3s7w45">
+                  <m.rf>m#m-durovic10-p3s7w45</m.rf>
+                  <ord>45</ord>
+                  <children id="a-durovic10-p3s7w47">
+                   <m.rf>m#m-durovic10-p3s7w47</m.rf>
+                   <ord>47</ord>
+                   <children id="a-durovic10-p3s7w46">
+                    <m.rf>m#m-durovic10-p3s7w46</m.rf>
+                    <ord>46</ord>
+                    <afun>Atr</afun>
+                   </children>
+                   <afun>Adv</afun>
+                  </children>
+                  <afun>AuxP</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s7w48">
+                  <m.rf>m#m-durovic10-p3s7w48</m.rf>
+                  <ord>48</ord>
+                  <afun>AuxV</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s7w49">
+                  <m.rf>m#m-durovic10-p3s7w49</m.rf>
+                  <ord>49</ord>
+                  <children id="a-durovic10-p3s7w50">
+                   <m.rf>m#m-durovic10-p3s7w50</m.rf>
+                   <ord>50</ord>
+                   <children id="a-durovic10-p3s7w51">
+                    <m.rf>m#m-durovic10-p3s7w51</m.rf>
+                    <ord>51</ord>
+                    <children id="a-durovic10-p3s7w53">
+                     <m.rf>m#m-durovic10-p3s7w53</m.rf>
+                     <ord>53</ord>
+                     <children id="a-durovic10-p3s7w52">
+                      <m.rf>m#m-durovic10-p3s7w52</m.rf>
+                      <ord>52</ord>
+                      <afun>Atr</afun>
+                     </children>
+                     <afun>Atr</afun>
+                    </children>
+                    <afun>AuxP</afun>
+                   </children>
+                   <afun>Adv</afun>
+                  </children>
+                  <afun>AuxP</afun>
+                 </LM>
+                 <LM id="a-durovic10-p3s7w56">
+                  <m.rf>m#m-durovic10-p3s7w56</m.rf>
+                  <ord>56</ord>
+                  <children>
+                   <LM id="a-durovic10-p3s7w55">
+                    <m.rf>m#m-durovic10-p3s7w55</m.rf>
+                    <ord>55</ord>
+                    <afun>AuxY</afun>
+                   </LM>
+                   <LM id="a-durovic10-p3s7w63">
+                    <m.rf>m#m-durovic10-p3s7w63</m.rf>
+                    <ord>63</ord>
+                    <children>
+                     <LM id="a-durovic10-p3s7w60">
+                      <m.rf>m#m-durovic10-p3s7w60</m.rf>
+                      <ord>60</ord>
+                      <children>
+                       <LM id="a-durovic10-p3s7w57">
+                        <is_member>1</is_member>
+                        <m.rf>m#m-durovic10-p3s7w57</m.rf>
+                        <ord>57</ord>
+                        <afun>Atr</afun>
+                       </LM>
+                       <LM id="a-durovic10-p3s7w58">
+                        <m.rf>m#m-durovic10-p3s7w58</m.rf>
+                        <ord>58</ord>
+                        <afun>AuxX</afun>
+                       </LM>
+                       <LM id="a-durovic10-p3s7w59">
+                        <is_member>1</is_member>
+                        <m.rf>m#m-durovic10-p3s7w59</m.rf>
+                        <ord>59</ord>
+                        <afun>Atr</afun>
+                       </LM>
+                       <LM id="a-durovic10-p3s7w62">
+                        <is_member>1</is_member>
+                        <m.rf>m#m-durovic10-p3s7w62</m.rf>
+                        <ord>62</ord>
+                        <children id="a-durovic10-p3s7w61">
+                         <m.rf>m#m-durovic10-p3s7w61</m.rf>
+                         <ord>61</ord>
+                         <afun>Adv</afun>
+                        </children>
+                        <afun>Atr</afun>
+                       </LM>
+                      </children>
+                      <afun>Coord</afun>
+                     </LM>
+                     <LM id="a-durovic10-p3s7w67">
+                      <m.rf>m#m-durovic10-p3s7w67</m.rf>
+                      <ord>67</ord>
+                      <children>
+                       <LM id="a-durovic10-p3s7w65">
+                        <m.rf>m#m-durovic10-p3s7w65</m.rf>
+                        <ord>65</ord>
+                        <children id="a-durovic10-p3s7w64">
+                         <m.rf>m#m-durovic10-p3s7w64</m.rf>
+                         <ord>64</ord>
+                         <afun>AuxZ</afun>
+                        </children>
+                        <afun>Atr</afun>
+                       </LM>
+                       <LM id="a-durovic10-p3s7w66">
+                        <m.rf>m#m-durovic10-p3s7w66</m.rf>
+                        <ord>66</ord>
+                        <afun>Atr</afun>
+                       </LM>
+                      </children>
+                      <afun>Atr</afun>
+                     </LM>
+                    </children>
+                    <afun>Adv</afun>
+                   </LM>
+                  </children>
+                  <afun>AuxP</afun>
+                 </LM>
+                </children>
+                <afun>Adv</afun>
+               </LM>
+              </children>
+              <afun>AuxC</afun>
+             </LM>
+            </children>
+            <afun>Atr</afun>
+           </LM>
+          </children>
+          <afun>AuxC</afun>
+         </LM>
+        </children>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p3s7w68">
+     <m.rf>m#m-durovic10-p3s7w68</m.rf>
+     <ord>68</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p3s8">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p3s8</s.rf>
+   <children>
+    <LM id="a-durovic10-p3s8w1">
+     <m.rf>m#m-durovic10-p3s8w1</m.rf>
+     <ord>1</ord>
+     <children id="a-durovic10-p3s8w24">
+      <m.rf>m#m-durovic10-p3s8w24</m.rf>
+      <ord>24</ord>
+      <children>
+       <LM id="a-durovic10-p3s8w5">
+        <m.rf>m#m-durovic10-p3s8w5</m.rf>
+        <ord>5</ord>
+        <children>
+         <LM id="a-durovic10-p3s8w2">
+          <is_member>1</is_member>
+          <m.rf>m#m-durovic10-p3s8w2</m.rf>
+          <ord>2</ord>
+          <children id="a-durovic10-p3s8w4">
+           <m.rf>m#m-durovic10-p3s8w4</m.rf>
+           <ord>4</ord>
+           <children id="a-durovic10-p3s8w3">
+            <m.rf>m#m-durovic10-p3s8w3</m.rf>
+            <ord>3</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>Atr</afun>
+          </children>
+          <afun>Sb</afun>
+         </LM>
+         <LM id="a-durovic10-p3s8w6">
+          <is_member>1</is_member>
+          <m.rf>m#m-durovic10-p3s8w6</m.rf>
+          <ord>6</ord>
+          <children>
+           <LM id="a-durovic10-p3s8w13">
+            <m.rf>m#m-durovic10-p3s8w13</m.rf>
+            <ord>13</ord>
+            <children>
+             <LM id="a-durovic10-p3s8w7">
+              <m.rf>m#m-durovic10-p3s8w7</m.rf>
+              <ord>7</ord>
+              <children id="a-durovic10-p3s8w10">
+               <m.rf>m#m-durovic10-p3s8w10</m.rf>
+               <ord>10</ord>
+               <children>
+                <LM id="a-durovic10-p3s8w8">
+                 <m.rf>m#m-durovic10-p3s8w8</m.rf>
+                 <ord>8</ord>
+                 <afun>AuxG</afun>
+                </LM>
+                <LM id="a-durovic10-p3s8w9">
+                 <m.rf>m#m-durovic10-p3s8w9</m.rf>
+                 <ord>9</ord>
+                 <afun>Atr</afun>
+                </LM>
+                <LM id="a-durovic10-p3s8w11">
+                 <m.rf>m#m-durovic10-p3s8w11</m.rf>
+                 <ord>11</ord>
+                 <afun>AuxG</afun>
+                </LM>
+               </children>
+               <afun>Atr</afun>
+              </children>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p3s8w12">
+              <m.rf>m#m-durovic10-p3s8w12</m.rf>
+              <ord>12</ord>
+              <afun>Atr</afun>
+             </LM>
+            </children>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p3s8w14">
+            <m.rf>m#m-durovic10-p3s8w14</m.rf>
+            <ord>14</ord>
+            <children id="a-durovic10-p3s8w15">
+             <m.rf>m#m-durovic10-p3s8w15</m.rf>
+             <ord>15</ord>
+             <afun>Atr</afun>
+            </children>
+            <afun>AuxP</afun>
+           </LM>
+          </children>
+          <afun>Sb</afun>
+         </LM>
+         <LM id="a-durovic10-p3s8w16">
+          <m.rf>m#m-durovic10-p3s8w16</m.rf>
+          <ord>16</ord>
+          <afun>AuxX</afun>
+         </LM>
+        </children>
+        <afun>Coord</afun>
+       </LM>
+       <LM id="a-durovic10-p3s8w17">
+        <m.rf>m#m-durovic10-p3s8w17</m.rf>
+        <ord>17</ord>
+        <children id="a-durovic10-p3s8w19">
+         <m.rf>m#m-durovic10-p3s8w19</m.rf>
+         <ord>19</ord>
+         <children>
+          <LM id="a-durovic10-p3s8w18">
+           <m.rf>m#m-durovic10-p3s8w18</m.rf>
+           <ord>18</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p3s8w21">
+           <m.rf>m#m-durovic10-p3s8w21</m.rf>
+           <ord>21</ord>
+           <children id="a-durovic10-p3s8w20">
+            <m.rf>m#m-durovic10-p3s8w20</m.rf>
+            <ord>20</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>Atr</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </children>
+        <afun>AuxP</afun>
+       </LM>
+       <LM id="a-durovic10-p3s8w23">
+        <m.rf>m#m-durovic10-p3s8w23</m.rf>
+        <ord>23</ord>
+        <children id="a-durovic10-p3s8w22">
+         <m.rf>m#m-durovic10-p3s8w22</m.rf>
+         <ord>22</ord>
+         <afun>AuxY</afun>
+        </children>
+        <afun>Obj</afun>
+       </LM>
+      </children>
+      <afun>Pred</afun>
+     </children>
+     <afun>AuxC</afun>
+    </LM>
+    <LM id="a-durovic10-p3s8w25">
+     <m.rf>m#m-durovic10-p3s8w25</m.rf>
+     <ord>25</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p4s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p4s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p4s1w6">
+     <m.rf>m#m-durovic10-p4s1w6</m.rf>
+     <ord>6</ord>
+     <children>
+      <LM id="a-durovic10-p4s1w1">
+       <m.rf>m#m-durovic10-p4s1w1</m.rf>
+       <ord>1</ord>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p4s1w2">
+       <m.rf>m#m-durovic10-p4s1w2</m.rf>
+       <ord>2</ord>
+       <afun>AuxR</afun>
+      </LM>
+      <LM id="a-durovic10-p4s1w3">
+       <m.rf>m#m-durovic10-p4s1w3</m.rf>
+       <ord>3</ord>
+       <children id="a-durovic10-p4s1w4">
+        <m.rf>m#m-durovic10-p4s1w4</m.rf>
+        <ord>4</ord>
+        <children id="a-durovic10-p4s1w5">
+         <m.rf>m#m-durovic10-p4s1w5</m.rf>
+         <ord>5</ord>
+         <afun>Adv</afun>
+        </children>
+        <afun>AuxP</afun>
+       </children>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p4s1w8">
+       <m.rf>m#m-durovic10-p4s1w8</m.rf>
+       <ord>8</ord>
+       <children>
+        <LM id="a-durovic10-p4s1w7">
+         <m.rf>m#m-durovic10-p4s1w7</m.rf>
+         <ord>7</ord>
+         <afun>AuxG</afun>
+        </LM>
+        <LM id="a-durovic10-p4s1w10">
+         <m.rf>m#m-durovic10-p4s1w10</m.rf>
+         <ord>10</ord>
+         <children id="a-durovic10-p4s1w9">
+          <m.rf>m#m-durovic10-p4s1w9</m.rf>
+          <ord>9</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-durovic10-p4s1w11">
+         <m.rf>m#m-durovic10-p4s1w11</m.rf>
+         <ord>11</ord>
+         <children id="a-durovic10-p4s1w12">
+          <m.rf>m#m-durovic10-p4s1w12</m.rf>
+          <ord>12</ord>
+          <children id="a-durovic10-p4s1w13">
+           <m.rf>m#m-durovic10-p4s1w13</m.rf>
+           <ord>13</ord>
+           <children id="a-durovic10-p4s1w14">
+            <m.rf>m#m-durovic10-p4s1w14</m.rf>
+            <ord>14</ord>
+            <afun>ExD</afun>
+           </children>
+           <afun>Adv</afun>
+          </children>
+          <afun>AuxC</afun>
+         </children>
+         <afun>Pnom</afun>
+        </LM>
+        <LM id="a-durovic10-p4s1w15">
+         <m.rf>m#m-durovic10-p4s1w15</m.rf>
+         <ord>15</ord>
+         <afun>AuxG</afun>
+        </LM>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p4s1w16">
+     <m.rf>m#m-durovic10-p4s1w16</m.rf>
+     <ord>16</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p4s2">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p4s2</s.rf>
+   <children>
+    <LM id="a-durovic10-p4s2w9">
+     <m.rf>m#m-durovic10-p4s2w9</m.rf>
+     <ord>9</ord>
+     <children>
+      <LM id="a-durovic10-p4s2w1">
+       <m.rf>m#m-durovic10-p4s2w1</m.rf>
+       <ord>1</ord>
+       <children id="a-durovic10-p4s2w3">
+        <m.rf>m#m-durovic10-p4s2w3</m.rf>
+        <ord>3</ord>
+        <children>
+         <LM id="a-durovic10-p4s2w2">
+          <m.rf>m#m-durovic10-p4s2w2</m.rf>
+          <ord>2</ord>
+          <afun>Atr</afun>
+         </LM>
+         <LM id="a-durovic10-p4s2w4">
+          <m.rf>m#m-durovic10-p4s2w4</m.rf>
+          <ord>4</ord>
+          <children id="a-durovic10-p4s2w8">
+           <m.rf>m#m-durovic10-p4s2w8</m.rf>
+           <ord>8</ord>
+           <children>
+            <LM id="a-durovic10-p4s2w5">
+             <m.rf>m#m-durovic10-p4s2w5</m.rf>
+             <ord>5</ord>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p4s2w6">
+             <m.rf>m#m-durovic10-p4s2w6</m.rf>
+             <ord>6</ord>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p4s2w7">
+             <m.rf>m#m-durovic10-p4s2w7</m.rf>
+             <ord>7</ord>
+             <afun>Atr</afun>
+            </LM>
+           </children>
+           <afun>Atr</afun>
+          </children>
+          <afun>AuxP</afun>
+         </LM>
+        </children>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p4s2w10">
+       <m.rf>m#m-durovic10-p4s2w10</m.rf>
+       <ord>10</ord>
+       <afun>AuxT</afun>
+      </LM>
+      <LM id="a-durovic10-p4s2w11">
+       <m.rf>m#m-durovic10-p4s2w11</m.rf>
+       <ord>11</ord>
+       <children id="a-durovic10-p4s2w12">
+        <m.rf>m#m-durovic10-p4s2w12</m.rf>
+        <ord>12</ord>
+        <children id="a-durovic10-p4s2w13">
+         <m.rf>m#m-durovic10-p4s2w13</m.rf>
+         <ord>13</ord>
+         <afun>Atr</afun>
+        </children>
+        <afun>Atr</afun>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p4s2w14">
+     <m.rf>m#m-durovic10-p4s2w14</m.rf>
+     <ord>14</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p4s3">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p4s3</s.rf>
+   <children>
+    <LM id="a-durovic10-p4s3w51">
+     <m.rf>m#m-durovic10-p4s3w51</m.rf>
+     <ord>51</ord>
+     <children>
+      <LM id="a-durovic10-p4s3w1">
+       <m.rf>m#m-durovic10-p4s3w1</m.rf>
+       <ord>1</ord>
+       <children id="a-durovic10-p4s3w2">
+        <m.rf>m#m-durovic10-p4s3w2</m.rf>
+        <ord>2</ord>
+        <children id="a-durovic10-p4s3w4">
+         <m.rf>m#m-durovic10-p4s3w4</m.rf>
+         <ord>4</ord>
+         <children>
+          <LM id="a-durovic10-p4s3w3">
+           <m.rf>m#m-durovic10-p4s3w3</m.rf>
+           <ord>3</ord>
+           <afun>AuxX</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w7">
+           <m.rf>m#m-durovic10-p4s3w7</m.rf>
+           <ord>7</ord>
+           <children>
+            <LM id="a-durovic10-p4s3w5">
+             <m.rf>m#m-durovic10-p4s3w5</m.rf>
+             <ord>5</ord>
+             <afun>Obj</afun>
+            </LM>
+            <LM id="a-durovic10-p4s3w6">
+             <m.rf>m#m-durovic10-p4s3w6</m.rf>
+             <ord>6</ord>
+             <afun>Adv</afun>
+            </LM>
+            <LM id="a-durovic10-p4s3w8">
+             <m.rf>m#m-durovic10-p4s3w8</m.rf>
+             <ord>8</ord>
+             <afun>Obj</afun>
+            </LM>
+            <LM id="a-durovic10-p4s3w9">
+             <m.rf>m#m-durovic10-p4s3w9</m.rf>
+             <ord>9</ord>
+             <children id="a-durovic10-p4s3w10">
+              <m.rf>m#m-durovic10-p4s3w10</m.rf>
+              <ord>10</ord>
+              <afun>Adv</afun>
+             </children>
+             <afun>AuxP</afun>
+            </LM>
+            <LM id="a-durovic10-p4s3w16">
+             <m.rf>m#m-durovic10-p4s3w16</m.rf>
+             <ord>16</ord>
+             <children>
+              <LM id="a-durovic10-p4s3w11">
+               <m.rf>m#m-durovic10-p4s3w11</m.rf>
+               <ord>11</ord>
+               <afun>AuxG</afun>
+              </LM>
+              <LM id="a-durovic10-p4s3w12">
+               <m.rf>m#m-durovic10-p4s3w12</m.rf>
+               <ord>12</ord>
+               <afun>Adv</afun>
+              </LM>
+              <LM id="a-durovic10-p4s3w13">
+               <m.rf>m#m-durovic10-p4s3w13</m.rf>
+               <ord>13</ord>
+               <afun>Obj</afun>
+              </LM>
+              <LM id="a-durovic10-p4s3w14">
+               <m.rf>m#m-durovic10-p4s3w14</m.rf>
+               <ord>14</ord>
+               <afun>Sb</afun>
+              </LM>
+              <LM id="a-durovic10-p4s3w15">
+               <m.rf>m#m-durovic10-p4s3w15</m.rf>
+               <ord>15</ord>
+               <afun>Adv</afun>
+              </LM>
+              <LM id="a-durovic10-p4s3w17">
+               <m.rf>m#m-durovic10-p4s3w17</m.rf>
+               <ord>17</ord>
+               <afun>AuxG</afun>
+              </LM>
+             </children>
+             <is_parenthesis_root>1</is_parenthesis_root>
+             <afun>Pred</afun>
+            </LM>
+           </children>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w18">
+           <m.rf>m#m-durovic10-p4s3w18</m.rf>
+           <ord>18</ord>
+           <afun>AuxX</afun>
+          </LM>
+         </children>
+         <afun>AuxC</afun>
+        </children>
+        <afun>Obj</afun>
+       </children>
+       <afun>AuxC</afun>
+      </LM>
+      <LM id="a-durovic10-p4s3w19">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p4s3w19</m.rf>
+       <ord>19</ord>
+       <children id="a-durovic10-p4s3w41">
+        <m.rf>m#m-durovic10-p4s3w41</m.rf>
+        <ord>41</ord>
+        <children>
+         <LM id="a-durovic10-p4s3w26">
+          <m.rf>m#m-durovic10-p4s3w26</m.rf>
+          <ord>26</ord>
+          <afun>AuxY</afun>
+         </LM>
+         <LM id="a-durovic10-p4s3w27">
+          <is_member>1</is_member>
+          <m.rf>m#m-durovic10-p4s3w27</m.rf>
+          <ord>27</ord>
+          <children>
+           <LM id="a-durovic10-p4s3w28">
+            <m.rf>m#m-durovic10-p4s3w28</m.rf>
+            <ord>28</ord>
+            <afun>ExD</afun>
+           </LM>
+           <LM id="a-durovic10-p4s3w32">
+            <m.rf>m#m-durovic10-p4s3w32</m.rf>
+            <ord>32</ord>
+            <children>
+             <LM id="a-durovic10-p4s3w29">
+              <m.rf>m#m-durovic10-p4s3w29</m.rf>
+              <ord>29</ord>
+              <afun>Sb</afun>
+             </LM>
+             <LM id="a-durovic10-p4s3w30">
+              <m.rf>m#m-durovic10-p4s3w30</m.rf>
+              <ord>30</ord>
+              <children id="a-durovic10-p4s3w31">
+               <m.rf>m#m-durovic10-p4s3w31</m.rf>
+               <ord>31</ord>
+               <afun>AuxY</afun>
+              </children>
+              <afun>AuxZ</afun>
+             </LM>
+             <LM id="a-durovic10-p4s3w33">
+              <m.rf>m#m-durovic10-p4s3w33</m.rf>
+              <ord>33</ord>
+              <children id="a-durovic10-p4s3w34">
+               <m.rf>m#m-durovic10-p4s3w34</m.rf>
+               <ord>34</ord>
+               <children id="a-durovic10-p4s3w38">
+                <m.rf>m#m-durovic10-p4s3w38</m.rf>
+                <ord>38</ord>
+                <children id="a-durovic10-p4s3w36">
+                 <m.rf>m#m-durovic10-p4s3w36</m.rf>
+                 <ord>36</ord>
+                 <children>
+                  <LM id="a-durovic10-p4s3w35">
+                   <is_member>1</is_member>
+                   <m.rf>m#m-durovic10-p4s3w35</m.rf>
+                   <ord>35</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                  <LM id="a-durovic10-p4s3w37">
+                   <is_member>1</is_member>
+                   <m.rf>m#m-durovic10-p4s3w37</m.rf>
+                   <ord>37</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                 </children>
+                 <afun>Coord</afun>
+                </children>
+                <afun>Atr</afun>
+               </children>
+               <afun>Pnom</afun>
+              </children>
+              <afun>Obj</afun>
+             </LM>
+            </children>
+            <is_parenthesis_root>1</is_parenthesis_root>
+            <afun>ExD</afun>
+           </LM>
+           <LM id="a-durovic10-p4s3w39">
+            <m.rf>m#m-durovic10-p4s3w39</m.rf>
+            <ord>39</ord>
+            <afun>ExD</afun>
+           </LM>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-durovic10-p4s3w40">
+          <m.rf>m#m-durovic10-p4s3w40</m.rf>
+          <ord>40</ord>
+          <afun>AuxX</afun>
+         </LM>
+         <LM id="a-durovic10-p4s3w42">
+          <is_member>1</is_member>
+          <m.rf>m#m-durovic10-p4s3w42</m.rf>
+          <ord>42</ord>
+          <children>
+           <LM id="a-durovic10-p4s3w43">
+            <m.rf>m#m-durovic10-p4s3w43</m.rf>
+            <ord>43</ord>
+            <afun>Obj</afun>
+           </LM>
+           <LM id="a-durovic10-p4s3w46">
+            <m.rf>m#m-durovic10-p4s3w46</m.rf>
+            <ord>46</ord>
+            <children>
+             <LM id="a-durovic10-p4s3w44">
+              <m.rf>m#m-durovic10-p4s3w44</m.rf>
+              <ord>44</ord>
+              <children id="a-durovic10-p4s3w45">
+               <is_member>1</is_member>
+               <m.rf>m#m-durovic10-p4s3w45</m.rf>
+               <ord>45</ord>
+               <afun>Obj</afun>
+              </children>
+              <afun>AuxP</afun>
+             </LM>
+             <LM id="a-durovic10-p4s3w48">
+              <m.rf>m#m-durovic10-p4s3w48</m.rf>
+              <ord>48</ord>
+              <children id="a-durovic10-p4s3w50">
+               <is_member>1</is_member>
+               <m.rf>m#m-durovic10-p4s3w50</m.rf>
+               <ord>50</ord>
+               <children>
+                <LM id="a-durovic10-p4s3w47">
+                 <m.rf>m#m-durovic10-p4s3w47</m.rf>
+                 <ord>47</ord>
+                 <afun>AuxZ</afun>
+                </LM>
+                <LM id="a-durovic10-p4s3w49">
+                 <m.rf>m#m-durovic10-p4s3w49</m.rf>
+                 <ord>49</ord>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Obj</afun>
+              </children>
+              <afun>AuxP</afun>
+             </LM>
+            </children>
+            <afun>Coord</afun>
+           </LM>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+        </children>
+        <afun>Coord</afun>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-durovic10-p4s3w25">
+       <m.rf>m#m-durovic10-p4s3w25</m.rf>
+       <ord>25</ord>
+       <children>
+        <LM id="a-durovic10-p4s3w20">
+         <m.rf>m#m-durovic10-p4s3w20</m.rf>
+         <ord>20</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p4s3w22">
+         <m.rf>m#m-durovic10-p4s3w22</m.rf>
+         <ord>22</ord>
+         <children>
+          <LM id="a-durovic10-p4s3w21">
+           <m.rf>m#m-durovic10-p4s3w21</m.rf>
+           <ord>21</ord>
+           <afun>AuxG</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w23">
+           <m.rf>m#m-durovic10-p4s3w23</m.rf>
+           <ord>23</ord>
+           <afun>AuxG</afun>
+          </LM>
+         </children>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p4s3w24">
+         <m.rf>m#m-durovic10-p4s3w24</m.rf>
+         <ord>24</ord>
+         <afun>Atr</afun>
+        </LM>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p4s3w57">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p4s3w57</m.rf>
+       <ord>57</ord>
+       <children>
+        <LM id="a-durovic10-p4s3w54">
+         <m.rf>m#m-durovic10-p4s3w54</m.rf>
+         <ord>54</ord>
+         <children>
+          <LM id="a-durovic10-p4s3w52">
+           <m.rf>m#m-durovic10-p4s3w52</m.rf>
+           <ord>52</ord>
+           <afun>AuxX</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w53">
+           <m.rf>m#m-durovic10-p4s3w53</m.rf>
+           <ord>53</ord>
+           <afun>Sb</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w55">
+           <m.rf>m#m-durovic10-p4s3w55</m.rf>
+           <ord>55</ord>
+           <afun>Pnom</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w56">
+           <m.rf>m#m-durovic10-p4s3w56</m.rf>
+           <ord>56</ord>
+           <afun>AuxX</afun>
+          </LM>
+         </children>
+         <is_parenthesis_root>1</is_parenthesis_root>
+         <afun>Pred</afun>
+        </LM>
+        <LM id="a-durovic10-p4s3w59">
+         <m.rf>m#m-durovic10-p4s3w59</m.rf>
+         <ord>59</ord>
+         <children>
+          <LM id="a-durovic10-p4s3w58">
+           <m.rf>m#m-durovic10-p4s3w58</m.rf>
+           <ord>58</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w60">
+           <m.rf>m#m-durovic10-p4s3w60</m.rf>
+           <ord>60</ord>
+           <children id="a-durovic10-p4s3w63">
+            <m.rf>m#m-durovic10-p4s3w63</m.rf>
+            <ord>63</ord>
+            <children>
+             <LM id="a-durovic10-p4s3w61">
+              <m.rf>m#m-durovic10-p4s3w61</m.rf>
+              <ord>61</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p4s3w62">
+              <m.rf>m#m-durovic10-p4s3w62</m.rf>
+              <ord>62</ord>
+              <afun>Atr</afun>
+             </LM>
+            </children>
+            <afun>Atr</afun>
+           </children>
+           <afun>AuxP</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+        <LM id="a-durovic10-p4s3w65">
+         <m.rf>m#m-durovic10-p4s3w65</m.rf>
+         <ord>65</ord>
+         <children>
+          <LM id="a-durovic10-p4s3w64">
+           <m.rf>m#m-durovic10-p4s3w64</m.rf>
+           <ord>64</ord>
+           <afun>AuxG</afun>
+          </LM>
+          <LM id="a-durovic10-p4s3w66">
+           <m.rf>m#m-durovic10-p4s3w66</m.rf>
+           <ord>66</ord>
+           <children id="a-durovic10-p4s3w67">
+            <m.rf>m#m-durovic10-p4s3w67</m.rf>
+            <ord>67</ord>
+            <afun>AuxY</afun>
+           </children>
+           <afun>Obj</afun>
+          </LM>
+         </children>
+         <afun>AuxP</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-durovic10-p4s3w68">
+     <m.rf>m#m-durovic10-p4s3w68</m.rf>
+     <ord>68</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p4s4">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p4s4</s.rf>
+   <children>
+    <LM id="a-durovic10-p4s4w1">
+     <m.rf>m#m-durovic10-p4s4w1</m.rf>
+     <ord>1</ord>
+     <children id="a-durovic10-p4s4w2">
+      <m.rf>m#m-durovic10-p4s4w2</m.rf>
+      <ord>2</ord>
+      <children id="a-durovic10-p4s4w3">
+       <m.rf>m#m-durovic10-p4s4w3</m.rf>
+       <ord>3</ord>
+       <children id="a-durovic10-p4s4w5">
+        <m.rf>m#m-durovic10-p4s4w5</m.rf>
+        <ord>5</ord>
+        <children>
+         <LM id="a-durovic10-p4s4w4">
+          <m.rf>m#m-durovic10-p4s4w4</m.rf>
+          <ord>4</ord>
+          <afun>AuxV</afun>
+         </LM>
+         <LM id="a-durovic10-p4s4w7">
+          <m.rf>m#m-durovic10-p4s4w7</m.rf>
+          <ord>7</ord>
+          <children id="a-durovic10-p4s4w6">
+           <m.rf>m#m-durovic10-p4s4w6</m.rf>
+           <ord>6</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-durovic10-p4s4w8">
+          <m.rf>m#m-durovic10-p4s4w8</m.rf>
+          <ord>8</ord>
+          <children id="a-durovic10-p4s4w16">
+           <m.rf>m#m-durovic10-p4s4w16</m.rf>
+           <ord>16</ord>
+           <children>
+            <LM id="a-durovic10-p4s4w9">
+             <m.rf>m#m-durovic10-p4s4w9</m.rf>
+             <ord>9</ord>
+             <afun>AuxX</afun>
+            </LM>
+            <LM id="a-durovic10-p4s4w10">
+             <m.rf>m#m-durovic10-p4s4w10</m.rf>
+             <ord>10</ord>
+             <children id="a-durovic10-p4s4w11">
+              <m.rf>m#m-durovic10-p4s4w11</m.rf>
+              <ord>11</ord>
+              <afun>Obj</afun>
+             </children>
+             <afun>AuxP</afun>
+            </LM>
+            <LM id="a-durovic10-p4s4w12">
+             <m.rf>m#m-durovic10-p4s4w12</m.rf>
+             <ord>12</ord>
+             <afun>AuxV</afun>
+            </LM>
+            <LM id="a-durovic10-p4s4w13">
+             <m.rf>m#m-durovic10-p4s4w13</m.rf>
+             <ord>13</ord>
+             <children id="a-durovic10-p4s4w14">
+              <m.rf>m#m-durovic10-p4s4w14</m.rf>
+              <ord>14</ord>
+              <afun>Atr</afun>
+             </children>
+             <afun>Adv</afun>
+            </LM>
+            <LM id="a-durovic10-p4s4w15">
+             <m.rf>m#m-durovic10-p4s4w15</m.rf>
+             <ord>15</ord>
+             <afun>Adv</afun>
+            </LM>
+           </children>
+           <afun>Atr</afun>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+        </children>
+        <afun>Atr</afun>
+       </children>
+       <afun>AuxC</afun>
+      </children>
+      <afun>ExD</afun>
+     </children>
+     <afun>AuxP</afun>
+    </LM>
+    <LM id="a-durovic10-p4s4w17">
+     <m.rf>m#m-durovic10-p4s4w17</m.rf>
+     <ord>17</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p5s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p5s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p5s1w3">
+     <m.rf>m#m-durovic10-p5s1w3</m.rf>
+     <ord>3</ord>
+     <children>
+      <LM id="a-durovic10-p5s1w1">
+       <m.rf>m#m-durovic10-p5s1w1</m.rf>
+       <ord>1</ord>
+       <children id="a-durovic10-p5s1w2">
+        <m.rf>m#m-durovic10-p5s1w2</m.rf>
+        <ord>2</ord>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p5s1w5">
+       <m.rf>m#m-durovic10-p5s1w5</m.rf>
+       <ord>5</ord>
+       <children>
+        <LM id="a-durovic10-p5s1w4">
+         <m.rf>m#m-durovic10-p5s1w4</m.rf>
+         <ord>4</ord>
+         <afun>AuxG</afun>
+        </LM>
+        <LM id="a-durovic10-p5s1w7">
+         <m.rf>m#m-durovic10-p5s1w7</m.rf>
+         <ord>7</ord>
+         <children id="a-durovic10-p5s1w6">
+          <m.rf>m#m-durovic10-p5s1w6</m.rf>
+          <ord>6</ord>
+          <afun>Atr</afun>
+         </children>
+         <is_parenthesis_root>1</is_parenthesis_root>
+         <afun>Adv</afun>
+        </LM>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p5s1w8">
+       <m.rf>m#m-durovic10-p5s1w8</m.rf>
+       <ord>8</ord>
+       <children>
+        <LM id="a-durovic10-p5s1w9">
+         <m.rf>m#m-durovic10-p5s1w9</m.rf>
+         <ord>9</ord>
+         <is_parenthesis_root>1</is_parenthesis_root>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p5s1w10">
+         <m.rf>m#m-durovic10-p5s1w10</m.rf>
+         <ord>10</ord>
+         <afun>AuxG</afun>
+        </LM>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p5s1w11">
+       <m.rf>m#m-durovic10-p5s1w11</m.rf>
+       <ord>11</ord>
+       <children id="a-durovic10-p5s1w14">
+        <m.rf>m#m-durovic10-p5s1w14</m.rf>
+        <ord>14</ord>
+        <children>
+         <LM id="a-durovic10-p5s1w12">
+          <m.rf>m#m-durovic10-p5s1w12</m.rf>
+          <ord>12</ord>
+          <afun>Atr</afun>
+         </LM>
+         <LM id="a-durovic10-p5s1w13">
+          <m.rf>m#m-durovic10-p5s1w13</m.rf>
+          <ord>13</ord>
+          <afun>Atr</afun>
+         </LM>
+         <LM id="a-durovic10-p5s1w17">
+          <m.rf>m#m-durovic10-p5s1w17</m.rf>
+          <ord>17</ord>
+          <children>
+           <LM id="a-durovic10-p5s1w15">
+            <m.rf>m#m-durovic10-p5s1w15</m.rf>
+            <ord>15</ord>
+            <afun>AuxX</afun>
+           </LM>
+           <LM id="a-durovic10-p5s1w16">
+            <m.rf>m#m-durovic10-p5s1w16</m.rf>
+            <ord>16</ord>
+            <afun>Adv</afun>
+           </LM>
+           <LM id="a-durovic10-p5s1w18">
+            <m.rf>m#m-durovic10-p5s1w18</m.rf>
+            <ord>18</ord>
+            <children id="a-durovic10-p5s1w20">
+             <m.rf>m#m-durovic10-p5s1w20</m.rf>
+             <ord>20</ord>
+             <children id="a-durovic10-p5s1w19">
+              <m.rf>m#m-durovic10-p5s1w19</m.rf>
+              <ord>19</ord>
+              <afun>Atr</afun>
+             </children>
+             <afun>Obj</afun>
+            </children>
+            <afun>Obj</afun>
+           </LM>
+          </children>
+          <afun>Atr</afun>
+         </LM>
+        </children>
+        <afun>Atr</afun>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p5s1w21">
+     <m.rf>m#m-durovic10-p5s1w21</m.rf>
+     <ord>21</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p5s2">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p5s2</s.rf>
+   <children>
+    <LM id="a-durovic10-p5s2w6">
+     <m.rf>m#m-durovic10-p5s2w6</m.rf>
+     <ord>6</ord>
+     <children>
+      <LM id="a-durovic10-p5s2w1">
+       <m.rf>m#m-durovic10-p5s2w1</m.rf>
+       <ord>1</ord>
+       <children id="a-durovic10-p5s2w2">
+        <m.rf>m#m-durovic10-p5s2w2</m.rf>
+        <ord>2</ord>
+        <children id="a-durovic10-p5s2w4">
+         <m.rf>m#m-durovic10-p5s2w4</m.rf>
+         <ord>4</ord>
+         <children>
+          <LM id="a-durovic10-p5s2w3">
+           <m.rf>m#m-durovic10-p5s2w3</m.rf>
+           <ord>3</ord>
+           <afun>AuxG</afun>
+          </LM>
+          <LM id="a-durovic10-p5s2w5">
+           <m.rf>m#m-durovic10-p5s2w5</m.rf>
+           <ord>5</ord>
+           <afun>AuxG</afun>
+          </LM>
+         </children>
+         <afun>ExD</afun>
+        </children>
+        <afun>AuxP</afun>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p5s2w7">
+       <m.rf>m#m-durovic10-p5s2w7</m.rf>
+       <ord>7</ord>
+       <children id="a-durovic10-p5s2w8">
+        <m.rf>m#m-durovic10-p5s2w8</m.rf>
+        <ord>8</ord>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p5s2w10">
+       <m.rf>m#m-durovic10-p5s2w10</m.rf>
+       <ord>10</ord>
+       <children>
+        <LM id="a-durovic10-p5s2w9">
+         <m.rf>m#m-durovic10-p5s2w9</m.rf>
+         <ord>9</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p5s2w15">
+         <m.rf>m#m-durovic10-p5s2w15</m.rf>
+         <ord>15</ord>
+         <children>
+          <LM id="a-durovic10-p5s2w11">
+           <m.rf>m#m-durovic10-p5s2w11</m.rf>
+           <ord>11</ord>
+           <afun>AuxZ</afun>
+          </LM>
+          <LM id="a-durovic10-p5s2w12">
+           <m.rf>m#m-durovic10-p5s2w12</m.rf>
+           <ord>12</ord>
+           <children id="a-durovic10-p5s2w13">
+            <m.rf>m#m-durovic10-p5s2w13</m.rf>
+            <ord>13</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p5s2w14">
+           <m.rf>m#m-durovic10-p5s2w14</m.rf>
+           <ord>14</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p5s2w24">
+           <m.rf>m#m-durovic10-p5s2w24</m.rf>
+           <ord>24</ord>
+           <children>
+            <LM id="a-durovic10-p5s2w16">
+             <m.rf>m#m-durovic10-p5s2w16</m.rf>
+             <ord>16</ord>
+             <afun>AuxX</afun>
+            </LM>
+            <LM id="a-durovic10-p5s2w17">
+             <m.rf>m#m-durovic10-p5s2w17</m.rf>
+             <ord>17</ord>
+             <afun>Sb</afun>
+            </LM>
+            <LM id="a-durovic10-p5s2w19">
+             <m.rf>m#m-durovic10-p5s2w19</m.rf>
+             <ord>19</ord>
+             <children>
+              <LM id="a-durovic10-p5s2w18">
+               <m.rf>m#m-durovic10-p5s2w18</m.rf>
+               <ord>18</ord>
+               <afun>AuxZ</afun>
+              </LM>
+              <LM id="a-durovic10-p5s2w20">
+               <m.rf>m#m-durovic10-p5s2w20</m.rf>
+               <ord>20</ord>
+               <children id="a-durovic10-p5s2w22">
+                <m.rf>m#m-durovic10-p5s2w22</m.rf>
+                <ord>22</ord>
+                <children>
+                 <LM id="a-durovic10-p5s2w21">
+                  <is_member>1</is_member>
+                  <m.rf>m#m-durovic10-p5s2w21</m.rf>
+                  <ord>21</ord>
+                  <afun>Adv</afun>
+                 </LM>
+                 <LM id="a-durovic10-p5s2w23">
+                  <is_member>1</is_member>
+                  <m.rf>m#m-durovic10-p5s2w23</m.rf>
+                  <ord>23</ord>
+                  <afun>Adv</afun>
+                 </LM>
+                </children>
+                <afun>Coord</afun>
+               </children>
+               <afun>AuxP</afun>
+              </LM>
+             </children>
+             <afun>Adv</afun>
+            </LM>
+            <LM id="a-durovic10-p5s2w25">
+             <m.rf>m#m-durovic10-p5s2w25</m.rf>
+             <ord>25</ord>
+             <children id="a-durovic10-p5s2w26">
+              <m.rf>m#m-durovic10-p5s2w26</m.rf>
+              <ord>26</ord>
+              <children id="a-durovic10-p5s2w28">
+               <m.rf>m#m-durovic10-p5s2w28</m.rf>
+               <ord>28</ord>
+               <children>
+                <LM id="a-durovic10-p5s2w27">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p5s2w27</m.rf>
+                 <ord>27</ord>
+                 <afun>Atr</afun>
+                </LM>
+                <LM id="a-durovic10-p5s2w29">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p5s2w29</m.rf>
+                 <ord>29</ord>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Coord</afun>
+              </children>
+              <afun>Obj</afun>
+             </children>
+             <afun>AuxP</afun>
+            </LM>
+            <LM id="a-durovic10-p5s2w31">
+             <m.rf>m#m-durovic10-p5s2w31</m.rf>
+             <ord>31</ord>
+             <children>
+              <LM id="a-durovic10-p5s2w30">
+               <m.rf>m#m-durovic10-p5s2w30</m.rf>
+               <ord>30</ord>
+               <afun>AuxX</afun>
+              </LM>
+              <LM id="a-durovic10-p5s2w33">
+               <m.rf>m#m-durovic10-p5s2w33</m.rf>
+               <ord>33</ord>
+               <children>
+                <LM id="a-durovic10-p5s2w32">
+                 <m.rf>m#m-durovic10-p5s2w32</m.rf>
+                 <ord>32</ord>
+                 <afun>Sb</afun>
+                </LM>
+                <LM id="a-durovic10-p5s2w36">
+                 <m.rf>m#m-durovic10-p5s2w36</m.rf>
+                 <ord>36</ord>
+                 <children>
+                  <LM id="a-durovic10-p5s2w34">
+                   <m.rf>m#m-durovic10-p5s2w34</m.rf>
+                   <ord>34</ord>
+                   <afun>AuxX</afun>
+                  </LM>
+                  <LM id="a-durovic10-p5s2w35">
+                   <m.rf>m#m-durovic10-p5s2w35</m.rf>
+                   <ord>35</ord>
+                   <afun>Pnom</afun>
+                  </LM>
+                  <LM id="a-durovic10-p5s2w38">
+                   <m.rf>m#m-durovic10-p5s2w38</m.rf>
+                   <ord>38</ord>
+                   <children id="a-durovic10-p5s2w37">
+                    <m.rf>m#m-durovic10-p5s2w37</m.rf>
+                    <ord>37</ord>
+                    <afun>Atr</afun>
+                   </children>
+                   <afun>Sb</afun>
+                  </LM>
+                 </children>
+                 <afun>Obj</afun>
+                </LM>
+               </children>
+               <afun>Adv</afun>
+              </LM>
+             </children>
+             <afun>AuxC</afun>
+            </LM>
+           </children>
+           <afun>Atr</afun>
+          </LM>
+         </children>
+         <afun>Atr</afun>
+        </LM>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p5s2w39">
+     <m.rf>m#m-durovic10-p5s2w39</m.rf>
+     <ord>39</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p5s3">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p5s3</s.rf>
+   <children>
+    <LM id="a-durovic10-p5s3w4">
+     <m.rf>m#m-durovic10-p5s3w4</m.rf>
+     <ord>4</ord>
+     <children>
+      <LM id="a-durovic10-p5s3w1">
+       <m.rf>m#m-durovic10-p5s3w1</m.rf>
+       <ord>1</ord>
+       <afun>AuxY</afun>
+      </LM>
+      <LM id="a-durovic10-p5s3w2">
+       <m.rf>m#m-durovic10-p5s3w2</m.rf>
+       <ord>2</ord>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p5s3w3">
+       <m.rf>m#m-durovic10-p5s3w3</m.rf>
+       <ord>3</ord>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p5s3w6">
+       <m.rf>m#m-durovic10-p5s3w6</m.rf>
+       <ord>6</ord>
+       <children>
+        <LM id="a-durovic10-p5s3w5">
+         <m.rf>m#m-durovic10-p5s3w5</m.rf>
+         <ord>5</ord>
+         <afun>AuxX</afun>
+        </LM>
+        <LM id="a-durovic10-p5s3w13">
+         <m.rf>m#m-durovic10-p5s3w13</m.rf>
+         <ord>13</ord>
+         <children>
+          <LM id="a-durovic10-p5s3w7">
+           <m.rf>m#m-durovic10-p5s3w7</m.rf>
+           <ord>7</ord>
+           <children id="a-durovic10-p5s3w8">
+            <m.rf>m#m-durovic10-p5s3w8</m.rf>
+            <ord>8</ord>
+            <children id="a-durovic10-p5s3w10">
+             <m.rf>m#m-durovic10-p5s3w10</m.rf>
+             <ord>10</ord>
+             <children>
+              <LM id="a-durovic10-p5s3w9">
+               <m.rf>m#m-durovic10-p5s3w9</m.rf>
+               <ord>9</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p5s3w12">
+               <m.rf>m#m-durovic10-p5s3w12</m.rf>
+               <ord>12</ord>
+               <children id="a-durovic10-p5s3w11">
+                <m.rf>m#m-durovic10-p5s3w11</m.rf>
+                <ord>11</ord>
+                <afun>Atr</afun>
+               </children>
+               <afun>Atr</afun>
+              </LM>
+             </children>
+             <afun>Atr</afun>
+            </children>
+            <afun>AuxP</afun>
+           </children>
+           <afun>Sb</afun>
+          </LM>
+          <LM id="a-durovic10-p5s3w15">
+           <m.rf>m#m-durovic10-p5s3w15</m.rf>
+           <ord>15</ord>
+           <children>
+            <LM id="a-durovic10-p5s3w14">
+             <m.rf>m#m-durovic10-p5s3w14</m.rf>
+             <ord>14</ord>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p5s3w20">
+             <m.rf>m#m-durovic10-p5s3w20</m.rf>
+             <ord>20</ord>
+             <children>
+              <LM id="a-durovic10-p5s3w16">
+               <m.rf>m#m-durovic10-p5s3w16</m.rf>
+               <ord>16</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p5s3w17">
+               <m.rf>m#m-durovic10-p5s3w17</m.rf>
+               <ord>17</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p5s3w18">
+               <m.rf>m#m-durovic10-p5s3w18</m.rf>
+               <ord>18</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p5s3w19">
+               <m.rf>m#m-durovic10-p5s3w19</m.rf>
+               <ord>19</ord>
+               <afun>Atr</afun>
+              </LM>
+             </children>
+             <afun>Atr</afun>
+            </LM>
+           </children>
+           <afun>Obj</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+       </children>
+       <afun>AuxC</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p5s3w21">
+     <m.rf>m#m-durovic10-p5s3w21</m.rf>
+     <ord>21</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p6s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p6s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p6s1w15">
+     <m.rf>m#m-durovic10-p6s1w15</m.rf>
+     <ord>15</ord>
+     <children>
+      <LM id="a-durovic10-p6s1w1">
+       <m.rf>m#m-durovic10-p6s1w1</m.rf>
+       <ord>1</ord>
+       <children id="a-durovic10-p6s1w4">
+        <m.rf>m#m-durovic10-p6s1w4</m.rf>
+        <ord>4</ord>
+        <children>
+         <LM id="a-durovic10-p6s1w2">
+          <m.rf>m#m-durovic10-p6s1w2</m.rf>
+          <ord>2</ord>
+          <afun>Atr</afun>
+         </LM>
+         <LM id="a-durovic10-p6s1w3">
+          <m.rf>m#m-durovic10-p6s1w3</m.rf>
+          <ord>3</ord>
+          <afun>Atr</afun>
+         </LM>
+        </children>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p6s1w5">
+       <m.rf>m#m-durovic10-p6s1w5</m.rf>
+       <ord>5</ord>
+       <afun>AuxV</afun>
+      </LM>
+      <LM id="a-durovic10-p6s1w6">
+       <m.rf>m#m-durovic10-p6s1w6</m.rf>
+       <ord>6</ord>
+       <children id="a-durovic10-p6s1w8">
+        <m.rf>m#m-durovic10-p6s1w8</m.rf>
+        <ord>8</ord>
+        <children id="a-durovic10-p6s1w7">
+         <m.rf>m#m-durovic10-p6s1w7</m.rf>
+         <ord>7</ord>
+         <afun>Atr</afun>
+        </children>
+        <afun>Obj</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p6s1w10">
+       <m.rf>m#m-durovic10-p6s1w10</m.rf>
+       <ord>10</ord>
+       <children>
+        <LM id="a-durovic10-p6s1w9">
+         <m.rf>m#m-durovic10-p6s1w9</m.rf>
+         <ord>9</ord>
+         <afun>AuxX</afun>
+        </LM>
+        <LM id="a-durovic10-p6s1w14">
+         <m.rf>m#m-durovic10-p6s1w14</m.rf>
+         <ord>14</ord>
+         <children id="a-durovic10-p6s1w12">
+          <m.rf>m#m-durovic10-p6s1w12</m.rf>
+          <ord>12</ord>
+          <children>
+           <LM id="a-durovic10-p6s1w11">
+            <is_member>1</is_member>
+            <m.rf>m#m-durovic10-p6s1w11</m.rf>
+            <ord>11</ord>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p6s1w13">
+            <is_member>1</is_member>
+            <m.rf>m#m-durovic10-p6s1w13</m.rf>
+            <ord>13</ord>
+            <afun>Atr</afun>
+           </LM>
+          </children>
+          <afun>Coord</afun>
+         </children>
+         <afun>Adv</afun>
+        </LM>
+       </children>
+       <afun>AuxC</afun>
+      </LM>
+      <LM id="a-durovic10-p6s1w16">
+       <m.rf>m#m-durovic10-p6s1w16</m.rf>
+       <ord>16</ord>
+       <children id="a-durovic10-p6s1w18">
+        <m.rf>m#m-durovic10-p6s1w18</m.rf>
+        <ord>18</ord>
+        <children id="a-durovic10-p6s1w17">
+         <m.rf>m#m-durovic10-p6s1w17</m.rf>
+         <ord>17</ord>
+         <afun>Atr</afun>
+        </children>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p6s1w19">
+       <m.rf>m#m-durovic10-p6s1w19</m.rf>
+       <ord>19</ord>
+       <children id="a-durovic10-p6s1w21">
+        <m.rf>m#m-durovic10-p6s1w21</m.rf>
+        <ord>21</ord>
+        <children>
+         <LM id="a-durovic10-p6s1w20">
+          <is_member>1</is_member>
+          <m.rf>m#m-durovic10-p6s1w20</m.rf>
+          <ord>20</ord>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-durovic10-p6s1w24">
+          <is_member>1</is_member>
+          <m.rf>m#m-durovic10-p6s1w24</m.rf>
+          <ord>24</ord>
+          <children>
+           <LM id="a-durovic10-p6s1w22">
+            <is_member>1</is_member>
+            <m.rf>m#m-durovic10-p6s1w22</m.rf>
+            <ord>22</ord>
+            <afun>ExD</afun>
+           </LM>
+           <LM id="a-durovic10-p6s1w23">
+            <m.rf>m#m-durovic10-p6s1w23</m.rf>
+            <ord>23</ord>
+            <afun>AuxX</afun>
+           </LM>
+           <LM id="a-durovic10-p6s1w25">
+            <is_member>1</is_member>
+            <m.rf>m#m-durovic10-p6s1w25</m.rf>
+            <ord>25</ord>
+            <afun>Obj</afun>
+           </LM>
+          </children>
+          <afun>Coord</afun>
+         </LM>
+        </children>
+        <afun>Coord</afun>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+      <LM id="a-durovic10-p6s1w31">
+       <m.rf>m#m-durovic10-p6s1w31</m.rf>
+       <ord>31</ord>
+       <children>
+        <LM id="a-durovic10-p6s1w26">
+         <m.rf>m#m-durovic10-p6s1w26</m.rf>
+         <ord>26</ord>
+         <afun>AuxX</afun>
+        </LM>
+        <LM id="a-durovic10-p6s1w27">
+         <m.rf>m#m-durovic10-p6s1w27</m.rf>
+         <ord>27</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p6s1w28">
+         <m.rf>m#m-durovic10-p6s1w28</m.rf>
+         <ord>28</ord>
+         <afun>AuxV</afun>
+        </LM>
+        <LM id="a-durovic10-p6s1w29">
+         <m.rf>m#m-durovic10-p6s1w29</m.rf>
+         <ord>29</ord>
+         <afun>AuxT</afun>
+        </LM>
+        <LM id="a-durovic10-p6s1w30">
+         <m.rf>m#m-durovic10-p6s1w30</m.rf>
+         <ord>30</ord>
+         <afun>Adv</afun>
+        </LM>
+       </children>
+       <afun>Adv</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p6s1w32">
+     <m.rf>m#m-durovic10-p6s1w32</m.rf>
+     <ord>32</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p7s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p7s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p7s1w17">
+     <m.rf>m#m-durovic10-p7s1w17</m.rf>
+     <ord>17</ord>
+     <children>
+      <LM id="a-durovic10-p7s1w1">
+       <m.rf>m#m-durovic10-p7s1w1</m.rf>
+       <ord>1</ord>
+       <children id="a-durovic10-p7s1w4">
+        <m.rf>m#m-durovic10-p7s1w4</m.rf>
+        <ord>4</ord>
+        <children>
+         <LM id="a-durovic10-p7s1w2">
+          <m.rf>m#m-durovic10-p7s1w2</m.rf>
+          <ord>2</ord>
+          <afun>Atr</afun>
+         </LM>
+         <LM id="a-durovic10-p7s1w3">
+          <m.rf>m#m-durovic10-p7s1w3</m.rf>
+          <ord>3</ord>
+          <afun>Atr</afun>
+         </LM>
+        </children>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p7s1w9">
+       <m.rf>m#m-durovic10-p7s1w9</m.rf>
+       <ord>9</ord>
+       <children>
+        <LM id="a-durovic10-p7s1w5">
+         <m.rf>m#m-durovic10-p7s1w5</m.rf>
+         <ord>5</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p7s1w7">
+         <m.rf>m#m-durovic10-p7s1w7</m.rf>
+         <ord>7</ord>
+         <children>
+          <LM id="a-durovic10-p7s1w6">
+           <is_member>1</is_member>
+           <m.rf>m#m-durovic10-p7s1w6</m.rf>
+           <ord>6</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p7s1w8">
+           <is_member>1</is_member>
+           <m.rf>m#m-durovic10-p7s1w8</m.rf>
+           <ord>8</ord>
+           <afun>Atr</afun>
+          </LM>
+         </children>
+         <afun>Coord</afun>
+        </LM>
+       </children>
+       <afun>Sb</afun>
+      </LM>
+      <LM id="a-durovic10-p7s1w10">
+       <m.rf>m#m-durovic10-p7s1w10</m.rf>
+       <ord>10</ord>
+       <children id="a-durovic10-p7s1w12">
+        <m.rf>m#m-durovic10-p7s1w12</m.rf>
+        <ord>12</ord>
+        <children>
+         <LM id="a-durovic10-p7s1w11">
+          <m.rf>m#m-durovic10-p7s1w11</m.rf>
+          <ord>11</ord>
+          <afun>Atr</afun>
+         </LM>
+         <LM id="a-durovic10-p7s1w16">
+          <m.rf>m#m-durovic10-p7s1w16</m.rf>
+          <ord>16</ord>
+          <children>
+           <LM id="a-durovic10-p7s1w13">
+            <m.rf>m#m-durovic10-p7s1w13</m.rf>
+            <ord>13</ord>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p7s1w14">
+            <m.rf>m#m-durovic10-p7s1w14</m.rf>
+            <ord>14</ord>
+            <afun>Atr</afun>
+           </LM>
+           <LM id="a-durovic10-p7s1w15">
+            <m.rf>m#m-durovic10-p7s1w15</m.rf>
+            <ord>15</ord>
+            <afun>Atr</afun>
+           </LM>
+          </children>
+          <afun>Atr</afun>
+         </LM>
+        </children>
+        <afun>Adv</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+      <LM id="a-durovic10-p7s1w18">
+       <m.rf>m#m-durovic10-p7s1w18</m.rf>
+       <ord>18</ord>
+       <children id="a-durovic10-p7s1w19">
+        <m.rf>m#m-durovic10-p7s1w19</m.rf>
+        <ord>19</ord>
+        <children id="a-durovic10-p7s1w21">
+         <m.rf>m#m-durovic10-p7s1w21</m.rf>
+         <ord>21</ord>
+         <children id="a-durovic10-p7s1w20">
+          <m.rf>m#m-durovic10-p7s1w20</m.rf>
+          <ord>20</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Atr</afun>
+        </children>
+        <afun>AuxP</afun>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+      <LM id="a-durovic10-p7s1w22">
+       <m.rf>m#m-durovic10-p7s1w22</m.rf>
+       <ord>22</ord>
+       <children id="a-durovic10-p7s1w23">
+        <m.rf>m#m-durovic10-p7s1w23</m.rf>
+        <ord>23</ord>
+        <children id="a-durovic10-p7s1w25">
+         <m.rf>m#m-durovic10-p7s1w25</m.rf>
+         <ord>25</ord>
+         <children>
+          <LM id="a-durovic10-p7s1w24">
+           <m.rf>m#m-durovic10-p7s1w24</m.rf>
+           <ord>24</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p7s1w26">
+           <m.rf>m#m-durovic10-p7s1w26</m.rf>
+           <ord>26</ord>
+           <children id="a-durovic10-p7s1w29">
+            <m.rf>m#m-durovic10-p7s1w29</m.rf>
+            <ord>29</ord>
+            <children>
+             <LM id="a-durovic10-p7s1w27">
+              <m.rf>m#m-durovic10-p7s1w27</m.rf>
+              <ord>27</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p7s1w28">
+              <m.rf>m#m-durovic10-p7s1w28</m.rf>
+              <ord>28</ord>
+              <afun>Atr</afun>
+             </LM>
+            </children>
+            <afun>Atr</afun>
+           </children>
+           <afun>AuxP</afun>
+          </LM>
+         </children>
+         <afun>Atr</afun>
+        </children>
+        <afun>Atr</afun>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p7s1w30">
+     <m.rf>m#m-durovic10-p7s1w30</m.rf>
+     <ord>30</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p7s2">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p7s2</s.rf>
+   <children>
+    <LM id="a-durovic10-p7s2w16">
+     <m.rf>m#m-durovic10-p7s2w16</m.rf>
+     <ord>16</ord>
+     <children>
+      <LM id="a-durovic10-p7s2w1">
+       <m.rf>m#m-durovic10-p7s2w1</m.rf>
+       <ord>1</ord>
+       <children>
+        <LM id="a-durovic10-p7s2w12">
+         <m.rf>m#m-durovic10-p7s2w12</m.rf>
+         <ord>12</ord>
+         <children>
+          <LM id="a-durovic10-p7s2w3">
+           <m.rf>m#m-durovic10-p7s2w3</m.rf>
+           <ord>3</ord>
+           <children>
+            <LM id="a-durovic10-p7s2w2">
+             <is_member>1</is_member>
+             <m.rf>m#m-durovic10-p7s2w2</m.rf>
+             <ord>2</ord>
+             <afun>Sb</afun>
+            </LM>
+            <LM id="a-durovic10-p7s2w5">
+             <is_member>1</is_member>
+             <m.rf>m#m-durovic10-p7s2w5</m.rf>
+             <ord>5</ord>
+             <children>
+              <LM id="a-durovic10-p7s2w4">
+               <m.rf>m#m-durovic10-p7s2w4</m.rf>
+               <ord>4</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p7s2w7">
+               <m.rf>m#m-durovic10-p7s2w7</m.rf>
+               <ord>7</ord>
+               <children id="a-durovic10-p7s2w6">
+                <m.rf>m#m-durovic10-p7s2w6</m.rf>
+                <ord>6</ord>
+                <afun>Atr</afun>
+               </children>
+               <afun>Atr</afun>
+              </LM>
+             </children>
+             <afun>Sb</afun>
+            </LM>
+            <LM id="a-durovic10-p7s2w8">
+             <m.rf>m#m-durovic10-p7s2w8</m.rf>
+             <ord>8</ord>
+             <afun>AuxX</afun>
+            </LM>
+           </children>
+           <afun>Apos</afun>
+          </LM>
+          <LM id="a-durovic10-p7s2w9">
+           <m.rf>m#m-durovic10-p7s2w9</m.rf>
+           <ord>9</ord>
+           <children id="a-durovic10-p7s2w11">
+            <m.rf>m#m-durovic10-p7s2w11</m.rf>
+            <ord>11</ord>
+            <children id="a-durovic10-p7s2w10">
+             <m.rf>m#m-durovic10-p7s2w10</m.rf>
+             <ord>10</ord>
+             <afun>Atr</afun>
+            </children>
+            <afun>Adv</afun>
+           </children>
+           <afun>AuxP</afun>
+          </LM>
+          <LM id="a-durovic10-p7s2w14">
+           <m.rf>m#m-durovic10-p7s2w14</m.rf>
+           <ord>14</ord>
+           <children id="a-durovic10-p7s2w13">
+            <m.rf>m#m-durovic10-p7s2w13</m.rf>
+            <ord>13</ord>
+            <afun>Adv</afun>
+           </children>
+           <afun>Pnom</afun>
+          </LM>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-durovic10-p7s2w15">
+         <m.rf>m#m-durovic10-p7s2w15</m.rf>
+         <ord>15</ord>
+         <afun>AuxX</afun>
+        </LM>
+       </children>
+       <afun>AuxC</afun>
+      </LM>
+      <LM id="a-durovic10-p7s2w18">
+       <m.rf>m#m-durovic10-p7s2w18</m.rf>
+       <ord>18</ord>
+       <children>
+        <LM id="a-durovic10-p7s2w17">
+         <m.rf>m#m-durovic10-p7s2w17</m.rf>
+         <ord>17</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p7s2w19">
+         <m.rf>m#m-durovic10-p7s2w19</m.rf>
+         <ord>19</ord>
+         <children id="a-durovic10-p7s2w20">
+          <m.rf>m#m-durovic10-p7s2w20</m.rf>
+          <ord>20</ord>
+          <children id="a-durovic10-p7s2w22">
+           <m.rf>m#m-durovic10-p7s2w22</m.rf>
+           <ord>22</ord>
+           <children id="a-durovic10-p7s2w21">
+            <m.rf>m#m-durovic10-p7s2w21</m.rf>
+            <ord>21</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>Atr</afun>
+          </children>
+          <afun>Atr</afun>
+         </children>
+         <afun>AuxP</afun>
+        </LM>
+       </children>
+       <afun>Pnom</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p7s2w23">
+     <m.rf>m#m-durovic10-p7s2w23</m.rf>
+     <ord>23</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p7s3">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p7s3</s.rf>
+   <children>
+    <LM id="a-durovic10-p7s3w32">
+     <m.rf>m#m-durovic10-p7s3w32</m.rf>
+     <ord>32</ord>
+     <children>
+      <LM id="a-durovic10-p7s3w33">
+       <m.rf>m#m-durovic10-p7s3w33</m.rf>
+       <ord>33</ord>
+       <children id="a-durovic10-p7s3w30">
+        <m.rf>m#m-durovic10-p7s3w30</m.rf>
+        <ord>30</ord>
+        <children id="a-durovic10-p7s3w31">
+         <m.rf>m#m-durovic10-p7s3w31</m.rf>
+         <ord>31</ord>
+         <children id="a-durovic10-p7s3w14">
+          <m.rf>m#m-durovic10-p7s3w14</m.rf>
+          <ord>14</ord>
+          <children>
+           <LM id="a-durovic10-p7s3w1">
+            <m.rf>m#m-durovic10-p7s3w1</m.rf>
+            <ord>1</ord>
+            <children id="a-durovic10-p7s3w5">
+             <is_member>1</is_member>
+             <m.rf>m#m-durovic10-p7s3w5</m.rf>
+             <ord>5</ord>
+             <children>
+              <LM id="a-durovic10-p7s3w4">
+               <m.rf>m#m-durovic10-p7s3w4</m.rf>
+               <ord>4</ord>
+               <children>
+                <LM id="a-durovic10-p7s3w2">
+                 <m.rf>m#m-durovic10-p7s3w2</m.rf>
+                 <ord>2</ord>
+                 <afun>Atr</afun>
+                </LM>
+                <LM id="a-durovic10-p7s3w3">
+                 <m.rf>m#m-durovic10-p7s3w3</m.rf>
+                 <ord>3</ord>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Sb</afun>
+              </LM>
+              <LM id="a-durovic10-p7s3w12">
+               <m.rf>m#m-durovic10-p7s3w12</m.rf>
+               <ord>12</ord>
+               <children>
+                <LM id="a-durovic10-p7s3w6">
+                 <m.rf>m#m-durovic10-p7s3w6</m.rf>
+                 <ord>6</ord>
+                 <afun>AuxZ</afun>
+                </LM>
+                <LM id="a-durovic10-p7s3w7">
+                 <m.rf>m#m-durovic10-p7s3w7</m.rf>
+                 <ord>7</ord>
+                 <afun>Atr</afun>
+                </LM>
+                <LM id="a-durovic10-p7s3w9">
+                 <m.rf>m#m-durovic10-p7s3w9</m.rf>
+                 <ord>9</ord>
+                 <children>
+                  <LM id="a-durovic10-p7s3w8">
+                   <is_member>1</is_member>
+                   <m.rf>m#m-durovic10-p7s3w8</m.rf>
+                   <ord>8</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                  <LM id="a-durovic10-p7s3w10">
+                   <is_member>1</is_member>
+                   <m.rf>m#m-durovic10-p7s3w10</m.rf>
+                   <ord>10</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                 </children>
+                 <afun>Coord</afun>
+                </LM>
+                <LM id="a-durovic10-p7s3w11">
+                 <m.rf>m#m-durovic10-p7s3w11</m.rf>
+                 <ord>11</ord>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Obj</afun>
+              </LM>
+             </children>
+             <afun>Atr</afun>
+            </children>
+            <afun>AuxC</afun>
+           </LM>
+           <LM id="a-durovic10-p7s3w13">
+            <m.rf>m#m-durovic10-p7s3w13</m.rf>
+            <ord>13</ord>
+            <afun>AuxX</afun>
+           </LM>
+           <LM id="a-durovic10-p7s3w15">
+            <is_member>1</is_member>
+            <m.rf>m#m-durovic10-p7s3w15</m.rf>
+            <ord>15</ord>
+            <afun>ExD</afun>
+           </LM>
+           <LM id="a-durovic10-p7s3w17">
+            <m.rf>m#m-durovic10-p7s3w17</m.rf>
+            <ord>17</ord>
+            <children>
+             <LM id="a-durovic10-p7s3w16">
+              <m.rf>m#m-durovic10-p7s3w16</m.rf>
+              <ord>16</ord>
+              <afun>AuxX</afun>
+             </LM>
+             <LM id="a-durovic10-p7s3w23">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p7s3w23</m.rf>
+              <ord>23</ord>
+              <children>
+               <LM id="a-durovic10-p7s3w18">
+                <m.rf>m#m-durovic10-p7s3w18</m.rf>
+                <ord>18</ord>
+                <children>
+                 <LM id="a-durovic10-p7s3w20">
+                  <m.rf>m#m-durovic10-p7s3w20</m.rf>
+                  <ord>20</ord>
+                  <children id="a-durovic10-p7s3w21">
+                   <m.rf>m#m-durovic10-p7s3w21</m.rf>
+                   <ord>21</ord>
+                   <afun>Atr</afun>
+                  </children>
+                  <afun>AuxC</afun>
+                 </LM>
+                 <LM id="a-durovic10-p7s3w25">
+                  <m.rf>m#m-durovic10-p7s3w25</m.rf>
+                  <ord>25</ord>
+                  <children>
+                   <LM id="a-durovic10-p7s3w24">
+                    <m.rf>m#m-durovic10-p7s3w24</m.rf>
+                    <ord>24</ord>
+                    <afun>AuxY</afun>
+                   </LM>
+                   <LM id="a-durovic10-p7s3w27">
+                    <m.rf>m#m-durovic10-p7s3w27</m.rf>
+                    <ord>27</ord>
+                    <children>
+                     <LM id="a-durovic10-p7s3w26">
+                      <m.rf>m#m-durovic10-p7s3w26</m.rf>
+                      <ord>26</ord>
+                      <afun>Atr</afun>
+                     </LM>
+                     <LM id="a-durovic10-p7s3w28">
+                      <m.rf>m#m-durovic10-p7s3w28</m.rf>
+                      <ord>28</ord>
+                      <afun>Atr</afun>
+                     </LM>
+                    </children>
+                    <afun>Atr</afun>
+                   </LM>
+                  </children>
+                  <afun>Atv</afun>
+                 </LM>
+                </children>
+                <afun>Obj</afun>
+               </LM>
+               <LM id="a-durovic10-p7s3w19">
+                <m.rf>m#m-durovic10-p7s3w19</m.rf>
+                <ord>19</ord>
+                <afun>Sb</afun>
+               </LM>
+               <LM id="a-durovic10-p7s3w22">
+                <m.rf>m#m-durovic10-p7s3w22</m.rf>
+                <ord>22</ord>
+                <afun>AuxZ</afun>
+               </LM>
+              </children>
+              <afun>Atr</afun>
+             </LM>
+            </children>
+            <afun>AuxC</afun>
+           </LM>
+           <LM id="a-durovic10-p7s3w29">
+            <m.rf>m#m-durovic10-p7s3w29</m.rf>
+            <ord>29</ord>
+            <afun>AuxG</afun>
+           </LM>
+          </children>
+          <afun>Coord</afun>
+         </children>
+         <afun>Atr</afun>
+        </children>
+        <afun>AuxP</afun>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+      <LM id="a-durovic10-p7s3w38">
+       <m.rf>m#m-durovic10-p7s3w38</m.rf>
+       <ord>38</ord>
+       <children>
+        <LM id="a-durovic10-p7s3w37">
+         <is_member>1</is_member>
+         <m.rf>m#m-durovic10-p7s3w37</m.rf>
+         <ord>37</ord>
+         <children>
+          <LM id="a-durovic10-p7s3w34">
+           <m.rf>m#m-durovic10-p7s3w34</m.rf>
+           <ord>34</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p7s3w35">
+           <m.rf>m#m-durovic10-p7s3w35</m.rf>
+           <ord>35</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-durovic10-p7s3w36">
+           <m.rf>m#m-durovic10-p7s3w36</m.rf>
+           <ord>36</ord>
+           <afun>Atr</afun>
+          </LM>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w40">
+         <m.rf>m#m-durovic10-p7s3w40</m.rf>
+         <ord>40</ord>
+         <children id="a-durovic10-p7s3w39">
+          <m.rf>m#m-durovic10-p7s3w39</m.rf>
+          <ord>39</ord>
+          <afun>Adv</afun>
+         </children>
+         <afun>ExD</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w42">
+         <is_member>1</is_member>
+         <m.rf>m#m-durovic10-p7s3w42</m.rf>
+         <ord>42</ord>
+         <children id="a-durovic10-p7s3w41">
+          <m.rf>m#m-durovic10-p7s3w41</m.rf>
+          <ord>41</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+       </children>
+       <afun>Apos</afun>
+      </LM>
+      <LM id="a-durovic10-p7s3w47">
+       <m.rf>m#m-durovic10-p7s3w47</m.rf>
+       <ord>47</ord>
+       <children>
+        <LM id="a-durovic10-p7s3w43">
+         <m.rf>m#m-durovic10-p7s3w43</m.rf>
+         <ord>43</ord>
+         <afun>AuxG</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w44">
+         <m.rf>m#m-durovic10-p7s3w44</m.rf>
+         <ord>44</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w46">
+         <m.rf>m#m-durovic10-p7s3w46</m.rf>
+         <ord>46</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w48">
+         <m.rf>m#m-durovic10-p7s3w48</m.rf>
+         <ord>48</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w49">
+         <m.rf>m#m-durovic10-p7s3w49</m.rf>
+         <ord>49</ord>
+         <children>
+          <LM id="a-durovic10-p7s3w45">
+           <m.rf>m#m-durovic10-p7s3w45</m.rf>
+           <ord>45</ord>
+           <afun>AuxT</afun>
+          </LM>
+          <LM id="a-durovic10-p7s3w54">
+           <m.rf>m#m-durovic10-p7s3w54</m.rf>
+           <ord>54</ord>
+           <children>
+            <LM id="a-durovic10-p7s3w50">
+             <m.rf>m#m-durovic10-p7s3w50</m.rf>
+             <ord>50</ord>
+             <afun>Atr</afun>
+            </LM>
+            <LM id="a-durovic10-p7s3w52">
+             <m.rf>m#m-durovic10-p7s3w52</m.rf>
+             <ord>52</ord>
+             <children>
+              <LM id="a-durovic10-p7s3w51">
+               <is_member>1</is_member>
+               <m.rf>m#m-durovic10-p7s3w51</m.rf>
+               <ord>51</ord>
+               <afun>Atr</afun>
+              </LM>
+              <LM id="a-durovic10-p7s3w53">
+               <is_member>1</is_member>
+               <m.rf>m#m-durovic10-p7s3w53</m.rf>
+               <ord>53</ord>
+               <afun>Atr</afun>
+              </LM>
+             </children>
+             <afun>Coord</afun>
+            </LM>
+           </children>
+           <afun>Obj</afun>
+          </LM>
+         </children>
+         <afun>Obj</afun>
+        </LM>
+        <LM id="a-durovic10-p7s3w55">
+         <m.rf>m#m-durovic10-p7s3w55</m.rf>
+         <ord>55</ord>
+         <afun>AuxG</afun>
+        </LM>
+       </children>
+       <is_parenthesis_root>1</is_parenthesis_root>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-durovic10-p7s3w56">
+     <m.rf>m#m-durovic10-p7s3w56</m.rf>
+     <ord>56</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p8s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p8s1</s.rf>
+   <children>
+    <LM id="a-durovic10-p8s1w40">
+     <m.rf>m#m-durovic10-p8s1w40</m.rf>
+     <ord>40</ord>
+     <children>
+      <LM id="a-durovic10-p8s1w1">
+       <m.rf>m#m-durovic10-p8s1w1</m.rf>
+       <ord>1</ord>
+       <afun>AuxY</afun>
+      </LM>
+      <LM id="a-durovic10-p8s1w2">
+       <m.rf>m#m-durovic10-p8s1w2</m.rf>
+       <ord>2</ord>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p8s1w5">
+       <m.rf>m#m-durovic10-p8s1w5</m.rf>
+       <ord>5</ord>
+       <children>
+        <LM id="a-durovic10-p8s1w4">
+         <m.rf>m#m-durovic10-p8s1w4</m.rf>
+         <ord>4</ord>
+         <afun>Atr</afun>
+        </LM>
+        <LM id="a-durovic10-p8s1w6">
+         <m.rf>m#m-durovic10-p8s1w6</m.rf>
+         <ord>6</ord>
+         <afun>Atr</afun>
+        </LM>
+       </children>
+       <afun>Adv</afun>
+      </LM>
+      <LM id="a-durovic10-p8s1w7">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p8s1w7</m.rf>
+       <ord>7</ord>
+       <children>
+        <LM id="a-durovic10-p8s1w3">
+         <m.rf>m#m-durovic10-p8s1w3</m.rf>
+         <ord>3</ord>
+         <afun>AuxV</afun>
+        </LM>
+        <LM id="a-durovic10-p8s1w9">
+         <m.rf>m#m-durovic10-p8s1w9</m.rf>
+         <ord>9</ord>
+         <children>
+          <LM id="a-durovic10-p8s1w8">
+           <m.rf>m#m-durovic10-p8s1w8</m.rf>
+           <ord>8</ord>
+           <afun>AuxX</afun>
+          </LM>
+          <LM id="a-durovic10-p8s1w17">
+           <m.rf>m#m-durovic10-p8s1w17</m.rf>
+           <ord>17</ord>
+           <children>
+            <LM id="a-durovic10-p8s1w10">
+             <m.rf>m#m-durovic10-p8s1w10</m.rf>
+             <ord>10</ord>
+             <afun>AuxT</afun>
+            </LM>
+            <LM id="a-durovic10-p8s1w12">
+             <m.rf>m#m-durovic10-p8s1w12</m.rf>
+             <ord>12</ord>
+             <children id="a-durovic10-p8s1w11">
+              <m.rf>m#m-durovic10-p8s1w11</m.rf>
+              <ord>11</ord>
+              <afun>Atr</afun>
+             </children>
+             <afun>Sb</afun>
+            </LM>
+            <LM id="a-durovic10-p8s1w14">
+             <m.rf>m#m-durovic10-p8s1w14</m.rf>
+             <ord>14</ord>
+             <children>
+              <LM id="a-durovic10-p8s1w13">
+               <is_member>1</is_member>
+               <m.rf>m#m-durovic10-p8s1w13</m.rf>
+               <ord>13</ord>
+               <afun>Adv</afun>
+              </LM>
+              <LM id="a-durovic10-p8s1w16">
+               <is_member>1</is_member>
+               <m.rf>m#m-durovic10-p8s1w16</m.rf>
+               <ord>16</ord>
+               <children id="a-durovic10-p8s1w15">
+                <m.rf>m#m-durovic10-p8s1w15</m.rf>
+                <ord>15</ord>
+                <afun>AuxZ</afun>
+               </children>
+               <afun>Adv</afun>
+              </LM>
+             </children>
+             <afun>Coord</afun>
+            </LM>
+            <LM id="a-durovic10-p8s1w18">
+             <m.rf>m#m-durovic10-p8s1w18</m.rf>
+             <ord>18</ord>
+             <children id="a-durovic10-p8s1w19">
+              <m.rf>m#m-durovic10-p8s1w19</m.rf>
+              <ord>19</ord>
+              <children id="a-durovic10-p8s1w24">
+               <m.rf>m#m-durovic10-p8s1w24</m.rf>
+               <ord>24</ord>
+               <children>
+                <LM id="a-durovic10-p8s1w23">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p8s1w23</m.rf>
+                 <ord>23</ord>
+                 <children id="a-durovic10-p8s1w20">
+                  <m.rf>m#m-durovic10-p8s1w20</m.rf>
+                  <ord>20</ord>
+                  <children id="a-durovic10-p8s1w21">
+                   <m.rf>m#m-durovic10-p8s1w21</m.rf>
+                   <ord>21</ord>
+                   <children id="a-durovic10-p8s1w22">
+                    <m.rf>m#m-durovic10-p8s1w22</m.rf>
+                    <ord>22</ord>
+                    <afun>Atr</afun>
+                   </children>
+                   <afun>Atr</afun>
+                  </children>
+                  <afun>Atr</afun>
+                 </children>
+                 <afun>Atr</afun>
+                </LM>
+                <LM id="a-durovic10-p8s1w26">
+                 <is_member>1</is_member>
+                 <m.rf>m#m-durovic10-p8s1w26</m.rf>
+                 <ord>26</ord>
+                 <children>
+                  <LM id="a-durovic10-p8s1w25">
+                   <m.rf>m#m-durovic10-p8s1w25</m.rf>
+                   <ord>25</ord>
+                   <afun>Atr</afun>
+                  </LM>
+                  <LM id="a-durovic10-p8s1w27">
+                   <m.rf>m#m-durovic10-p8s1w27</m.rf>
+                   <ord>27</ord>
+                   <children id="a-durovic10-p8s1w28">
+                    <m.rf>m#m-durovic10-p8s1w28</m.rf>
+                    <ord>28</ord>
+                    <afun>Atr</afun>
+                   </children>
+                   <afun>Atr</afun>
+                  </LM>
+                 </children>
+                 <afun>Atr</afun>
+                </LM>
+               </children>
+               <afun>Apos</afun>
+              </children>
+              <afun>Obj</afun>
+             </children>
+             <afun>AuxP</afun>
+            </LM>
+           </children>
+           <afun>Adv</afun>
+          </LM>
+         </children>
+         <afun>AuxC</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-durovic10-p8s1w29">
+       <m.rf>m#m-durovic10-p8s1w29</m.rf>
+       <ord>29</ord>
+       <afun>AuxG</afun>
+      </LM>
+      <LM id="a-durovic10-p8s1w31">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p8s1w31</m.rf>
+       <ord>31</ord>
+       <children>
+        <LM id="a-durovic10-p8s1w30">
+         <m.rf>m#m-durovic10-p8s1w30</m.rf>
+         <ord>30</ord>
+         <afun>AuxV</afun>
+        </LM>
+        <LM id="a-durovic10-p8s1w37">
+         <m.rf>m#m-durovic10-p8s1w37</m.rf>
+         <ord>37</ord>
+         <children>
+          <LM id="a-durovic10-p8s1w32">
+           <m.rf>m#m-durovic10-p8s1w32</m.rf>
+           <ord>32</ord>
+           <afun>AuxX</afun>
+          </LM>
+          <LM id="a-durovic10-p8s1w33">
+           <m.rf>m#m-durovic10-p8s1w33</m.rf>
+           <ord>33</ord>
+           <afun>Obj</afun>
+          </LM>
+          <LM id="a-durovic10-p8s1w34">
+           <m.rf>m#m-durovic10-p8s1w34</m.rf>
+           <ord>34</ord>
+           <children id="a-durovic10-p8s1w36">
+            <m.rf>m#m-durovic10-p8s1w36</m.rf>
+            <ord>36</ord>
+            <children id="a-durovic10-p8s1w35">
+             <m.rf>m#m-durovic10-p8s1w35</m.rf>
+             <ord>35</ord>
+             <afun>Atr</afun>
+            </children>
+            <afun>Adv</afun>
+           </children>
+           <afun>AuxP</afun>
+          </LM>
+          <LM id="a-durovic10-p8s1w38">
+           <m.rf>m#m-durovic10-p8s1w38</m.rf>
+           <ord>38</ord>
+           <children id="a-durovic10-p8s1w39">
+            <m.rf>m#m-durovic10-p8s1w39</m.rf>
+            <ord>39</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>Obj</afun>
+          </LM>
+         </children>
+         <afun>Adv</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-durovic10-p8s1w42">
+       <is_member>1</is_member>
+       <m.rf>m#m-durovic10-p8s1w42</m.rf>
+       <ord>42</ord>
+       <children>
+        <LM id="a-durovic10-p8s1w41">
+         <m.rf>m#m-durovic10-p8s1w41</m.rf>
+         <ord>41</ord>
+         <afun>AuxV</afun>
+        </LM>
+        <LM id="a-durovic10-p8s1w44">
+         <m.rf>m#m-durovic10-p8s1w44</m.rf>
+         <ord>44</ord>
+         <children>
+          <LM id="a-durovic10-p8s1w43">
+           <m.rf>m#m-durovic10-p8s1w43</m.rf>
+           <ord>43</ord>
+           <afun>AuxX</afun>
+          </LM>
+          <LM id="a-durovic10-p8s1w45">
+           <m.rf>m#m-durovic10-p8s1w45</m.rf>
+           <ord>45</ord>
+           <children id="a-durovic10-p8s1w47">
+            <m.rf>m#m-durovic10-p8s1w47</m.rf>
+            <ord>47</ord>
+            <children>
+             <LM id="a-durovic10-p8s1w46">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p8s1w46</m.rf>
+              <ord>46</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p8s1w48">
+              <is_member>1</is_member>
+              <m.rf>m#m-durovic10-p8s1w48</m.rf>
+              <ord>48</ord>
+              <afun>Atr</afun>
+             </LM>
+             <LM id="a-durovic10-p8s1w51">
+              <m.rf>m#m-durovic10-p8s1w51</m.rf>
+              <ord>51</ord>
+              <children>
+               <LM id="a-durovic10-p8s1w49">
+                <m.rf>m#m-durovic10-p8s1w49</m.rf>
+                <ord>49</ord>
+                <afun>Atr</afun>
+               </LM>
+               <LM id="a-durovic10-p8s1w50">
+                <m.rf>m#m-durovic10-p8s1w50</m.rf>
+                <ord>50</ord>
+                <afun>Atr</afun>
+               </LM>
+              </children>
+              <afun>Obj</afun>
+             </LM>
+             <LM id="a-durovic10-p8s1w53">
+              <m.rf>m#m-durovic10-p8s1w53</m.rf>
+              <ord>53</ord>
+              <children>
+               <LM id="a-durovic10-p8s1w52">
+                <m.rf>m#m-durovic10-p8s1w52</m.rf>
+                <ord>52</ord>
+                <afun>AuxX</afun>
+               </LM>
+               <LM id="a-durovic10-p8s1w54">
+                <m.rf>m#m-durovic10-p8s1w54</m.rf>
+                <ord>54</ord>
+                <children id="a-durovic10-p8s1w55">
+                 <m.rf>m#m-durovic10-p8s1w55</m.rf>
+                 <ord>55</ord>
+                 <children id="a-durovic10-p8s1w56">
+                  <m.rf>m#m-durovic10-p8s1w56</m.rf>
+                  <ord>56</ord>
+                  <children id="a-durovic10-p8s1w57">
+                   <m.rf>m#m-durovic10-p8s1w57</m.rf>
+                   <ord>57</ord>
+                   <children id="a-durovic10-p8s1w59">
+                    <m.rf>m#m-durovic10-p8s1w59</m.rf>
+                    <ord>59</ord>
+                    <children>
+                     <LM id="a-durovic10-p8s1w58">
+                      <m.rf>m#m-durovic10-p8s1w58</m.rf>
+                      <ord>58</ord>
+                      <afun>Atr</afun>
+                     </LM>
+                     <LM id="a-durovic10-p8s1w60">
+                      <m.rf>m#m-durovic10-p8s1w60</m.rf>
+                      <ord>60</ord>
+                      <afun>Atr</afun>
+                     </LM>
+                    </children>
+                    <afun>Atr</afun>
+                   </children>
+                   <afun>AuxP</afun>
+                  </children>
+                  <afun>Obj</afun>
+                 </children>
+                 <afun>AuxP</afun>
+                </children>
+                <afun>Adv</afun>
+               </LM>
+              </children>
+              <afun>AuxC</afun>
+             </LM>
+            </children>
+            <afun>Coord</afun>
+           </children>
+           <afun>Adv</afun>
+          </LM>
+         </children>
+         <afun>AuxP</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-durovic10-p8s1w61">
+     <m.rf>m#m-durovic10-p8s1w61</m.rf>
+     <ord>61</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p8s2">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p8s2</s.rf>
+   <children>
+    <LM id="a-durovic10-p8s2w1">
+     <m.rf>m#m-durovic10-p8s2w1</m.rf>
+     <ord>1</ord>
+     <children id="a-durovic10-p8s2w8">
+      <m.rf>m#m-durovic10-p8s2w8</m.rf>
+      <ord>8</ord>
+      <children>
+       <LM id="a-durovic10-p8s2w2">
+        <m.rf>m#m-durovic10-p8s2w2</m.rf>
+        <ord>2</ord>
+        <children id="a-durovic10-p8s2w3">
+         <m.rf>m#m-durovic10-p8s2w3</m.rf>
+         <ord>3</ord>
+         <children id="a-durovic10-p8s2w5">
+          <m.rf>m#m-durovic10-p8s2w5</m.rf>
+          <ord>5</ord>
+          <children id="a-durovic10-p8s2w4">
+           <m.rf>m#m-durovic10-p8s2w4</m.rf>
+           <ord>4</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Atr</afun>
+         </children>
+         <afun>Adv</afun>
+        </children>
+        <afun>AuxP</afun>
+       </LM>
+       <LM id="a-durovic10-p8s2w6">
+        <m.rf>m#m-durovic10-p8s2w6</m.rf>
+        <ord>6</ord>
+        <afun>AuxV</afun>
+       </LM>
+       <LM id="a-durovic10-p8s2w10">
+        <m.rf>m#m-durovic10-p8s2w10</m.rf>
+        <ord>10</ord>
+        <children>
+         <LM id="a-durovic10-p8s2w7">
+          <m.rf>m#m-durovic10-p8s2w7</m.rf>
+          <ord>7</ord>
+          <afun>AuxT</afun>
+         </LM>
+         <LM id="a-durovic10-p8s2w9">
+          <m.rf>m#m-durovic10-p8s2w9</m.rf>
+          <ord>9</ord>
+          <afun>AuxY</afun>
+         </LM>
+         <LM id="a-durovic10-p8s2w12">
+          <m.rf>m#m-durovic10-p8s2w12</m.rf>
+          <ord>12</ord>
+          <children id="a-durovic10-p8s2w11">
+           <m.rf>m#m-durovic10-p8s2w11</m.rf>
+           <ord>11</ord>
+           <afun>Adv</afun>
+          </children>
+          <afun>Adv</afun>
+         </LM>
+        </children>
+        <afun>Obj</afun>
+       </LM>
+      </children>
+      <afun>Pred</afun>
+     </children>
+     <afun>AuxC</afun>
+    </LM>
+    <LM id="a-durovic10-p8s2w13">
+     <m.rf>m#m-durovic10-p8s2w13</m.rf>
+     <ord>13</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-durovic10-p9s1">
+   <ord>0</ord>
+   <s.rf>m#m-durovic10-p9s1</s.rf>
+   <children id="a-durovic10-p9s1w2">
+    <m.rf>m#m-durovic10-p9s1w2</m.rf>
+    <ord>2</ord>
+    <children>
+     <LM id="a-durovic10-p9s1w1">
+      <m.rf>m#m-durovic10-p9s1w1</m.rf>
+      <ord>1</ord>
+      <afun>Atr</afun>
+     </LM>
+     <LM id="a-durovic10-p9s1w3">
+      <m.rf>m#m-durovic10-p9s1w3</m.rf>
+      <ord>3</ord>
+      <children>
+       <LM id="a-durovic10-p9s1w4">
+        <m.rf>m#m-durovic10-p9s1w4</m.rf>
+        <ord>4</ord>
+        <afun>Atr</afun>
+       </LM>
+       <LM id="a-durovic10-p9s1w6">
+        <m.rf>m#m-durovic10-p9s1w6</m.rf>
+        <ord>6</ord>
+        <children id="a-durovic10-p9s1w5">
+         <m.rf>m#m-durovic10-p9s1w5</m.rf>
+         <ord>5</ord>
+         <afun>Atr</afun>
+        </children>
+        <afun>Atr</afun>
+       </LM>
+      </children>
+      <afun>Atr</afun>
+     </LM>
+    </children>
+    <afun>ExD</afun>
+   </children>
+  </LM>
+ </trees>
+</adata>

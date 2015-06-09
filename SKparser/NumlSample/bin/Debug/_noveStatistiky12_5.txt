@@ -1,0 +1,5 @@
+LAS: 74.65 %
+UAS: 80.72 %
+LA: 79.94 %
+
+5 files - part 2 parsovane, bez feats

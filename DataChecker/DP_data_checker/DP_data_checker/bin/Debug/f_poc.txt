@@ -1,0 +1,13 @@
+noun
+punc
+verb
+adj
+prep
+conj
+adv
+part
+int
+num
+
+prop
+pos

@@ -1,0 +1,139 @@
+Precision is token critical: 86.4541832669323 %
+Precision oracle: 30.0970873786408 %
+
+Precision is token critical: 86.4541832669323 %
+Precision oracle: 30.0970873786408 %
+
+Precision is token critical: 86.4541832669323 %
+Precision oracle: 34.4660194174757 %
+
+
+Precision is token critical: 76.5 %
+Precision oracle: 30.2173913043478 %
+
+Precision is token critical: 75.5 %
+Precision oracle: 26.5217391304348 %
+Precision is token critical: 74.6666666666667 %
+Precision oracle: 25.2173913043478 %
+Precision is token critical: 64.5 %
+Precision oracle: 24.7826086956522 %
+
+Precision is token critical: 75.8333333333333 % - cpos, pos, feats-rozdelene
+Precision oracle: 23.9130434782609 %
+
+Precision is token critical: 72.5 % -  + feats,head,deprel
+Precision is token critical: 72.3333333333333 % -  +head,deprel
+
+Precision is token critical: 74.3333333333333 % - +head, feats
+
+Precision is token critical: 75.3333333333333 % - +head
+
+Precision is token critical: 75.1666666666667 %
+Precision is token critical: 75.1666666666667 %
+Precision oracle: 34.2733188720174 %
+Precision is token critical: 54.0133779264214 %
+Precision is token critical: 52.5083612040134 % - 85.27%
+
+Precision is token critical: 53.0100334448161 %
+
+Precision is token critical: 86.0557768924303 % - 0.929276315789474 % - part2 + cpos parent, grandparent
+
+Precision is token critical: 87.2509960159363 % - 0.925986842105263 % - part2 + cpos, pos parent, grandparent
+Precision is token critical: 87.2509960159363 % - 0.805161290322581 % - part2 + cpos, pos parent, grandparent - viac dat
+
+*******************
+VIAC DAT - ctiticalToken_train - 1.stvrtina trenovanie, 2. stvrtina testovanie: //este nie :)
+
+
+
+Precision oracle: 29.8295454545455 %
+Precision oracle: 30.275974025974 %
+
+//s children
+Precision oracle (OracleTestFile): 31.5342116447089 %
+Precision oracle (OracleTestFile2): 33.886031402274 %
+
+//bez children
+Precision oracle (OracleTestFile): 31.6617084572886 %
+Precision oracle (OracleTestFile2): 34.8605847319978 %
+
+//osmina 1 
+//s children
+Precision oracle (OracleTestFile): 31.7892052698683 %
+Precision oracle (OracleTestFile2): 34.8199783432593 %
+
+//bez children
+
+Precision oracle (OracleTestFile): 32.0654483637909 %
+Precision oracle (OracleTestFile2): 34.8741201949107 %
+
+//osmina 3
+//bez children
+Precision oracle (OracleTestFile): 32.8516787080323 %
+Precision oracle (OracleTestFile2): 35.5914997292907 %
+//s children
+Precision oracle (OracleTestFile): 32.8516787080323 %
+Precision oracle (OracleTestFile2): 37.0330265295073 %
+
+//osmina 4
+//bez children
+
+Precision oracle (OracleTestFile): 32.3204419889503 %
+Precision oracle (OracleTestFile2): 35.7200866269626 %
+//s children
+Precision oracle (OracleTestFile): 32.9366765830854 %
+Precision oracle (OracleTestFile2): 36.7014076881429 %
+
+//osmina 5,6,7,8
+//bez children
+Precision oracle (OracleTestFile): 31.1304717382065 %
+Precision oracle (OracleTestFile2): 36.7961559285328 %
+Precision oracle (OracleTestFile): 32.1929451763706 %
+Precision oracle (OracleTestFile2): 34.5898754737412 %
+Precision oracle (OracleTestFile): 33.0216744581385 %
+Precision oracle (OracleTestFile2): 35.2463454250135 %
+Precision oracle (OracleTestFile): 32.1291967700807 %
+Precision oracle (OracleTestFile2): 34.3191662154846 %
+
+//osmina 5,6,7,8
+//s children
+
+Precision oracle (OracleTestFile): 31.7042073948151 %
+Precision oracle (OracleTestFile2): 36.2479696805631 %
+Precision oracle (OracleTestFile): 31.5979600509987 %
+Precision oracle (OracleTestFile2): 34.6575527883054 %
+Precision oracle (OracleTestFile): 33.4041648958776 %
+Precision oracle (OracleTestFile2): 35.5441256090958 %
+Precision oracle (OracleTestFile): 32.1716957076073 %
+Precision oracle (OracleTestFile2): 33.4325933946941 %
+
+//stvtiny 2,3,4 
+//s children
+Precision oracle (OracleTestFile): 33.0535486612835 %
+Precision oracle (OracleTestFile2): 36.4780725500812 %
+Precision oracle (OracleTestFile): 32.6073098172546 %
+Precision oracle (OracleTestFile2): 36.5051434759069 %
+Precision oracle (OracleTestFile): 33.1172970675733 %
+Precision oracle (OracleTestFile2): 36.7284786139686 %
+
+//bez children
+Precision oracle (OracleTestFile): 33.1597960050999 %
+Precision oracle (OracleTestFile2): 35.774228478614 %
+Precision oracle (OracleTestFile): 31.9592010199745 %
+Precision oracle (OracleTestFile2): 35.8622089875474 %
+Precision oracle (OracleTestFile): 33.0110497237569 %
+Precision oracle (OracleTestFile2): 35.9569572279372 %
+Precision oracle (OracleTestFile): 32.029963342719 %
+Precision oracle (OracleTestFile2): 36.6066594477531 %
+
+Precision is token critical: 73.1683130062977 % - 1 %
+Precision is token critical: NaN % - 0.828324225865209 %
+Precision is token critical: 82.7615698945168 % - 0.825136612021858 %
+Precision oracle (OracleTestFile): 31.4383348866107 %
+Precision oracle (OracleTestFile2): 29.3854899837574 %
+Precision is head false: 77.2753707473103 % - 0 %
+Precision oracle (OracleTestFile): 32.4632068164214 %
+Precision oracle (OracleTestFile2): 30.5089334055225 %
+
+_____________________ex1______________________________
+

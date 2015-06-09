@@ -1,0 +1,12 @@
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\NumlSample.exe.config
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\NumlSample.exe
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\NumlSample.pdb
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\numl.dll
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\numl.pdb
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\numl.xml
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\obj\Debug\NumlSample.csprojResolveAssemblyReference.cache
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\obj\Debug\NumlSample.exe
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\obj\Debug\NumlSample.pdb
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\Infrastructure.dll
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\NumlSample\bin\Debug\Infrastructure.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Debug\App.config

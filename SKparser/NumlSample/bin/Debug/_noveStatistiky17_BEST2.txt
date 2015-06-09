@@ -1,0 +1,8 @@
+LAS: 71.77 %
+UAS: 78.08 %
+LA: 76.94 %
+
+
+zatial THE BEST 2
+k = 0.7
+netriedim vobec podla toho ci je correct head alebo nie je

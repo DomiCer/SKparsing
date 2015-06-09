@@ -1,0 +1,3 @@
+cd C:\AllMyDocs\FIIT\02_Ing\DP\_DP3\disc\maltparser-1.8
+java -Xmx4g -jar maltparser-1.8.jar -c sk_model_stacklazy_exp3 -i C:\AllMyDocs\FIIT\02_Ing\DP\_DP3\disc\softver\SKParser/input.conll -o C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\malt_parsed.conll -a stacklazy -m parse
+cd C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\

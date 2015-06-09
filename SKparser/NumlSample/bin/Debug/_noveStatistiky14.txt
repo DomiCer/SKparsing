@@ -1,0 +1,7 @@
+LAS: 70.52 %
+UAS: 78.08 %
+LA: 78.43 %
+
+
+k = 0
+netriedim vobec podla toho ci je correct head alebo nie je

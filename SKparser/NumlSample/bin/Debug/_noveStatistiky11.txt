@@ -1,0 +1,6 @@
+LAS: 49.56 %
+UAS: 59.84 %
+LA: 59.87 %
+
+viac dat pre oba modely
+koef stale 0

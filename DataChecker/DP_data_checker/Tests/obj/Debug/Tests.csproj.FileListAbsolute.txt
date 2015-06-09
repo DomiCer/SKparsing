@@ -1,0 +1,7 @@
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\bin\Debug\Tests.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\bin\Debug\Tests.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\bin\Debug\DP_data_checker.exe
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\bin\Debug\DP_data_checker.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\obj\Debug\Tests.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\Tests\obj\Debug\Tests.pdb

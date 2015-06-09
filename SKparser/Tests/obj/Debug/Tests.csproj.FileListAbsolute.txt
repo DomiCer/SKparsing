@@ -1,0 +1,13 @@
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\Tests.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\Tests.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\Infrastructure.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\numl.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\NumlSample.exe
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\Infrastructure.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\NumlSample.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\numl.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\numl.xml
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\obj\Debug\Tests.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\obj\Debug\Tests.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Debug\App.config

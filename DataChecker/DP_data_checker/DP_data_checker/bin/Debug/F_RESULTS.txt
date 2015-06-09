@@ -1,0 +1,122 @@
+public enum f_abbr{
+NULL,
+ABBR,
+}
+public enum f_animateness{
+NULL,
+ANIM,
+INAN,
+}
+public enum f_aspect{
+NULL,
+PERF,
+IMP,
+IMP;PERF,
+}
+public enum f_case{
+NOM,
+NULL,
+DAT,
+LOC,
+ACC,
+INS,
+GEN,
+VOC,
+}
+public enum f_degree{
+NULL,
+SUP,
+POS,
+COMP,
+}
+public enum f_foreign{
+NULL,
+FOREIGN,
+}
+public enum f_gender{
+NEUT,
+NULL,
+MASC,
+FEM,
+}
+public enum f_hyph{
+NULL,
+HYPH,
+}
+public enum f_mood{
+NULL,
+IMP,
+IND,
+CND,
+}
+public enum f_negativeness{
+NULL,
+POS,
+NEG,
+}
+public enum f_number{
+SING,
+NULL,
+PLU,
+}
+public enum f_numform{
+NULL,
+DIGIT,
+}
+public enum f_person{
+NULL,
+2,
+3,
+1,
+}
+public enum f_poc{
+NOUN,
+PUNC,
+VERB,
+ADJ,
+PREP,
+CONJ,
+ADV,
+PART,
+INT,
+NUM,
+NULL,
+PROP,
+POS,
+}
+public enum f_prontype{
+NULL,
+PRS,
+}
+public enum f_reflex{
+NULL,
+REFLEX,
+}
+public enum f_subpos{
+NULL,
+PROP,
+VOC,
+PREPPRON,
+}
+public enum f_tense{
+NULL,
+PRES,
+PAST,
+FUT,
+}
+public enum f_typo{
+NULL,
+TYPO,
+}
+public enum f_verbform{
+NULL,
+FIN,
+PART,
+INF,
+TRANS,
+}
+public enum f_voice{
+NULL,
+PASS,
+ACT,
+}

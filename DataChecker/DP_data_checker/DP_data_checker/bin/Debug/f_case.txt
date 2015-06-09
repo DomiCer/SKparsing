@@ -1,0 +1,8 @@
+nom
+
+dat
+loc
+acc
+ins
+gen
+voc

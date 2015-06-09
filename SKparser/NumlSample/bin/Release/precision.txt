@@ -1,0 +1,97 @@
+Precision is token critical: 77.6595968080638 % - 0.777892163170763 %
+Precision is token critical: 68.182486350273 % - 0.832303304017114 %
+Precision is token critical: 67.8139437211256 % - 0.832171083217108 %
+Precision oracle (OracleTestFile): NaN %
+Precision is token critical: 82.9386000962859 % - 0 %
+Precision is token critical: 82.9386000962859 % - 0 %
+Precision is token critical: 82.9104188438641 % - 0 %
+Precision is token critical: 82.9386000962859 % - 0 %
+Precision is token critical: 82.9104188438641 % - 0 %
+Precision is token critical: 82.9386000962859 % - 0 %
+Precision is token critical: 82.9104188438641 % - 0 %
+Precision is token critical: 82.9386000962859 % - 0 %
+Precision is token critical: 82.8352688374059 % - 0 %
+Precision is token critical: 82.4344660194175 % - 0.844232870298111 %
+Precision is token critical: 82.4514563106796 % - 0 %
+Precision is token critical: 82.4368932038835 % - 0 %
+Precision oracle (OracleTestFile): NaN %
+Precision oracle (OracleTestFile): NaN %
+Precision is token critical: 82.4296116504854 % - 0.835180271577962 %
+Precision is token critical: 90.4402471148281 % - 0 %
+Precision oracle (OracleTestFile): 33.6735296549606 %
+Precision oracle (OracleTestFile): 2.80780089065287 %
+Precision is token critical: 90.4402471148281 % - 0 %
+Precision oracle (OracleTestFile): 33.6735296549606 %
+Precision oracle (OracleTestFile): 24.8322147651007 %
+Precision oracle (OracleTestFile): 42.8274428274428 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: 10.7587086714625 % - 0.713438735177866 %
+Precision is token critical: 10.7587086714625 % - 0.74703557312253 %
+Precision is token critical: NaN % - 0.725296442687747 %
+Precision is token critical: NaN % - 0.662702702702703 %
+Precision is token critical: TruePos46.0660362572488 %, falseNeg71.2344000988509 %
+Precision is token critical: TruePos47.545843999791 %, falseNeg69.8999135054986 %
+Precision is token critical: TruePos99.4488271250196 %, falseNeg1.28506116396886 %
+Precision is token critical: TruePos76.7488636957317 %, falseNeg38.8360311380205 %
+Precision is token critical: TruePos49.3809100882921 %, falseNeg67.3915729642901 %
+Precision is token critical: TruePos50.437542448148 %, falseNeg66.5760533794637 %
+Precision is token critical: TruePos65.4432892743326 %, falseNeg37.6621771901643 %
+Precision is token critical: TruePos99.3952771537537 %, falseNeg1.47040652415668 %
+Precision oracle (OracleTestFile): 41.8873723221549 %
+Precision is token critical: TruePos99.3952771537537 %, falseNeg1.47040652415668 %
+Precision is token critical: TruePos99.3952771537537 %, falseNeg1.47040652415668 %
+Precision is token critical: TruePos99.3952771537537 %, falseNeg1.47040652415668 %
+Precision oracle (OracleTestFile): 41.799993973907 %
+Precision is token critical: TruePos99.3952771537537 %, falseNeg1.47040652415668 %
+Precision is token critical: TruePos99.3952771537537 %, falseNeg1.47040652415668 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos99.3260540201661 %, falseNeg1.56925738292351 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos96.1430959719973 %, falseNeg2.52069689855431 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos100 %, falseNeg0 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos46.8405516953137 %, falseNeg61.2257506487088 %
+Precision is token critical: TruePos3.66360169270153 %, falseNeg96.8120598047696 %
+Precision is token critical: TruePos11.6595266704979 %, falseNeg91.6223897195107 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos81.0576772373439 %, falseNeg30.2112937106141 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos89.3696776552949 %, falseNeg22.9828246632893 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos89.3696776552949 %, falseNeg22.9828246632893 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos87.9303589154172 %, falseNeg23.4152971703942 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos87.9303589154172 %, falseNeg23.4152971703942 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos87.9303589154172 %, falseNeg23.4152971703942 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos87.9303589154172 %, falseNeg23.4152971703942 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos87.9303589154172 %, falseNeg23.4152971703942 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos87.9303589154172 %, falseNeg23.4152971703942 %
+Precision oracle (OracleTestFile): 42.6677513634035 %
+Precision is token critical: TruePos58.0548481272129 %, falseNeg33.4963794178296 %
+Precision is token critical: TruePos21.7723150506243 %, falseNeg89.1718218002206 %
+Precision is token critical: TruePos28.4264550593205 %, falseNeg79.8158538339807 %
+Precision is token critical: TruePosNaN %, falseNegNaN %
+Precision is token critical: TruePos28.3993241188719 %, falseNeg79.4623150974407 %
+Precision is token critical: TruePos28.13412930268 %, falseNeg79.544494012679 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision oracle (OracleTestFile): 46.5929468021518 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %
+Precision is token critical: TruePos83.3416086432726 %, falseNeg26.1281991077718 %

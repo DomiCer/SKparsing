@@ -1,0 +1,5 @@
+LAS: 49.58 %
+UAS: 59.84 %
+LA: 60 %
+
+5x trenovanie, oba modely, vyber najlepsieho

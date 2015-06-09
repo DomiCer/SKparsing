@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<DecisionTreeModel Hint="4.94065645841247E-324">
+  <Descriptor Type="Token" Name="">
+    <Features Length="28">
+      <StringProperty Name="Cpostag" Type="String" Discrete="True" Start="0" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="5">
+          <item>P</item>
+          <item>A</item>
+          <item>S</item>
+          <item>N</item>
+          <item>V</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="Postag" Type="String" Discrete="True" Start="5" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="16">
+          <item>PFFS6</item>
+          <item>PUIS1</item>
+          <item>AAIS1X</item>
+          <item>PUIP2</item>
+          <item>SSIP2</item>
+          <item>PFNS1</item>
+          <item>SSFS2</item>
+          <item>NUFP7</item>
+          <item>NUMP7</item>
+          <item>SSMP7</item>
+          <item>AAFS1Z</item>
+          <item>SSIS6</item>
+          <item>SSNS6</item>
+          <item>VKESC</item>
+          <item>AAFS4X</item>
+          <item>AANS3X</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ParentCpos" Type="String" Discrete="True" Start="21" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="3">
+          <item>S</item>
+          <item>E</item>
+          <item>ROOT</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="GParentCpos" Type="String" Discrete="True" Start="24" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="4">
+          <item>E</item>
+          <item>V</item>
+          <item>S</item>
+          <item>ROOT</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ParentPos" Type="String" Discrete="True" Start="28" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="13">
+          <item>SSFS6</item>
+          <item>SSIS1</item>
+          <item>SSIP2</item>
+          <item>SSNS1</item>
+          <item>EU2</item>
+          <item>SSFP7</item>
+          <item>SSMP7</item>
+          <item>EV7</item>
+          <item>SSFS1</item>
+          <item>EU6</item>
+          <item>ROOT</item>
+          <item>SSFS4</item>
+          <item>SSNS3</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="GParentPos" Type="String" Discrete="True" Start="41" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="13">
+          <item>EU6</item>
+          <item>VKDSC</item>
+          <item>VLDSCI</item>
+          <item>SSIS1</item>
+          <item>ROOT</item>
+          <item>SSNS1</item>
+          <item>EU7</item>
+          <item>EV7</item>
+          <item>SSFS6</item>
+          <item>SSFS1</item>
+          <item>VKESC</item>
+          <item>VLDSCF</item>
+          <item>EU3</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ChildrenPos" Type="String" Discrete="True" Start="54" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="5">
+          <item>NONE</item>
+          <item>PUIP2</item>
+          <item>NUMP7</item>
+          <item>EU6</item>
+          <item>ZSSFS1RDX</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <Property Name="f_pos" Type="F_pos" Discrete="True" Start="59" />
+      <Property Name="f_negativeness" Type="F_negativeness" Discrete="True" Start="60" />
+      <Property Name="f_number" Type="F_number" Discrete="True" Start="61" />
+      <Property Name="f_person" Type="Int32" Discrete="False" Start="62" />
+      <Property Name="f_verbform" Type="F_verbform" Discrete="True" Start="63" />
+      <Property Name="f_mood" Type="F_mood" Discrete="True" Start="64" />
+      <Property Name="f_tense" Type="F_tense" Discrete="True" Start="65" />
+      <Property Name="f_aspect" Type="F_aspect" Discrete="True" Start="66" />
+      <Property Name="f_gender" Type="F_gender" Discrete="True" Start="67" />
+      <Property Name="f_case" Type="F_case" Discrete="True" Start="68" />
+      <Property Name="f_prontype" Type="Boolean" Discrete="True" Start="69" />
+      <Property Name="f_reflex" Type="Boolean" Discrete="True" Start="70" />
+      <Property Name="f_animateness" Type="F_animateness" Discrete="True" Start="71" />
+      <Property Name="f_degree" Type="F_degree" Discrete="True" Start="72" />
+      <Property Name="f_subpos" Type="F_subpos" Discrete="True" Start="73" />
+      <Property Name="f_numform" Type="Boolean" Discrete="True" Start="74" />
+      <Property Name="f_abbr" Type="Boolean" Discrete="True" Start="75" />
+      <Property Name="f_hyph" Type="Boolean" Discrete="True" Start="76" />
+      <Property Name="f_foreign" Type="Boolean" Discrete="True" Start="77" />
+      <Property Name="f_voice" Type="F_voice" Discrete="True" Start="78" />
+      <Property Name="f_typo" Type="Boolean" Discrete="True" Start="79" />
+    </Features>
+    <Label>
+      <Property Name="IsCorrectDeprel" Type="Boolean" Discrete="True" Start="-1" />
+    </Label>
+  </Descriptor>
+  <Node Leaf="false" Value="0" Column="21" Name="S" Gain="0.5980483568551177">
+    <Edges>
+      <Edge Min="0" Max="0" Discrete="true" Label="0">
+        <Child Leaf="false" Value="0" Column="37" Name="EU6" Gain="0.4325380677663126">
+          <Edges>
+            <Edge Min="0" Max="0" Discrete="true" Label="0">
+              <Child Leaf="false" Value="0" Column="2" Name="S" Gain="1">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="1" Max="1" Discrete="true" Label="1">
+              <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+            </Edge>
+          </Edges>
+        </Child>
+      </Edge>
+      <Edge Min="1" Max="1" Discrete="true" Label="1">
+        <Child Leaf="true" Value="1" Column="0" Gain="0" />
+      </Edge>
+    </Edges>
+  </Node>
+</DecisionTreeModel>

@@ -1,0 +1,13 @@
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\Tests.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\Tests.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\Infrastructure.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\numl.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\Infrastructure.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\numl.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\numl.xml
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\obj\Release\Tests.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\obj\Release\Tests.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\App.config
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\SKParser.exe
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Tests\bin\Release\SKParser.pdb

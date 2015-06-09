@@ -1,0 +1,8 @@
+LAS: 70.28 %
+UAS: 78.08 %
+LA: 76.59 %
+
+
+horsie vysledky, ale lepsie ako 15
+pouzila som predikciu toho, ci je head spravny alebo nie
+k=0;

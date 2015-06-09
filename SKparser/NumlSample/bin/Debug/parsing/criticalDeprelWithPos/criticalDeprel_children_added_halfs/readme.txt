@@ -1,0 +1,1 @@
+obe neobsahuju toknene z validacnej TEST mnoziny

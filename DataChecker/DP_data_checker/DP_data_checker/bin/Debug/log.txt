@@ -1,0 +1,57 @@
+nezhodny pocet tokenov
+Conll: 35
+mFile: 37
+File index: 2182
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\ferko13_kandracova_dok.m
+Sent index: 23
+
+nezhodny pocet tokenov
+Conll: 17
+mFile: 18
+File index: 2183
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\ferko14_kandracova_dok.m
+Sent index: 10
+
+nezhodny pocet tokenov
+Conll: 11
+mFile: 12
+File index: 2292
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\kd13_olejkarova_dok.m
+Sent index: 22
+
+nezhodny pocet tokenov
+Conll: 25
+mFile: 26
+File index: 2892
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\mucska110_olejkarova_dok.m
+Sent index: 6
+
+nezhodny pocet tokenov
+Conll: 29
+mFile: 30
+File index: 3006
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\Psia-koza-072_mz_dok.m
+Sent index: 27
+
+nezhodny pocet tokenov
+Conll: 9
+mFile: 10
+File index: 3008
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\Psia-koza-074_mz_dok.m
+Sent index: 23
+
+nezhodny pocet tokenov
+Conll: 46
+mFile: 48
+File index: 3030
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\Psia-koza-098_mz_dok.m
+Sent index: 5
+
+nezhodny pocet tokenov
+Conll: 9
+mFile: 10
+File index: 3208
+File name: C:/AllMyDocs/FIIT/02_Ing/DP/data/syntakticky_korpus_sk_komplet/syntax\wiki-nove-004_hudekova_dok.m
+Sent index: 2
+
+sentences count: 0sentences1 count: 0sentences2 count: 0sentences count: 37868sentences count: 18934sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37869sentences count: 37868sentences count: 18934sentences count: 9318sentences count: 0sentences count: 4659sentences count: 0sentences count: 0sentences count: 50313sentences count: 50206sentences count: 49359sentences count: 46116sentences count: 41789sentences count: 50256sentences count: 50256sentences count: 50256sentences count: 50185sentences count: 10037sentences count: 5019sentences count: 2509sentences count: 1255sentences count: 627sentences count: 627sentences count: 89sentences count: 12sentences count: 50184sentences count: 30056sentences count: 20128sentences count: 15028sentences count: 15028sentences count: 10064sentences count: 10064sentences count: 10037sentences count: 5019sentences count: 0sentences count: 0sentences count: 0sentences count: 0sentences count: 49316sentences count: 43sentences count: 139sentences count: 220sentences count: 24658sentences count: 22sentences count: 70sentences count: 110sentences count: 24658sentences count: 21sentences count: 69sentences count: 110sentences count: 24658sentences count: 21sentences count: 69sentences count: 110sentences count: 24658sentences count: 22sentences count: 70sentences count: 110sentences count: 0sentences count: 8304

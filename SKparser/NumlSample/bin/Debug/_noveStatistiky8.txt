@@ -1,0 +1,6 @@
+LAS: 49.6 %
+UAS: 59.84 %
+LA: 60.02 %
+
+viac dat pre prvy klasifikator(is token critical)
+aj pre druhy

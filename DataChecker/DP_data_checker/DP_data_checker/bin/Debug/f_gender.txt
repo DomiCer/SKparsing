@@ -1,0 +1,4 @@
+neut
+
+masc
+fem

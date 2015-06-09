@@ -1,0 +1,6 @@
+c:\users\domi\documents\visual studio 2012\Projects\DP_data_checker\DP_data_checker\bin\Debug\DP_data_checker.exe.config
+c:\users\domi\documents\visual studio 2012\Projects\DP_data_checker\DP_data_checker\bin\Debug\DP_data_checker.exe
+c:\users\domi\documents\visual studio 2012\Projects\DP_data_checker\DP_data_checker\bin\Debug\DP_data_checker.pdb
+c:\users\domi\documents\visual studio 2012\Projects\DP_data_checker\DP_data_checker\obj\Debug\DP_data_checker.exe
+c:\users\domi\documents\visual studio 2012\Projects\DP_data_checker\DP_data_checker\obj\Debug\DP_data_checker.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\DP_data_checker\DP_data_checker\obj\Debug\DP_data_checker.csprojResolveAssemblyReference.cache

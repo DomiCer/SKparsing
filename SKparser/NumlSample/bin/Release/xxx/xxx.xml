@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<DecisionTreeModel Hint="-1">
+  <Descriptor Type="Token" Name="">
+    <Features Length="28">
+      <StringProperty Name="Cpostag" Type="String" Discrete="True" Start="0" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="9">
+          <item>S</item>
+          <item>Z</item>
+          <item>V</item>
+          <item>P</item>
+          <item>A</item>
+          <item>E</item>
+          <item>R</item>
+          <item>O</item>
+          <item>T</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="Postag" Type="String" Discrete="True" Start="9" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="25">
+          <item>SSNS1</item>
+          <item>Z</item>
+          <item>VMDSB</item>
+          <item>PFMS1</item>
+          <item>AAMS1Z</item>
+          <item>EU6</item>
+          <item>SSIS1</item>
+          <item>R</item>
+          <item>PFIS3</item>
+          <item>VKDSC</item>
+          <item>VLDSCI</item>
+          <item>EU2</item>
+          <item>VLESCF</item>
+          <item>SFFS1</item>
+          <item>EU7</item>
+          <item>EV7</item>
+          <item>VKESC</item>
+          <item>SSFS1R</item>
+          <item>SSFS1</item>
+          <item>VKDSA</item>
+          <item>O</item>
+          <item>VLDSCF</item>
+          <item>EU3</item>
+          <item>T</item>
+          <item>VMESB</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ParentCpos" Type="String" Discrete="True" Start="34" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="7">
+          <item>Z</item>
+          <item>V</item>
+          <item>ROOT</item>
+          <item>S</item>
+          <item>A</item>
+          <item>O</item>
+          <item>T</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="GParentCpos" Type="String" Discrete="True" Start="41" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="7">
+          <item>V</item>
+          <item>ROOT</item>
+          <item>Z</item>
+          <item>E</item>
+          <item>S</item>
+          <item>O</item>
+          <item>T</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ParentPos" Type="String" Discrete="True" Start="48" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="18">
+          <item>Z</item>
+          <item>VMDSB</item>
+          <item>ROOT</item>
+          <item>VKESC</item>
+          <item>VKDSC</item>
+          <item>VLDSCI</item>
+          <item>SSNS1</item>
+          <item>VLESCF</item>
+          <item>SSFS6</item>
+          <item>SSFS1</item>
+          <item>SSFS1R</item>
+          <item>AAFS1Z</item>
+          <item>VKDSA</item>
+          <item>O</item>
+          <item>VLDSCF</item>
+          <item>AAFS4X</item>
+          <item>VMESB</item>
+          <item>T</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="GParentPos" Type="String" Discrete="True" Start="66" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="14">
+          <item>VMDSB</item>
+          <item>ROOT</item>
+          <item>Z</item>
+          <item>VLESCF</item>
+          <item>VLDSCI</item>
+          <item>EU6</item>
+          <item>SSFS1</item>
+          <item>SSFS1R</item>
+          <item>VKESC</item>
+          <item>VKDSA</item>
+          <item>O</item>
+          <item>SSFS4</item>
+          <item>VLDSCF</item>
+          <item>T</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ChildrenPos" Type="String" Discrete="True" Start="80" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="32">
+          <item>NONE</item>
+          <item>SSNS1SSNS1</item>
+          <item>ZPPHS3VKESC</item>
+          <item>SSFS6</item>
+          <item>PUIS1</item>
+          <item>SSIS1RPFIS3SSFS7</item>
+          <item>VKDSCVLDSCI</item>
+          <item>PDRSSIS1</item>
+          <item>AAIS1XSSIP2</item>
+          <item>PFNS1EU2</item>
+          <item>SSFS2</item>
+          <item>VMDSBRSFFS1</item>
+          <item>SSFP7</item>
+          <item>EU7ZEU7EU6</item>
+          <item>SSMP7</item>
+          <item>ZZZSSFS1RZZ</item>
+          <item>SSFS1</item>
+          <item>ZAAFS1Z</item>
+          <item>SSIS6</item>
+          <item>VKESCSSIS1EU2</item>
+          <item>Z</item>
+          <item>SSNS6</item>
+          <item>RPDO</item>
+          <item>ZVKDSC</item>
+          <item>SFFS1REU2SSFS4</item>
+          <item>SSFS4</item>
+          <item>SFFS1VLDSCFVLDSCF</item>
+          <item>EU3</item>
+          <item>SSNS3</item>
+          <item>ZVMDSBSSIS1ZVMDSBZVMDSBZ</item>
+          <item>VMESB</item>
+          <item>SSIS1R</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <Property Name="f_pos" Type="F_pos" Discrete="True" Start="112" />
+      <Property Name="f_negativeness" Type="F_negativeness" Discrete="True" Start="113" />
+      <Property Name="f_number" Type="F_number" Discrete="True" Start="114" />
+      <Property Name="f_person" Type="Int32" Discrete="False" Start="115" />
+      <Property Name="f_verbform" Type="F_verbform" Discrete="True" Start="116" />
+      <Property Name="f_mood" Type="F_mood" Discrete="True" Start="117" />
+      <Property Name="f_tense" Type="F_tense" Discrete="True" Start="118" />
+      <Property Name="f_aspect" Type="F_aspect" Discrete="True" Start="119" />
+      <Property Name="f_gender" Type="F_gender" Discrete="True" Start="120" />
+      <Property Name="f_case" Type="F_case" Discrete="True" Start="121" />
+      <Property Name="f_prontype" Type="Boolean" Discrete="True" Start="122" />
+      <Property Name="f_reflex" Type="Boolean" Discrete="True" Start="123" />
+      <Property Name="f_animateness" Type="F_animateness" Discrete="True" Start="124" />
+      <Property Name="f_degree" Type="F_degree" Discrete="True" Start="125" />
+      <Property Name="f_subpos" Type="F_subpos" Discrete="True" Start="126" />
+      <Property Name="f_numform" Type="Boolean" Discrete="True" Start="127" />
+      <Property Name="f_abbr" Type="Boolean" Discrete="True" Start="128" />
+      <Property Name="f_hyph" Type="Boolean" Discrete="True" Start="129" />
+      <Property Name="f_foreign" Type="Boolean" Discrete="True" Start="130" />
+      <Property Name="f_voice" Type="F_voice" Discrete="True" Start="131" />
+      <Property Name="f_typo" Type="Boolean" Discrete="True" Start="132" />
+    </Features>
+    <Label>
+      <Property Name="IsCorrectDeprel" Type="Boolean" Discrete="True" Start="-1" />
+    </Label>
+  </Descriptor>
+  <Node Leaf="false" Value="0" Column="70" Name="VLDSCI" Gain="0.16471376551226646">
+    <Edges>
+      <Edge Min="0" Max="0" Discrete="true" Label="0">
+        <Child Leaf="false" Value="0" Column="73" Name="SSFS1R" Gain="0.20207037886186771">
+          <Edges>
+            <Edge Min="0" Max="0" Discrete="true" Label="0">
+              <Child Leaf="false" Value="0" Column="27" Name="SSFS1" Gain="0.13858059839065021">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="false" Value="0" Column="99" Name="VKESCSSIS1EU2" Gain="0.17302725925828905">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="false" Value="0" Column="25" Name="VKESC" Gain="0.11143807439864578">
+                            <Edges>
+                              <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                <Child Leaf="false" Value="0" Column="34" Name="Z" Gain="0.13153395360608208">
+                                  <Edges>
+                                    <Edge Min="0" Max="0" Discrete="true" Label="0">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                    <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                      <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                                    </Edge>
+                                  </Edges>
+                                </Child>
+                              </Edge>
+                              <Edge Min="1" Max="1" Discrete="true" Label="1">
+                                <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                              </Edge>
+                            </Edges>
+                          </Child>
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="1" Max="1" Discrete="true" Label="1">
+              <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+            </Edge>
+          </Edges>
+        </Child>
+      </Edge>
+      <Edge Min="1" Max="1" Discrete="true" Label="1">
+        <Child Leaf="false" Value="0" Column="0" Name="S" Gain="0.21419396448413941">
+          <Edges>
+            <Edge Min="0" Max="0" Discrete="true" Label="0">
+              <Child Leaf="false" Value="0" Column="35" Name="V" Gain="0.19087450462110944">
+                <Edges>
+                  <Edge Min="0" Max="0" Discrete="true" Label="0">
+                    <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+                  </Edge>
+                  <Edge Min="1" Max="1" Discrete="true" Label="1">
+                    <Child Leaf="false" Value="0" Column="80" Name="NONE" Gain="0.17606518336876081">
+                      <Edges>
+                        <Edge Min="0" Max="0" Discrete="true" Label="0">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                        <Edge Min="1" Max="1" Discrete="true" Label="1">
+                          <Child Leaf="true" Value="1" Column="0" Gain="0" />
+                        </Edge>
+                      </Edges>
+                    </Child>
+                  </Edge>
+                </Edges>
+              </Child>
+            </Edge>
+            <Edge Min="1" Max="1" Discrete="true" Label="1">
+              <Child Leaf="true" Value="-1" Column="0" Gain="0" />
+            </Edge>
+          </Edges>
+        </Child>
+      </Edge>
+    </Edges>
+  </Node>
+</DecisionTreeModel>

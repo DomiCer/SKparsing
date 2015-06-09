@@ -1,0 +1,6 @@
+LAS: 48.06 %
+UAS: 59.84 %
+LA: 58.06 %
+
+koef. 0
+neberieme do uvahy urceny deprel, ani rodicovsky deprel

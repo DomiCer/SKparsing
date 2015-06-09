@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<DecisionTreeModel Hint="4.94065645841247E-324">
+  <Descriptor Type="Token" Name="">
+    <Features Length="28">
+      <StringProperty Name="Cpostag" Type="String" Discrete="True" Start="0" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="3">
+          <item>S</item>
+          <item>P</item>
+          <item>D</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="Postag" Type="String" Discrete="True" Start="3" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="7">
+          <item>SSFS6</item>
+          <item>SSFS7</item>
+          <item>PD</item>
+          <item>SSFP7</item>
+          <item>SSFS2</item>
+          <item>DX</item>
+          <item>SSNS3</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ParentCpos" Type="String" Discrete="True" Start="10" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="2">
+          <item>E</item>
+          <item>V</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="GParentCpos" Type="String" Discrete="True" Start="12" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="5">
+          <item>V</item>
+          <item>Z</item>
+          <item>S</item>
+          <item>ROOT</item>
+          <item>A</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ParentPos" Type="String" Discrete="True" Start="17" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="8">
+          <item>EU6</item>
+          <item>VKDSC</item>
+          <item>VLDSCI</item>
+          <item>EU7</item>
+          <item>EU2</item>
+          <item>VKESC</item>
+          <item>VKDSA</item>
+          <item>EU3</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="GParentPos" Type="String" Discrete="True" Start="25" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="7">
+          <item>VKESC</item>
+          <item>Z</item>
+          <item>VLDSCI</item>
+          <item>SSFS1R</item>
+          <item>ROOT</item>
+          <item>VLDSCF</item>
+          <item>AAFS4X</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <StringProperty Name="ChildrenPos" Type="String" Discrete="True" Start="32" Separator=" " SplitType="Word" AsEnum="False">
+        <Dictionary Length="5">
+          <item>PFFS6</item>
+          <item>NONE</item>
+          <item>NUFP7</item>
+          <item>EV7</item>
+          <item>AANS3X</item>
+        </Dictionary>
+        <Exclude Length="0" />
+      </StringProperty>
+      <Property Name="f_pos" Type="F_pos" Discrete="True" Start="37" />
+      <Property Name="f_negativeness" Type="F_negativeness" Discrete="True" Start="38" />
+      <Property Name="f_number" Type="F_number" Discrete="True" Start="39" />
+      <Property Name="f_person" Type="Int32" Discrete="False" Start="40" />
+      <Property Name="f_verbform" Type="F_verbform" Discrete="True" Start="41" />
+      <Property Name="f_mood" Type="F_mood" Discrete="True" Start="42" />
+      <Property Name="f_tense" Type="F_tense" Discrete="True" Start="43" />
+      <Property Name="f_aspect" Type="F_aspect" Discrete="True" Start="44" />
+      <Property Name="f_gender" Type="F_gender" Discrete="True" Start="45" />
+      <Property Name="f_case" Type="F_case" Discrete="True" Start="46" />
+      <Property Name="f_prontype" Type="Boolean" Discrete="True" Start="47" />
+      <Property Name="f_reflex" Type="Boolean" Discrete="True" Start="48" />
+      <Property Name="f_animateness" Type="F_animateness" Discrete="True" Start="49" />
+      <Property Name="f_degree" Type="F_degree" Discrete="True" Start="50" />
+      <Property Name="f_subpos" Type="F_subpos" Discrete="True" Start="51" />
+      <Property Name="f_numform" Type="Boolean" Discrete="True" Start="52" />
+      <Property Name="f_abbr" Type="Boolean" Discrete="True" Start="53" />
+      <Property Name="f_hyph" Type="Boolean" Discrete="True" Start="54" />
+      <Property Name="f_foreign" Type="Boolean" Discrete="True" Start="55" />
+      <Property Name="f_voice" Type="F_voice" Discrete="True" Start="56" />
+      <Property Name="f_typo" Type="Boolean" Discrete="True" Start="57" />
+    </Features>
+    <Label>
+      <Property Name="IsCorrectDeprel" Type="Boolean" Discrete="True" Start="-1" />
+    </Label>
+  </Descriptor>
+  <Node Leaf="true" Value="1" Column="0" Gain="0" />
+</DecisionTreeModel>

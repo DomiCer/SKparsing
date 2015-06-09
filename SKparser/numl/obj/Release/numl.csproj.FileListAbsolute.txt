@@ -1,0 +1,5 @@
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\numl\bin\Release\numl.xml
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\numl\bin\Release\numl.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\numl\bin\Release\numl.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\numl\obj\Release\numl.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\numl\obj\Release\numl.pdb

@@ -1,0 +1,8 @@
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\bin\Debug\Infrastructure.dll
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\bin\Debug\Infrastructure.pdb
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\bin\Debug\numl.dll
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\bin\Debug\numl.pdb
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\bin\Debug\numl.xml
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\obj\Debug\Infrastructure.dll
+c:\users\domi\documents\visual studio 2012\Projects\NumlSample\Infrastructure\obj\Debug\Infrastructure.pdb

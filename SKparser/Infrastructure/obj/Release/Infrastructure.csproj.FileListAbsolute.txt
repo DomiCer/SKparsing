@@ -1,0 +1,8 @@
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\bin\Release\Infrastructure.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\bin\Release\Infrastructure.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\bin\Release\numl.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\bin\Release\numl.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\bin\Release\numl.xml
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\obj\Release\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\obj\Release\Infrastructure.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\Infrastructure\obj\Release\Infrastructure.pdb

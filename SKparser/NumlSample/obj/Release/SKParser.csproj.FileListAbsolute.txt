@@ -1,0 +1,15 @@
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\App.config
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\Infrastructure.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\numl.dll
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\Infrastructure.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\numl.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\numl.xml
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\obj\Release\SKParser.csprojResolveAssemblyReference.cache
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\SKParser.exe.config
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\SKParser.exe
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\bin\Release\SKParser.pdb
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\obj\Release\SKParser.exe
+C:\Users\Domi\Documents\Visual Studio 2012\Projects\NumlSample\NumlSample\obj\Release\SKParser.pdb
+C:\Users\Domi\Documents\GitHub\SKparsing\SKparser\NumlSample\bin\Release\SKParser.exe.config
+C:\Users\Domi\Documents\GitHub\SKparsing\SKparser\NumlSample\obj\Release\SKParser.exe
+C:\Users\Domi\Documents\GitHub\SKparsing\SKparser\NumlSample\obj\Release\SKParser.pdb

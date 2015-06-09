@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+ <head>
+  <schema href="adata_schema.xml" />
+  <references>
+   <reffile id="m" href="000-snehulienka_olejkarova_dok.m" name="mdata" />
+   <reffile id="w" href="000-snehulienka_olejkarova_dok.w" name="wdata" />
+  </references>
+ </head>
+ <trees>
+  <LM id="a-000.snehulienka-p1s1">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p1s1</s.rf>
+   <children id="a-000.snehulienka-p1s1w2">
+    <m.rf>m#m-000.snehulienka-p1s1w2</m.rf>
+    <ord>2</ord>
+    <children>
+     <LM id="a-000.snehulienka-p1s1w1">
+      <is_member>1</is_member>
+      <m.rf>m#m-000.snehulienka-p1s1w1</m.rf>
+      <ord>1</ord>
+      <afun>ExD</afun>
+     </LM>
+     <LM id="a-000.snehulienka-p1s1w3">
+      <is_member>1</is_member>
+      <m.rf>m#m-000.snehulienka-p1s1w3</m.rf>
+      <ord>3</ord>
+      <afun>ExD</afun>
+     </LM>
+    </children>
+    <afun>Coord</afun>
+   </children>
+  </LM>
+  <LM id="a-000.snehulienka-p2s1">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p2s1</s.rf>
+   <children>
+    <LM id="a-000.snehulienka-p2s1w4">
+     <m.rf>m#m-000.snehulienka-p2s1w4</m.rf>
+     <ord>4</ord>
+     <children>
+      <LM id="a-000.snehulienka-p2s1w2">
+       <m.rf>m#m-000.snehulienka-p2s1w2</m.rf>
+       <ord>2</ord>
+       <children>
+        <LM id="a-000.snehulienka-p2s1w1">
+         <is_member>1</is_member>
+         <m.rf>m#m-000.snehulienka-p2s1w1</m.rf>
+         <ord>1</ord>
+         <is_parenthesis_root>1</is_parenthesis_root>
+         <afun>ExD</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p2s1w3">
+         <is_member>1</is_member>
+         <m.rf>m#m-000.snehulienka-p2s1w3</m.rf>
+         <ord>3</ord>
+         <is_parenthesis_root>1</is_parenthesis_root>
+         <afun>ExD</afun>
+        </LM>
+       </children>
+       <afun>Coord</afun>
+      </LM>
+      <LM id="a-000.snehulienka-p2s1w5">
+       <m.rf>m#m-000.snehulienka-p2s1w5</m.rf>
+       <ord>5</ord>
+       <afun>Obj</afun>
+      </LM>
+      <LM id="a-000.snehulienka-p2s1w8">
+       <m.rf>m#m-000.snehulienka-p2s1w8</m.rf>
+       <ord>8</ord>
+       <children>
+        <LM id="a-000.snehulienka-p2s1w6">
+         <m.rf>m#m-000.snehulienka-p2s1w6</m.rf>
+         <ord>6</ord>
+         <afun>AuxX</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p2s1w7">
+         <m.rf>m#m-000.snehulienka-p2s1w7</m.rf>
+         <ord>7</ord>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p2s1w9">
+         <m.rf>m#m-000.snehulienka-p2s1w9</m.rf>
+         <ord>9</ord>
+         <afun>Pnom</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p2s1w10">
+         <m.rf>m#m-000.snehulienka-p2s1w10</m.rf>
+         <ord>10</ord>
+         <children id="a-000.snehulienka-p2s1w12">
+          <m.rf>m#m-000.snehulienka-p2s1w12</m.rf>
+          <ord>12</ord>
+          <children id="a-000.snehulienka-p2s1w11">
+           <m.rf>m#m-000.snehulienka-p2s1w11</m.rf>
+           <ord>11</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Adv</afun>
+         </children>
+         <afun>AuxP</afun>
+        </LM>
+       </children>
+       <afun>Obj</afun>
+      </LM>
+     </children>
+     <afun>Pred</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p2s1w13">
+     <m.rf>m#m-000.snehulienka-p2s1w13</m.rf>
+     <ord>13</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-000.snehulienka-p3s1">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p3s1</s.rf>
+   <children>
+    <LM id="a-000.snehulienka-p3s1w1">
+     <m.rf>m#m-000.snehulienka-p3s1w1</m.rf>
+     <ord>1</ord>
+     <children id="a-000.snehulienka-p3s1w10">
+      <m.rf>m#m-000.snehulienka-p3s1w10</m.rf>
+      <ord>10</ord>
+      <children>
+       <LM id="a-000.snehulienka-p3s1w2">
+        <is_member>1</is_member>
+        <m.rf>m#m-000.snehulienka-p3s1w2</m.rf>
+        <ord>2</ord>
+        <children id="a-000.snehulienka-p3s1w4">
+         <m.rf>m#m-000.snehulienka-p3s1w4</m.rf>
+         <ord>4</ord>
+         <children>
+          <LM id="a-000.snehulienka-p3s1w3">
+           <m.rf>m#m-000.snehulienka-p3s1w3</m.rf>
+           <ord>3</ord>
+           <afun>AuxX</afun>
+          </LM>
+          <LM id="a-000.snehulienka-p3s1w6">
+           <m.rf>m#m-000.snehulienka-p3s1w6</m.rf>
+           <ord>6</ord>
+           <children>
+            <LM id="a-000.snehulienka-p3s1w5">
+             <m.rf>m#m-000.snehulienka-p3s1w5</m.rf>
+             <ord>5</ord>
+             <afun>Sb</afun>
+            </LM>
+            <LM id="a-000.snehulienka-p3s1w7">
+             <m.rf>m#m-000.snehulienka-p3s1w7</m.rf>
+             <ord>7</ord>
+             <afun>Pnom</afun>
+            </LM>
+            <LM id="a-000.snehulienka-p3s1w8">
+             <m.rf>m#m-000.snehulienka-p3s1w8</m.rf>
+             <ord>8</ord>
+             <afun>Adv</afun>
+            </LM>
+           </children>
+           <afun>Obj</afun>
+          </LM>
+         </children>
+         <afun>AuxC</afun>
+        </children>
+        <afun>Pred</afun>
+       </LM>
+       <LM id="a-000.snehulienka-p3s1w9">
+        <m.rf>m#m-000.snehulienka-p3s1w9</m.rf>
+        <ord>9</ord>
+        <afun>AuxX</afun>
+       </LM>
+       <LM id="a-000.snehulienka-p3s1w17">
+        <is_member>1</is_member>
+        <m.rf>m#m-000.snehulienka-p3s1w17</m.rf>
+        <ord>17</ord>
+        <children>
+         <LM id="a-000.snehulienka-p3s1w11">
+          <m.rf>m#m-000.snehulienka-p3s1w11</m.rf>
+          <ord>11</ord>
+          <children id="a-000.snehulienka-p3s1w12">
+           <m.rf>m#m-000.snehulienka-p3s1w12</m.rf>
+           <ord>12</ord>
+           <children id="a-000.snehulienka-p3s1w13">
+            <m.rf>m#m-000.snehulienka-p3s1w13</m.rf>
+            <ord>13</ord>
+            <children id="a-000.snehulienka-p3s1w14">
+             <m.rf>m#m-000.snehulienka-p3s1w14</m.rf>
+             <ord>14</ord>
+             <afun>Atr</afun>
+            </children>
+            <afun>AuxP</afun>
+           </children>
+           <afun>Adv</afun>
+          </children>
+          <afun>AuxP</afun>
+         </LM>
+         <LM id="a-000.snehulienka-p3s1w15">
+          <m.rf>m#m-000.snehulienka-p3s1w15</m.rf>
+          <ord>15</ord>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-000.snehulienka-p3s1w16">
+          <m.rf>m#m-000.snehulienka-p3s1w16</m.rf>
+          <ord>16</ord>
+          <afun>AuxZ</afun>
+         </LM>
+        </children>
+        <afun>Pred</afun>
+       </LM>
+      </children>
+      <afun>Coord</afun>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p3s1w18">
+     <m.rf>m#m-000.snehulienka-p3s1w18</m.rf>
+     <ord>18</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-000.snehulienka-p4s1">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p4s1</s.rf>
+   <children>
+    <LM id="a-000.snehulienka-p4s1w7">
+     <m.rf>m#m-000.snehulienka-p4s1w7</m.rf>
+     <ord>7</ord>
+     <children>
+      <LM id="a-000.snehulienka-p4s1w5">
+       <is_member>1</is_member>
+       <m.rf>m#m-000.snehulienka-p4s1w5</m.rf>
+       <ord>5</ord>
+       <children>
+        <LM id="a-000.snehulienka-p4s1w2">
+         <m.rf>m#m-000.snehulienka-p4s1w2</m.rf>
+         <ord>2</ord>
+         <children id="a-000.snehulienka-p4s1w1">
+          <m.rf>m#m-000.snehulienka-p4s1w1</m.rf>
+          <ord>1</ord>
+          <afun>Atr</afun>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p4s1w3">
+         <m.rf>m#m-000.snehulienka-p4s1w3</m.rf>
+         <ord>3</ord>
+         <afun>AuxT</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p4s1w4">
+         <m.rf>m#m-000.snehulienka-p4s1w4</m.rf>
+         <ord>4</ord>
+         <afun>ExD</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p4s1w6">
+         <m.rf>m#m-000.snehulienka-p4s1w6</m.rf>
+         <ord>6</ord>
+         <afun>Adv</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-000.snehulienka-p4s1w10">
+       <is_member>1</is_member>
+       <m.rf>m#m-000.snehulienka-p4s1w10</m.rf>
+       <ord>10</ord>
+       <children>
+        <LM id="a-000.snehulienka-p4s1w8">
+         <m.rf>m#m-000.snehulienka-p4s1w8</m.rf>
+         <ord>8</ord>
+         <afun>Adv</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p4s1w9">
+         <m.rf>m#m-000.snehulienka-p4s1w9</m.rf>
+         <ord>9</ord>
+         <afun>AuxT</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p4s1w12">
+         <m.rf>m#m-000.snehulienka-p4s1w12</m.rf>
+         <ord>12</ord>
+         <children>
+          <LM id="a-000.snehulienka-p4s1w11">
+           <m.rf>m#m-000.snehulienka-p4s1w11</m.rf>
+           <ord>11</ord>
+           <afun>Atr</afun>
+          </LM>
+          <LM id="a-000.snehulienka-p4s1w14">
+           <m.rf>m#m-000.snehulienka-p4s1w14</m.rf>
+           <ord>14</ord>
+           <children id="a-000.snehulienka-p4s1w13">
+            <m.rf>m#m-000.snehulienka-p4s1w13</m.rf>
+            <ord>13</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>Atr</afun>
+          </LM>
+         </children>
+         <afun>Sb</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p4s1w15">
+     <m.rf>m#m-000.snehulienka-p4s1w15</m.rf>
+     <ord>15</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-000.snehulienka-p5s1">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p5s1</s.rf>
+   <children>
+    <LM id="a-000.snehulienka-p5s1w8">
+     <m.rf>m#m-000.snehulienka-p5s1w8</m.rf>
+     <ord>8</ord>
+     <children>
+      <LM id="a-000.snehulienka-p5s1w1">
+       <is_member>1</is_member>
+       <m.rf>m#m-000.snehulienka-p5s1w1</m.rf>
+       <ord>1</ord>
+       <children id="a-000.snehulienka-p5s1w4">
+        <m.rf>m#m-000.snehulienka-p5s1w4</m.rf>
+        <ord>4</ord>
+        <children>
+         <LM id="a-000.snehulienka-p5s1w3">
+          <is_member>1</is_member>
+          <m.rf>m#m-000.snehulienka-p5s1w3</m.rf>
+          <ord>3</ord>
+          <children id="a-000.snehulienka-p5s1w2">
+           <m.rf>m#m-000.snehulienka-p5s1w2</m.rf>
+           <ord>2</ord>
+           <afun>Atr</afun>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+         <LM id="a-000.snehulienka-p5s1w5">
+          <is_member>1</is_member>
+          <m.rf>m#m-000.snehulienka-p5s1w5</m.rf>
+          <ord>5</ord>
+          <children id="a-000.snehulienka-p5s1w6">
+           <m.rf>m#m-000.snehulienka-p5s1w6</m.rf>
+           <ord>6</ord>
+           <children id="a-000.snehulienka-p5s1w7">
+            <m.rf>m#m-000.snehulienka-p5s1w7</m.rf>
+            <ord>7</ord>
+            <afun>Atr</afun>
+           </children>
+           <afun>AuxP</afun>
+          </children>
+          <afun>Obj</afun>
+         </LM>
+        </children>
+        <afun>Coord</afun>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+      <LM id="a-000.snehulienka-p5s1w15">
+       <is_member>1</is_member>
+       <m.rf>m#m-000.snehulienka-p5s1w15</m.rf>
+       <ord>15</ord>
+       <children>
+        <LM id="a-000.snehulienka-p5s1w9">
+         <m.rf>m#m-000.snehulienka-p5s1w9</m.rf>
+         <ord>9</ord>
+         <afun>AuxY</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p5s1w11">
+         <m.rf>m#m-000.snehulienka-p5s1w11</m.rf>
+         <ord>11</ord>
+         <children>
+          <LM id="a-000.snehulienka-p5s1w10">
+           <m.rf>m#m-000.snehulienka-p5s1w10</m.rf>
+           <ord>10</ord>
+           <afun>AuxZ</afun>
+          </LM>
+          <LM id="a-000.snehulienka-p5s1w12">
+           <m.rf>m#m-000.snehulienka-p5s1w12</m.rf>
+           <ord>12</ord>
+           <afun>Adv</afun>
+          </LM>
+         </children>
+         <afun>AuxP</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p5s1w13">
+         <m.rf>m#m-000.snehulienka-p5s1w13</m.rf>
+         <ord>13</ord>
+         <afun>Obj</afun>
+        </LM>
+        <LM id="a-000.snehulienka-p5s1w14">
+         <m.rf>m#m-000.snehulienka-p5s1w14</m.rf>
+         <ord>14</ord>
+         <afun>Sb</afun>
+        </LM>
+       </children>
+       <afun>Pred</afun>
+      </LM>
+     </children>
+     <afun>Coord</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p5s1w16">
+     <m.rf>m#m-000.snehulienka-p5s1w16</m.rf>
+     <ord>16</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-000.snehulienka-p6s1">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p6s1</s.rf>
+   <children>
+    <LM id="a-000.snehulienka-p6s1w1">
+     <m.rf>m#m-000.snehulienka-p6s1w1</m.rf>
+     <ord>1</ord>
+     <afun>ExD</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p6s1w2">
+     <m.rf>m#m-000.snehulienka-p6s1w2</m.rf>
+     <ord>2</ord>
+     <afun>ExD</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p6s1w3">
+     <m.rf>m#m-000.snehulienka-p6s1w3</m.rf>
+     <ord>3</ord>
+     <afun>ExD</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p6s1w4">
+     <m.rf>m#m-000.snehulienka-p6s1w4</m.rf>
+     <ord>4</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+  <LM id="a-000.snehulienka-p6s2">
+   <ord>0</ord>
+   <s.rf>m#m-000.snehulienka-p6s2</s.rf>
+   <children>
+    <LM id="a-000.snehulienka-p6s2w2">
+     <m.rf>m#m-000.snehulienka-p6s2w2</m.rf>
+     <ord>2</ord>
+     <children>
+      <LM id="a-000.snehulienka-p6s2w1">
+       <m.rf>m#m-000.snehulienka-p6s2w1</m.rf>
+       <ord>1</ord>
+       <afun>Atr</afun>
+      </LM>
+      <LM id="a-000.snehulienka-p6s2w3">
+       <m.rf>m#m-000.snehulienka-p6s2w3</m.rf>
+       <ord>3</ord>
+       <children id="a-000.snehulienka-p6s2w4">
+        <m.rf>m#m-000.snehulienka-p6s2w4</m.rf>
+        <ord>4</ord>
+        <afun>Atr</afun>
+       </children>
+       <afun>AuxP</afun>
+      </LM>
+     </children>
+     <afun>ExD</afun>
+    </LM>
+    <LM id="a-000.snehulienka-p6s2w5">
+     <m.rf>m#m-000.snehulienka-p6s2w5</m.rf>
+     <ord>5</ord>
+     <afun>AuxK</afun>
+    </LM>
+   </children>
+  </LM>
+ </trees>
+</adata>

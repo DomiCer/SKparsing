@@ -1,0 +1,7 @@
+LAS: 48.04 %
+UAS: 59.84 %
+LA: 58.15 %
+
+
+0 koeficient
+neberiem do uvahy rozdelene feats
